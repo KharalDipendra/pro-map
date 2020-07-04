@@ -1,0 +1,359 @@
+[
+  {
+    "loc": "Route 3",
+    "pokes": ["Geodude", "Rhyhorn", "Aron"],
+    "items": [
+      "Bug Gem",
+      "Nugget",
+      "Hyper Potion",
+      "Pokeball",
+      "Sun Stone",
+      "Hard Stone",
+      "Leftovers",
+      "Iron",
+      "Old Amber",
+      "Helix Fossil",
+      "Pixie Plate"
+    ]
+  },
+  {
+    "loc": "Mt. Moon 1F",
+    "pokes": ["Geodude", "Rhyhorn", "Honedge"],
+    "items": [
+      "Dark Gem",
+      "Stardust",
+      "Rare Candy",
+      "Pokeball",
+      "Hard Stone",
+      "Moon Stone",
+      "Sun Stone",
+      "Carbos",
+      "Old Amber",
+      "Helix Fossil",
+      "Draco Plate"
+    ]
+  },
+  {
+    "loc": "Mt. Moon B2F",
+    "pokes": ["Onix", "Stunfisk", "Larvitar"],
+    "items": [
+      "Dragon Gem",
+      "Rare Candy",
+      "Revive",
+      "Pokeball",
+      "Moon Stone",
+      "Moon Ball",
+      "Net Ball",
+      "Iron",
+      "Old Amber",
+      "Helix Fossil",
+      "Dread Plate"
+    ]
+  },
+  {
+    "loc": "Rock Tunnel 1",
+    "pokes": ["Diglett", "Graveler", "Baltoy"],
+    "items": [
+      "Electric Gem",
+      "Nugget",
+      "Rare Candy",
+      "Pokeball",
+      "Level Ball",
+      "Net Ball",
+      "Moon Ball",
+      "Carbos",
+      "Old Amber",
+      "Helix Fossil",
+      "Earth Plate"
+    ]
+  },
+  {
+    "loc": "Rock Tunnel 2",
+    "pokes": ["Bronzor", "Baltoy", "Aron"],
+    "items": [
+      "Fairy Gem",
+      "Star Piece",
+      "Revive",
+      "Pokeball",
+      "Hard Stone",
+      "Moon Stone",
+      "Leftovers",
+      "Iron",
+      "Dome Fossil",
+      "Helix Fossil",
+      "Fist Plate"
+    ]
+  },
+  {
+    "loc": "Route 14",
+    "pokes": ["Geodude", "Graveler", "Trapinch"],
+    "items": [
+      "Fighting Gem",
+      "Potion",
+      "Fresh Water",
+      "Pokeball",
+      "Dawn Stone",
+      "Sun Stone",
+      "Level Ball",
+      "Carbos",
+      "Helix Fossil",
+      "Dome Fossil",
+      "Sky Plate"
+    ]
+  },
+  {
+    "loc": "Route 15",
+    "pokes": ["Geodude", "Onix", "Bronzor"],
+    "items": [
+      "Fire Gem",
+      "Max Revive",
+      "Super Potion",
+      "Pokeball",
+      "Reaper Cloth",
+      "Level Ball",
+      "Nest Ball",
+      "Calcium",
+      "Helix Fossil",
+      "Dome Fossil",
+      "Flame Plate"
+    ]
+  },
+  {
+    "loc": "Digletts Cave",
+    "pokes": ["Diglett", "Dugtrio", "Drillbur"],
+    "items": [
+      "Flying Gem",
+      "Star Piece",
+      "Fresh Water",
+      "Pokeball",
+      "Fast Ball",
+      "Dusk Stone",
+      "Reaper Cloth",
+      "Protein",
+      "Helix Fossil",
+      "Dome Fossil",
+      "Icicle Plate"
+    ]
+  },
+  {
+    "loc": "Slowpoke Well",
+    "pokes": ["Geodude", "Stunfisk", "Roggenrola"],
+    "items": [
+      "Ghost Gem",
+      "Nugget",
+      "Soda Pop",
+      "Pokeball",
+      "Fast Ball",
+      "Nest Ball",
+      "Leftovers",
+      "Calcium",
+      "Root Fossil",
+      "Claw Fossil",
+      "Insect Plate"
+    ]
+  },
+  {
+    "loc": "Slowpoke Well L1",
+    "pokes": ["Geodude", "Phanpy", "Hippopotas"],
+    "items": [
+      "Grass Gem",
+      "Potion",
+      "Paralyze Heal",
+      "Pokeball",
+      "Leftovers",
+      "Dusk Stone",
+      "Friend Ball",
+      "Protein",
+      "Root Fossil",
+      "Claw Fossil",
+      "Iron Plate"
+    ]
+  },
+  {
+    "loc": "Dark Cave South",
+    "pokes": ["Onix", "Nosepass", "Honedge"],
+    "items": [
+      "Ground Gem",
+      "Soda Pop",
+      "Paralyze Heal",
+      "Pokeball",
+      "Reaper Cloth",
+      "Leftovers",
+      "Lure Ball",
+      "Calcium",
+      "Root Fossil",
+      "Claw Fossil",
+      "Meadow Plate"
+    ]
+  },
+  {
+    "loc": "Mt. Mortar",
+    "pokes": ["Geodude", "Stunfisk", "Drillbur"],
+    "items": [
+      "Ice Gem",
+      "Stardust",
+      "Max Revive",
+      "Pokeball",
+      "Lure Ball",
+      "Sun Stone",
+      "Dawn Stone",
+      "Protein",
+      "Root Fossil",
+      "Claw Fossil",
+      "Splash Plate"
+    ]
+  },
+  {
+    "loc": "Maniac Tunnel",
+    "pokes": ["Onix", "Phanpy", "Larvitar"],
+    "items": [
+      "Normal Gem",
+      "Ether",
+      "Antidote",
+      "Pokeball",
+      "Ultra Ball",
+      "Friend Ball",
+      "Reaper Cloth",
+      "Zinc",
+      "Jaw Fossil",
+      "Sail Fossil",
+      "Spooky Plate"
+    ]
+  },
+  {
+    "loc": "Mt. Coronet Summit",
+    "pokes": ["Graveler", "Baltoy", "Drillbur"],
+    "items": [
+      "Poison Gem",
+      "Antidote",
+      "Ice Heal",
+      "Pokeball",
+      "Everstone",
+      "Leftovers",
+      "Soft Sand",
+      "Zinc",
+      "Jaw Fossil",
+      "Sail Fossil",
+      "Stone Plate"
+    ]
+  },
+  {
+    "loc": "Oreburgh Gate B1F",
+    "pokes": ["Stunfisk", "Nosepass", "Roggenrola"],
+    "items": [
+      "Psychic Gem",
+      "Elixir",
+      "Ice Heal",
+      "Pokeball",
+      "Dawn Stone",
+      "Ultra Ball",
+      "Net Ball",
+      "PP Up",
+      "Jaw Fossil",
+      "Sail Fossil",
+      "Toxic Plate"
+    ]
+  },
+  {
+    "loc": "Ravaged Path",
+    "pokes": ["Sandshrew", "Phanpy", "Aron"],
+    "items": [
+      "Rock Gem",
+      "Stardust",
+      "Burn Heal",
+      "Pokeball",
+      "Dusk Stone",
+      "Soft Sand",
+      "Net Ball",
+      "HP Up",
+      "Jaw Fossil",
+      "Sail Fossil",
+      "Zap Plate"
+    ]
+  },
+  {
+    "loc": "Route 209",
+    "pokes": ["Sandshrew", "Nosepass", "Trapinch"],
+    "items": [
+      "Steel Gem",
+      "Nugget",
+      "Burn Heal",
+      "Pokeball",
+      "Everstone",
+      "Great Ball",
+      "Repeat Ball",
+      "PP Up",
+      "Jaw Fossil",
+      "Sail Fossil",
+      "Mind Plate"
+    ]
+  },
+  {
+    "loc": "Route 210 North",
+    "pokes": ["Sandshrew", "Phanpy", "Hippopotas"],
+    "items": [
+      "Water Gem",
+      "Elixir",
+      "Awakening",
+      "Pokeball",
+      "Oval Stone",
+      "Dawn Stone",
+      "Soft Sand",
+      "PP Max",
+      "Jaw Fossil",
+      "Sail Fossil",
+      "Big Nugget"
+    ]
+  },
+  {
+    "loc": "Route 211",
+    "pokes": ["Graveler", "Baltoy", "Honedge"],
+    "items": [
+      "Rare Candy",
+      "Full Heal",
+      "Full Restore",
+      "Pokeball",
+      "Oval Stone",
+      "Great Ball",
+      "Repeat Ball",
+      "PP Max",
+      "Jaw Fossil",
+      "Sail Fossil",
+      "Macho Brace"
+    ]
+  },
+  {
+    "loc": "Sevii Island 6",
+    "pokes": ["Diglett", "Trapinch", "Roggenrola"],
+    "items": [
+      "Rare Candy",
+      "Full Restore",
+      "Full Heal",
+      "Pokeball",
+      "Everstone",
+      "Oval Stone",
+      "Lure Ball",
+      "HP Up",
+      "Root Fossil",
+      "Sail Fossil",
+      "Macho Brace"
+    ]
+  },
+  {
+    "loc": "Sevii Island 7",
+    "pokes": ["Graveler", "Baltoy", "Larvitar"],
+    "items": [
+      "Rare Candy",
+      "Ice Heal",
+      "Paralyze Heal",
+      "Pokeball",
+      "Everstone",
+      "Repeat Ball",
+      "Dawn Stone",
+      "PP Max",
+      "Sail Fossil",
+      "Helix Fossil",
+      "Big Nugget"
+    ]
+  }
+]

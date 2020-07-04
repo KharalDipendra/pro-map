@@ -1,0 +1,667 @@
+[
+  {
+    "name": "download",
+    "url": "https://pokemonrevolution.net/download",
+    "desc": "Link redirecting to PRO Site's Download page."
+  },
+  {
+    "name": "map",
+    "url": "https://promap.djdev.tech",
+    "desc": "PRO Map - Spawn Explorer"
+  },
+  {
+    "name": "gamerules",
+    "url": "https://tinyurl.com/PROForumRules",
+    "desc": "PRO's Game Rules."
+  },
+  {
+    "name": "discordguide",
+    "url": "https://tinyurl.com/Guide-to-PRODiscord",
+    "desc": "A guide to PRO Discord."
+  },
+  {
+    "name": "howtoreport",
+    "url": "https://tinyurl.com/PROHowToReport",
+    "desc": "A guide to how to report someone."
+  },
+  {
+    "name": "forums",
+    "url": "https://pokemonrevolution.net/forum/index.php",
+    "desc": "Redirects to PRO's Forums."
+  },
+  {
+    "name": "site",
+    "url": "https://pokemonrevolution.net/",
+    "desc": "Redirects to PRO's Website."
+  },
+  {
+    "name": "wiki",
+    "url": "https://prowiki.info/index.php?title=Main_Page",
+    "desc": "Redirects to PRO's Wiki"
+  },
+  {
+    "name": "quest/cresselia",
+    "url": "https://tinyurl.com/PRO-CresseliaQuest",
+    "desc": "Guide to PRO's Cresselia Quest."
+  },
+  {
+    "name": "quest/forcesofnature",
+    "url": "https://tinyurl.com/PROforceofnature",
+    "desc": "Guide to PRO's Forces of Nature Quest."
+  },
+  {
+    "name": "gen7",
+    "url": "https://tinyurl.com/WOWGen7",
+    "desc": "Guide to PRO's Generation 7 Mechanics."
+  },
+  {
+    "name": "quest/regis",
+    "url": "https://tinyurl.com/newproregi",
+    "desc": "Guide to how to get one of Regis in PRO."
+  },
+  {
+    "name": "itemrecycle",
+    "url": "https://tinyurl.com/PRO-item-recycling",
+    "desc": "Guide to PRO Item Recycling."
+  },
+  {
+    "name": "quest/kyurem",
+    "url": "https://tinyurl.com/prokyuremquest",
+    "desc": "Guide to PRO's Kyurem Quest."
+  },
+  {
+    "name": "quest/birds",
+    "url": "https://tinyurl.com/PRO-Legendary-Birds",
+    "desc": "Guide to PRO's Ledendary Birds Quest."
+  },
+  {
+    "name": "sinnohunderground",
+    "url": "https://tinyurl.com/PRO-Sinnoh-Underground",
+    "desc": "Guide to Sinnoh Underground."
+  },
+  {
+    "name": "quest/trainervalley",
+    "url": "https://tinyurl.com/newpro-trainersvalley",
+    "desc": "Guide to Trainer's Valley Quest."
+  },
+  {
+    "name": "trickhouse",
+    "url": "https://tinyurl.com/PRO-TrickHouse",
+    "desc": "PRO Trick House."
+  },
+  {
+    "name": "worldquest",
+    "url": "https://tinyurl.com/PROWorldQuest",
+    "desc": "Guide to PRO's World Quest."
+  },
+  {
+    "name": "appeal",
+    "url": "https://tinyurl.com/newproappeal",
+    "desc": "Make a appeal."
+  },
+  {
+    "name": "dash",
+    "url": "https://pokemonrevolution.net/dashboard/",
+    "desc": "Redirects to PRO's Dashboard"
+  },
+  {
+    "name": "donationissues",
+    "url": "https://tinyurl.com/PRODonationIssues",
+    "desc": "PRO Donation Issues"
+  },
+  {
+    "name": "evoreq",
+    "url": "https://tinyurl.com/newproevolve",
+    "desc": "PRO - Evolution Request Megathread"
+  },
+  {
+    "name": "forumrules",
+    "url": "https://tinyurl.com/newprorules",
+    "desc": "PRO's Forum Rules"
+  },
+  {
+    "name": "record",
+    "url": "https://tinyurl.com/newprorecord",
+    "desc": "PRO - How to record screen and upload videos."
+  },
+  {
+    "name": "commands",
+    "url": "https://tinyurl.com/newprocommands",
+    "desc": "List of PRO's Commands."
+  },
+  {
+    "name": "restore",
+    "url": "https://tinyurl.com/newprorestore",
+    "desc": "Restore Pokémon Megathread."
+  },
+  {
+    "name": "support",
+    "url": "https://tinyurl.com/newprosupport",
+    "desc": "PRO Support - Troubleshooting Sticky Thread"
+  },
+  {
+    "name": "androidtroubleshooting",
+    "url": "https://tinyurl.com/PROAndroidTroubleshooting",
+    "desc": "PRO - Android Troubleshooting Installation"
+  },
+  {
+    "name": "faq/merge",
+    "url": "https://tinyurl.com/PROMergeFAQ",
+    "desc": "PRO's Server Merge (Red & Blue) FAQ."
+  },
+  {
+    "name": "merge-error",
+    "url": "https://tinyurl.com/PROMergeError",
+    "desc": "PRO - Common Merge Errors"
+  },
+  {
+    "name": "twitter",
+    "url": "https://twitter.com/PkmnRevolution",
+    "desc": "Social - PRO on Twitter"
+  },
+  {
+    "name": "yt",
+    "url": "https://tinyurl.com/PRO-UTUBE",
+    "desc": "Social - PRO on YouTube"
+  },
+  {
+    "name": "reddit",
+    "url": "https://tinyurl.com/PROReddit",
+    "desc": "Social - PRO on Reddit"
+  },
+  {
+    "name": "insta",
+    "url": "https://tinyurl.com/PROInstagramOfficial",
+    "desc": "Social - PRO Instagram"
+  },
+  {
+    "name": "twitch",
+    "url": "https://tinyurl.com/PROTwitch",
+    "desc": "Social - PRO on Twitch"
+  },
+  {
+    "name": "pvpteam",
+    "url": "https://tinyurl.com/PRO-PvP-team-building",
+    "desc": "PRO PvP - Team Building"
+  },
+  {
+    "name": "dmgcalc",
+    "url": "https://pokemonshowdown.com/damagecalc/",
+    "desc": "Damage Calculator"
+  },
+  {
+    "name": "pvprules",
+    "url": "https://tinyurl.com/newpropvprules",
+    "desc": "Redirects to PRO PvP Rules."
+  },
+  {
+    "name": "pvpban",
+    "url": "https://tinyurl.com/newpropvpban",
+    "desc": "PRO PvP - Banned Pokémon."
+  },
+  {
+    "name": "pvpguide",
+    "url": "https://tinyurl.com/PvP4Beginners ",
+    "desc": "PRO - PvP Guide for beginners."
+  },
+  {
+    "name": "notcoded",
+    "url": "https://tinyurl.com/PROBroken",
+    "desc": "PRO - Not Coded (Moves and Abilities)"
+  },
+  {
+    "name": "priormoves",
+    "url": "https://prowiki.info/index.php?title=Priority",
+    "desc": "PRO - Priority Moves"
+  },
+  {
+    "name": "pvpable",
+    "url": "https://tinyurl.com/pro-pvp-viability",
+    "desc": "PRO - Pokémon PvP-viability"
+  },
+  {
+    "name": "pvpcoin",
+    "url": "https://prowiki.info/index.php?title=PvP_Coins",
+    "desc": "PRO - PvP Coin Masters"
+  },
+  {
+    "name": "mostused",
+    "url": "https://tinyurl.com/pro-mostused-December",
+    "desc": "PRO - Most Used (December)"
+  },
+  {
+    "name": "ms",
+    "url": "https://tinyurl.com/PROMembershipPerks",
+    "desc": "PRO - Membership Perks"
+  },
+  {
+    "name": "coinshop",
+    "url": "https://tinyurl.com/PROcoinshop",
+    "desc": "PRO - Coin Shop"
+  },
+  {
+    "name": "cosmetics",
+    "url": "http://tinyurl.com/PROCosmeticsShowcase",
+    "desc": "PRO - Cosmetics Showcase (Clothing & Mounts)"
+  },
+  {
+    "name": "digspots",
+    "url": "https://tinyurl.com/NewPRO-Dig-spots",
+    "desc": "PRO - Digspots"
+  },
+  {
+    "name": "helditem",
+    "url": "https://tinyurl.com/PROhelditemchance",
+    "desc": "PRO - Held Item Chance"
+  },
+  {
+    "name": "items",
+    "url": "https://tinyurl.com/PROitemguide",
+    "desc": "PRO - Items Guide"
+  },
+  {
+    "name": "maniac",
+    "url": "https://tinyurl.com/PROItemManiacMadness",
+    "desc": "PRO - Items Maniac"
+  },
+  {
+    "name": "recycler",
+    "url": "https://tinyurl.com/PRO-Item-Recycler",
+    "desc": "PRO - Items Recycler"
+  },
+  {
+    "name": "pokemontower",
+    "url": "https://tinyurl.com/Newpro-PokemonTower",
+    "desc": "PRO - Pokémon Tower Basement Guide"
+  },
+  {
+    "name": "moves",
+    "url": "https://tinyurl.com/newprotm",
+    "desc": "PRO - TM and Move Tutor Guide"
+  },
+  {
+    "name": "secretitems",
+    "url": "https://tinyurl.com/PROsecretitems",
+    "desc": "PRO - Secret Items"
+  },
+  {
+    "name": "shellbell",
+    "url": "https://tinyurl.com/NewPRO-Shell-Bell",
+    "desc": "PRO - Shell Bell Location"
+  },
+  {
+    "name": "abandoned",
+    "url": "https://tinyurl.com/PRO-abandoned-pokemon",
+    "desc": "PRO - Abandoned Pokémon"
+  },
+  {
+    "name": "dex",
+    "url": "https://tinyurl.com/PROpokedex",
+    "desc": "PRO - Available PokéDex Data"
+  },
+  {
+    "name": "eggmovelist",
+    "url": "https://tinyurl.com/newproegg2",
+    "desc": "PRO - Complete Pokémon Eggmove List"
+  },
+  {
+    "name": "evos",
+    "url": "https://tinyurl.com/PROEvolutions",
+    "desc": "Evolutions Different in PRO"
+  },
+  {
+    "name": "fossil",
+    "url": "https://tinyurl.com/newprofossil",
+    "desc": "PRO - Fossils Guide"
+  },
+  {
+    "name": "headbutt",
+    "url": "https://tinyurl.com/NewPRO-Headbutts",
+    "desc": "PRO - Headbutt Spawns"
+  },
+  {
+    "name": "honey",
+    "url": "https://tinyurl.com/Honey-tree-spawns",
+    "desc": "PRO - Honey Tree Spawns"
+  },
+  {
+    "name": "level",
+    "url": "https://tinyurl.com/newprolevelupfast",
+    "desc": "PRO - Level Up Pokémon Fast - Guide"
+  },
+  {
+    "name": "levelchart",
+    "url": "https://tinyurl.com/KaminoKageLevelChart",
+    "desc": "PRO - Level Up Chart"
+  },
+  {
+    "name": "kanto",
+    "url": "https://tinyurl.com/newprokanto",
+    "desc": "PRO - Complete Kanto Walkthrough"
+  },
+  {
+    "name": "johto",
+    "url": "https://tinyurl.com/newprojohto",
+    "desc": "PRO - Complete Kanto Walkthrough"
+  },
+  {
+    "name": "hoenn",
+    "url": "https://tinyurl.com/newprohoenn",
+    "desc": "PRO - Complete Hoenn Walkthrough"
+  },
+  {
+    "name": "sinnohquest",
+    "url": "https://tinyurl.com/PRO-S-I-N-N-O-H-Quest",
+    "desc": "PRO - Sinnoh Quest"
+  },
+  {
+    "name": "sinnoh",
+    "url": "https://tinyurl.com/PROSinnohGuide",
+    "desc": "PRO - Complete Sinnoh Walkthrough"
+  },
+  {
+    "name": "htasa",
+    "url": "https://tinyurl.com/PROAccessSpecificAreas",
+    "desc": "PRO - How to access specific areas - Guide"
+  },
+  {
+    "name": "questceruleancave",
+    "url": "https://tinyurl.com/PROceruleancave",
+    "desc": "PRO - Cerulean Cave Quest"
+  },
+  {
+    "name": "questsilver",
+    "url": "https://tinyurl.com/newprosilver",
+    "desc": "PRO - Mt. Silver Quest"
+  },
+  {
+    "name": "questsubway",
+    "url": "https://tinyurl.com/NEW-PRO-Subway-quest",
+    "desc": "PRO - Subway (Kanto-Johto) Quest"
+  },
+  {
+    "name": "questteleport",
+    "url": " https://tinyurl.com/NEW-PRO-Teleportation-quest",
+    "desc": "PRO - Teleportation (Hoenn-Sinnog) Quest"
+  },
+  {
+    "name": "sevii",
+    "url": "https://tinyurl.com/PRO-Sevii-Islands",
+    "desc": "PRO - Sevii Islands Guide"
+  },
+  {
+    "name": "hp",
+    "url": "https://tinyurl.com/newproHP",
+    "desc": "PRO - Hidden Power - Mechanics"
+  },
+  {
+    "name": "berry",
+    "url": "https://tinyurl.com/Pro-Berry",
+    "desc": "PRO - Berries - Mechanics"
+  },
+  {
+    "name": "stats",
+    "url": "https://tinyurl.com/newprostats",
+    "desc": "PRO - EV/IV, Basic Stats - Mechanics"
+  },
+  {
+    "name": "evz",
+    "url": "https://tinyurl.com/ProEVZones",
+    "desc": "PRO - EV Zonez"
+  },
+  {
+    "name": "happy",
+    "url": "https://tinyurl.com/newprohappy",
+    "desc": "PRO - Happiness Guide"
+  },
+  {
+    "name": "fsghosts",
+    "url": "https://tinyurl.com/newprofalse",
+    "desc": "PRO - How to false swipe ghosts"
+  },
+  {
+    "name": "lend",
+    "url": "https://tinyurl.com/New-PRO-Lending",
+    "desc": "PRO - Lending Feature"
+  },
+  {
+    "name": "outbreak",
+    "url": "https://tinyurl.com/pro-outbreaks",
+    "desc": "PRO - Outbreaks"
+  },
+  {
+    "name": "repel",
+    "url": "https://tinyurl.com/newprorepeltrick",
+    "desc": "PRO - Repel Trick"
+  },
+  {
+    "name": "hunt",
+    "url": "https://tinyurl.com/newprohunt",
+    "desc": "PRO - Pokémon Hunter's Guide"
+  },
+  {
+    "name": "info",
+    "url": "https://tinyurl.com/PROGeneInfo",
+    "desc": "PRO General Info"
+  },
+  {
+    "name": "pvecoins",
+    "url": "https://tinyurl.com/PROPvECoins",
+    "desc": "PRO - PvE Coins"
+  },
+  {
+    "name": "questashshat",
+    "url": "https://tinyurl.com/newproashhat",
+    "desc": "PRO Quest - Ash's Hat"
+  },
+  {
+    "name": "questarcamount",
+    "url": "https://tinyurl.com/PROFreeArcanineMount",
+    "desc": "PRO Quest - Free Arcanine Mount Quest"
+  },
+  {
+    "name": "questceladondaily",
+    "url": "https://tinyurl.com/newproceladondq",
+    "desc": "PRO Quest - Celadon Daily Quests"
+  },
+  {
+    "name": "eevee",
+    "url": "https://tinyurl.com/newproeeveelutions",
+    "desc": "PRO - Eeveelutions Guide"
+  },
+  {
+    "name": "questjenny",
+    "url": "https://tinyurl.com/newprojemy",
+    "desc": "PRO - Officer Jenny/Bounty Quests"
+  },
+  {
+    "name": "questfossil",
+    "url": "https://tinyurl.com/PewterfossilQuest",
+    "desc": "PRO - Pewter Fossil Quest"
+  },
+  {
+    "name": "questthief",
+    "url": "https://tinyurl.com/newprothiefquest",
+    "desc": "PRO - Thief Quest"
+  },
+  {
+    "name": "bca",
+    "url": "https://tinyurl.com/PROBcc ",
+    "desc": "PRO - Bug Catching Guide"
+  },
+  {
+    "name": "questtedhat",
+    "url": "https://tinyurl.com/newprotedhat",
+    "desc": "PRO - Free Teddiursa Hat Quest"
+  },
+  {
+    "name": "questabandonedship",
+    "url": "https://tinyurl.com/NewPRO-Abandonedship",
+    "desc": "PRO - Abandoned Ship Quest"
+  },
+  {
+    "name": "exca",
+    "url": "https://tinyurl.com/NewPRO-excavation",
+    "desc": "PRO - Excavation Guide"
+  },
+  {
+    "name": "nap",
+    "url": "https://tinyurl.com/newpro-nap",
+    "desc": "PRO - Nap Island Guide"
+  },
+  {
+    "name": "pinkan",
+    "url": "https://tinyurl.com/NewProPinkan",
+    "desc": "PRO - Pinkan Island Guide"
+  },
+  {
+    "name": "questitem",
+    "url": "https://tinyurl.com/newproitemquest",
+    "desc": "PRO - Rachel's Item Quest Guide"
+  },
+  {
+    "name": "questschool",
+    "url": "https://tinyurl.com/PROtrainerschool",
+    "desc": "PRO - Rustboro Trainer's School Guide"
+  },
+  {
+    "name": "shoal",
+    "url": "https://tinyurl.com/newproshoal",
+    "desc": "PRO - Shoal Cave Guide"
+  },
+  {
+    "name": "questvos",
+    "url": "https://tinyurl.com/NewPRO-Valley-Steel",
+    "desc": "PRO - Valley of Steel Quest"
+  },
+  {
+    "name": "solaceondaily",
+    "url": "https://tinyurl.com/newpronews",
+    "desc": "PRO - Solaceon (News Reporter) Daily Quest"
+  },
+  {
+    "name": "fishing",
+    "url": "https://tinyurl.com/FishingPRO",
+    "desc": "PRO - Fishing Guide"
+  },
+  {
+    "name": "pokestop",
+    "url": "https://tinyurl.com/newpropokestop",
+    "desc": "PRO - PokéStop Guide"
+  },
+  {
+    "name": "questdoctor",
+    "url": "https://tinyurl.com/NewPRO-Doctor",
+    "desc": "PRO - Pokémon Doctor Quest"
+  },
+  {
+    "name": "legends",
+    "url": "https://tinyurl.com/PROLegends",
+    "desc": "PRO - Legendaries Megathread"
+  },
+  {
+    "name": "eventmove",
+    "url": "https://tinyurl.com/PRO-Event-move-quest",
+    "desc": "PRO - Event Move Quest"
+  },
+  {
+    "name": "gyms",
+    "url": "http://prowiki.info/index.php?title=Gyms",
+    "desc": "PRO - Gyms Guide"
+  },
+  {
+    "name": "reworked",
+    "url": "http://prowiki.info/index.php?title=Bosses",
+    "desc": "PRO - Reworked Bosses"
+  },
+  {
+    "name": "miniboss",
+    "url": "https://tinyurl.com/PROminibosses",
+    "desc": "PRO - Minibosses Guide"
+  },
+  {
+    "name": "battletower",
+    "url": "https://tinyurl.com/PROBattleTower",
+    "desc": "PRO - Battle Tower Guide"
+  },
+  {
+    "name": "e4",
+    "url": "https://tinyurl.com/PRO-ReworkedE4",
+    "desc": "PRO - All Elite 4's Guide"
+  },
+  {
+    "name": "boss",
+    "url": "https://tinyurl.com/pro-how-to-beat-a-boss",
+    "desc": "PRO - How to beat a boss"
+  },
+  {
+    "name": "android",
+    "url": "https://tinyurl.com/PROonAndroid",
+    "desc": "PRO on Android"
+  },
+  {
+    "name": "linux",
+    "url": "https://tinyurl.com/PROInstallLinux",
+    "desc": "PRO on Linux"
+  },
+  {
+    "name": "mac",
+    "url": "https://tinyurl.com/PROonMac",
+    "desc": "PRO on Mac"
+  },
+  {
+    "name": "windows",
+    "url": "https://tinyurl.com/PROonWindows",
+    "desc": "PRO on Windows"
+  },
+  {
+    "name": "streamer",
+    "url": "https://tinyurl.com/PROstreamer",
+    "desc": "PRO - Apply for Streamer"
+  },
+  {
+    "name": "guild",
+    "url": "https://tinyurl.com/PRO-guide-guilds",
+    "desc": "PRO - Guilds Guide"
+  },
+  {
+    "name": "stream",
+    "url": "https://tinyurl.com/how2streampro",
+    "desc": "PRO - How to Stream"
+  },
+  {
+    "name": "command",
+    "url": "https://tinyurl.com/PRO-in-game-commands",
+    "desc": "PRO - In game commands"
+  },
+  {
+    "name": "script",
+    "url": "https://tinyurl.com/PRO-Scripting",
+    "desc": "PRO- Learn to Script"
+  },
+  {
+    "name": "money",
+    "url": "https://tinyurl.com/pokemonrevmoneyguide",
+    "desc": "PRO - Money Guide"
+  },
+  {
+    "name": "counterparts",
+    "url": "https://prowiki.info/index.php?title=Pokémon_Counterparts",
+    "desc": "PRO - Pokémon Counterparts"
+  },
+  {
+    "name": "regionlocked",
+    "url": "https://tinyurl.com/PRORegion-locked",
+    "desc": "PRO - Region Locked"
+  },
+  {
+    "name": "trading",
+    "url": "https://tinyurl.com/PROtradingtips",
+    "desc": "PRO - Trading Tips and Tricks"
+  },
+  {
+    "name": "unitrade",
+    "url": "https://tinyurl.com/PRO-Universal-trade",
+    "desc": "PRO - Universal Trade and Price check on Discord"
+  }
+]

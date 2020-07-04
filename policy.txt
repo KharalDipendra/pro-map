@@ -1,0 +1,11 @@
+PRO Map
+
+General Policy
+PRO Map is a free to use app (application, webapp, website, site), and provided as it is. Any kind of fake ownership, reproducing content, or re-using components will result in serious actions. 
+
+End User Agreement
+• This app does not store any kind of usage data, or user data.
+• User may not break the General Policy, or more strict actions can be taken.
+• User is not allowed to use data components of this app: spots data, boss data, dig and headbutt data, without permission of respective owners.
+• The App's UI is not allowed to be copied in any way.
+• Data used in anywhere, must give credit to respective owners.

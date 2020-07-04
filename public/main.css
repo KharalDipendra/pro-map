@@ -1,0 +1,175 @@
+body {
+  font-family: "Roboto", sans-serif;
+  overflow: hidden; /* Hide scrollbars */
+}
+:root {
+  --col-dark: #222831;
+  --col-dgrey: #393e46;
+  --col-grey: #eeeeee;
+  --col-cyan: #00adb5;
+  --col-org: #ff5722;
+}
+body {
+  background-color: var(--col-dark);
+}
+#nav {
+  height: 50px;
+  background-color: var(--col-dark);
+  width: 100%;
+  position: fixed;
+  top: 0px;
+  left: 0.5%;
+  border-radius: 0px 0px 20px 20px;
+}
+#nav button {
+  height: 50px;
+  margin: 0px;
+  color: var(--col-grey);
+  margin-left: -3px;
+  margin-right: 0px;
+  font-size: 100%;
+  font-weight: bold;
+  display: inline;
+  width: 33%;
+  border: solid 2px var(--col-cyan);
+  background-color: var(--col-dark);
+}
+
+#nav .active {
+  background-color: var(--col-dgrey);
+}
+button .active {
+  background-color: var(--col-dgrey);
+}
+
+.tab-pane {
+  position: fixed;
+  top: 55px;
+  left: 1%;
+  height: calc(100% - 55px);
+  width: 98%;
+  background-color: var(--col-dark);
+  color: var(--col-org);
+  border: 1px solid var(--col-cyan);
+  border-radius: 10px 10px 0px 0px;
+  overflow: auto;
+}
+
+#app button {
+  outline: none;
+}
+button::-moz-focus-inner {
+  border: 0;
+}
+#map-cont {
+  position: absolute;
+  top: 3%;
+  width: 94%;
+  left: calc(calc(100% - 94%) / 2);
+  height: 94%;
+  overflow: auto;
+  border-radius: 10px;
+}
+#map-img {
+  position: absolute;
+  top: 0px;
+  border-radius: 10px;
+}
+.spot {
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  outline: none;
+}
+.draw {
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  border-radius: 20%;
+  background-color: red;
+  opacity: 0;
+  outline: none;
+  top: 0px;
+  left: 0px;
+  z-index: 4;
+}
+.draw:hover {
+  opacity: 0.5;
+  border-radius: 100%;
+}
+.sdata {
+  border-radius: 8px;
+  margin: 4px;
+  background-color: var(--col-dark);
+  color: white;
+  padding: 10px;
+}
+.sdata h3 {
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+a {
+  color: var(--col-cyan);
+}
+
+#inner-about h2 {
+  padding-left: 20px;
+}
+#loading {
+  position: fixed;
+  top: 0px;
+  left: 0px;
+  height: 100%;
+  width: 100%;
+  z-index: 9999;
+}
+#circle {
+  width: 150px;
+  height: 150px;
+  border-radius: 100%;
+  border: solid 10px var(--col-cyan);
+  border-left: solid 10px var(--col-dark);
+  position: fixed;
+  top: calc(50% - 75px);
+  left: calc(50% - 75px);
+  animation-name: spin;
+  animation-duration: 1s;
+  animation-timing-function: linear;
+  animation-delay: 0s;
+  animation-iteration-count: infinite;
+}
+@keyframes spin {
+  0% {
+    transform: rotateZ(0deg);
+  }
+  100% {
+    transform: rotateZ(360deg);
+  }
+}
+@keyframes goup {
+  0% {
+  }
+  90% {
+    transform: translateY(-120%);
+  }
+  100% {
+    transform: translateY(-120%);
+    display: none;
+  }
+}
+@keyframes fadeOut {
+  0% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 0;
+  }
+}
+@keyframes fadeIn {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}

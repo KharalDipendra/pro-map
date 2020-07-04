@@ -1,0 +1,1228 @@
+[
+  {
+    "loc": "Love Island",
+    "pokes": [
+      "Pichu",
+      "Cleffa",
+      "Igglybuff",
+      "Magby",
+      "Wynaut",
+      "Chingling",
+      "Smoochum",
+      "Tyrogue",
+      "Elekid",
+      "Togepi"
+    ],
+    "items": [
+      "Coba Berry",
+      "Payapa Berry",
+      "Tanga Berry",
+      "Charti Berry",
+      "Kasib Berry",
+      "Haban Berry",
+      "Honey"
+    ]
+  },
+  {
+    "loc": "Sevault Canyon",
+    "pokes": [
+      "Fearow",
+      "Meowth",
+      "Teddiursa",
+      "Geodude",
+      "Ursaring",
+      "Chimchar"
+    ],
+    "items": [
+      "Pomeg Berry",
+      "Kelpsy Berry",
+      "Ganlon Berry",
+      "Salac Berry",
+      "Petaya Berry",
+      "Apicot Berry",
+      "Honey"
+    ]
+  },
+  {
+    "loc": "Canyon Entrance",
+    "pokes": ["Fearow", "Teddiursa", "Meowth", "Geodude", "Cubone", "Larvitar"],
+    "items": [
+      "Charti Berry",
+      "Kasib Berry",
+      "Haban Berry",
+      "Colbur Berry",
+      "Chilan Berry",
+      "Liechi Berry",
+      "Honey"
+    ]
+  },
+  {
+    "loc": "Valley of Steel Eastern Peak",
+    "pokes": ["Bronzor", "Magnemite", "Durant", "Honedge"],
+    "items": [
+      "Coba Berry",
+      "Payapa Berry",
+      "Tanga Berry",
+      "Charti Berry",
+      "Kasib Berry",
+      "Haban Berry",
+      "Honey"
+    ]
+  },
+  {
+    "loc": "Valley of Steel Western Peak",
+    "pokes": ["Bronzor", "Magnemite", "Klefki", "Beldum"],
+    "items": [
+      "Qualot Berry",
+      "Hondew Berry",
+      "Occa Berry",
+      "Occa Berry",
+      "Passho Berry",
+      "Wacan Berry",
+      "Honey"
+    ]
+  },
+  {
+    "loc": "Pallet Town",
+    "pokes": [
+      "Caterpie",
+      "Rattata",
+      "Venonat",
+      "Silcoon",
+      "Exeggcute",
+      "Bulbasaur",
+      "Charmander",
+      "Squirtle"
+    ],
+    "items": [
+      "Oran Berry",
+      "Persim Berry",
+      "Lum Berry",
+      "Sitrus Berry",
+      "Grepa Berry",
+      "Tamato Berry",
+      "Honey"
+    ]
+  },
+  {
+    "loc": "Route 1",
+    "pokes": ["Rattata", "Silcoon", "Caterpie", "Ekans", "Beedrill", "Pinsir"],
+    "items": [
+      "Oran Berry",
+      "Persim Berry",
+      "Lum Berry",
+      "Sitrus Berry",
+      "Grepa Berry",
+      "Tamato Berry",
+      "Honey"
+    ]
+  },
+  {
+    "loc": "Route 2",
+    "pokes": ["Silcoon", "Venonat", "Ekans", "Rattata", "Sentret", "Yanma"],
+    "items": [
+      "Oran Berry",
+      "Persim Berry",
+      "Lum Berry",
+      "Sitrus Berry",
+      "Grepa Berry",
+      "Tamato Berry",
+      "Honey"
+    ]
+  },
+  {
+    "loc": "Route 3",
+    "pokes": [
+      "Kakuna",
+      "Silcoon",
+      "Ekans",
+      "Caterpie",
+      "Beedrill",
+      "Butterfree"
+    ],
+    "items": [
+      "Cheri Berry",
+      "Leppa Berry",
+      "Pecha Berry",
+      "Rawst Berry",
+      "Babiri Berry",
+      "Roseli Berry",
+      "Honey"
+    ]
+  },
+  {
+    "loc": "Route 4",
+    "pokes": ["Silcoon", "Kakuna", "Venonat", "Rattata", "Natu", "Exeggcute"],
+    "items": [
+      "Oran Berry",
+      "Persim Berry",
+      "Lum Berry",
+      "Sitrus Berry",
+      "Grepa Berry",
+      "Tamato Berry",
+      "Honey"
+    ]
+  },
+  {
+    "loc": "Route 7",
+    "pokes": ["Kakuna", "Rattata", "Caterpie", "Gastly", "Beedrill", "Pineco"],
+    "items": [
+      "Cheri Berry",
+      "Leppa Berry",
+      "Pecha Berry",
+      "Rawst Berry",
+      "Babiri Berry",
+      "Roseli Berry",
+      "Honey"
+    ]
+  },
+  {
+    "loc": "Route 8",
+    "pokes": ["Pidgey", "Silcoon", "Metapod", "Kakuna", "Natu", "Exeggcute"],
+    "items": [
+      "Oran Berry",
+      "Persim Berry",
+      "Lum Berry",
+      "Sitrus Berry",
+      "Grepa Berry",
+      "Tamato Berry",
+      "Honey"
+    ]
+  },
+  {
+    "loc": "Route 11",
+    "pokes": ["Caterpie", "Rattata", "Silcoon", "Pidgey", "Natu", "Pinsir"],
+    "items": [
+      "Cheri Berry",
+      "Leppa Berry",
+      "Pecha Berry",
+      "Rawst Berry",
+      "Babiri Berry",
+      "Roseli Berry",
+      "Honey"
+    ]
+  },
+  {
+    "loc": "Route 13",
+    "pokes": ["Pidgey", "Gastly", "Rattata", "Metapod", "Beedrill", "Pineco"],
+    "items": [
+      "Oran Berry",
+      "Persim Berry",
+      "Lum Berry",
+      "Sitrus Berry",
+      "Grepa Berry",
+      "Tamato Berry",
+      "Honey"
+    ]
+  },
+  {
+    "loc": "Route 14",
+    "pokes": ["Silcoon", "Rattata", "Metapod", "Pidgey", "Noctowl", "Pinsir"],
+    "items": [
+      "Cheri Berry",
+      "Leppa Berry",
+      "Pecha Berry",
+      "Rawst Berry",
+      "Babiri Berry",
+      "Roseli Berry",
+      "Honey"
+    ]
+  },
+  {
+    "loc": "Route 15",
+    "pokes": ["Rattata", "Caterpie", "Venonat", "Metapod", "Natu", "Aipom"],
+    "items": [
+      "Cheri Berry",
+      "Leppa Berry",
+      "Pecha Berry",
+      "Rawst Berry",
+      "Babiri Berry",
+      "Roseli Berry",
+      "Honey"
+    ]
+  },
+  {
+    "loc": "Route 22",
+    "pokes": ["Ekans", "Metapod", "Spearow", "Rattata", "Noctowl", "Ariados"],
+    "items": [
+      "Aspear Berry",
+      "Chesto Berry",
+      "Oran Berry",
+      "Lum Berry",
+      "Lansat Berry",
+      "Starf Berry",
+      "Honey"
+    ]
+  },
+  {
+    "loc": "Viridian City",
+    "pokes": ["Metapod", "Ekans", "Spearow", "Silcoon", "Ledian", "Aipom"],
+    "items": [
+      "Aspear Berry",
+      "Chesto Berry",
+      "Oran Berry",
+      "Lum Berry",
+      "Lansat Berry",
+      "Starf Berry",
+      "Honey"
+    ]
+  },
+  {
+    "loc": "Viridian Forest",
+    "pokes": [
+      "Silcoon",
+      "Cascoon",
+      "Kakuna",
+      "Weedle",
+      "Beedrill",
+      "Heracross"
+    ],
+    "items": [
+      "Cheri Berry",
+      "Leppa Berry",
+      "Pecha Berry",
+      "Rawst Berry",
+      "Babiri Berry",
+      "Roseli Berry",
+      "Honey"
+    ]
+  },
+  {
+    "loc": "Pewter City",
+    "pokes": ["Cascoon", "Weedle", "Spearow", "Pidgey", "Golbat", "Farfetch'd"],
+    "items": [
+      "Aspear Berry",
+      "Chesto Berry",
+      "Oran Berry",
+      "Lum Berry",
+      "Lansat Berry",
+      "Starf Berry",
+      "Honey"
+    ]
+  },
+  {
+    "loc": "Lavender Town",
+    "pokes": ["Pidgey", "Gastly", "Ekans", "Kakuna", "Misdreavus", "Sableye"],
+    "items": [
+      "Cheri Berry",
+      "Leppa Berry",
+      "Pecha Berry",
+      "Rawst Berry",
+      "Babiri Berry",
+      "Roseli Berry",
+      "Honey"
+    ]
+  },
+  {
+    "loc": "Cerulean City",
+    "pokes": ["Cascoon", "Gastly", "Weedle", "Metapod", "Golbat", "Exeggcute"],
+    "items": [
+      "Aspear Berry",
+      "Chesto Berry",
+      "Oran Berry",
+      "Lum Berry",
+      "Lansat Berry",
+      "Starf Berry",
+      "Honey"
+    ]
+  },
+  {
+    "loc": "Trainers Valley",
+    "pokes": ["Pansage", "Pansear", "Panpour", "Teddiursa", "Aipom"],
+    "items": [
+      "Cheri Berry",
+      "Leppa Berry",
+      "Pecha Berry",
+      "Rawst Berry",
+      "Babiri Berry",
+      "Roseli Berry",
+      "Honey"
+    ]
+  },
+  {
+    "loc": "Unknown Place",
+    "pokes": [
+      "Swinub",
+      "Piloswine",
+      "Teddiursa",
+      "Delibird",
+      "Sneasel",
+      "Gligar"
+    ],
+    "items": [
+      "Aspear Berry",
+      "Chesto Berry",
+      "Oran Berry",
+      "Lum Berry",
+      "Lansat Berry",
+      "Starf Berry",
+      "Honey"
+    ]
+  },
+  {
+    "loc": "Cherrygrove City",
+    "pokes": ["Ledyba", "Sentret", "Teddiursa", "Hoppip", "Yanma", "Pinsir"],
+    "items": [
+      "Rindo Berry",
+      "Yache Berry",
+      "Chople Berry",
+      "Black Apricorn",
+      "Blue Apricorn",
+      "Green Apricorn",
+      "Red Apricorn",
+      "Honey"
+    ]
+  },
+  {
+    "loc": "Ilex Forest",
+    "pokes": ["Ledian", "Hoppip", "Natu", "Teddiursa", "Yanma", "Scyther"],
+    "items": [
+      "Rindo Berry",
+      "Yache Berry",
+      "Chople Berry",
+      "Black Apricorn",
+      "Blue Apricorn",
+      "Green Apricorn",
+      "Red Apricorn",
+      "Honey"
+    ]
+  },
+  {
+    "loc": "Azalea Town",
+    "pokes": ["Natu", "Ledyba", "Ledian", "Sentret", "Yanma", "Pinsir"],
+    "items": [
+      "Rindo Berry",
+      "Yache Berry",
+      "Chople Berry",
+      "Black Apricorn",
+      "Blue Apricorn",
+      "Green Apricorn",
+      "Red Apricorn",
+      "Honey"
+    ]
+  },
+  {
+    "loc": "Violet City",
+    "pokes": ["Sentret", "Teddiursa", "Natu", "Hoppip", "Misdreavus", "Gligar"],
+    "items": [
+      "Kebia Berry",
+      "Shuca Berry",
+      "Colbur Berry",
+      "Pink Apricorn",
+      "White Apricorn",
+      "Yellow Apricorn",
+      "Red Apricorn",
+      "Honey"
+    ]
+  },
+  {
+    "loc": "Route 34",
+    "pokes": [
+      "Noctowl",
+      "Ledyba",
+      "Teddiursa",
+      "Natu",
+      "Heracross",
+      "Misdreavus"
+    ],
+    "items": [
+      "Rindo Berry",
+      "Yache Berry",
+      "Chople Berry",
+      "Black Apricorn",
+      "Blue Apricorn",
+      "Green Apricorn",
+      "Red Apricorn",
+      "Honey"
+    ]
+  },
+  {
+    "loc": "Route 30",
+    "pokes": ["Sentret", "Hoppip", "Natu", "Noctowl", "Nuzleaf", "Slakoth"],
+    "items": [
+      "Kebia Berry",
+      "Shuca Berry",
+      "Colbur Berry",
+      "Pink Apricorn",
+      "White Apricorn",
+      "Yellow Apricorn",
+      "Red Apricorn",
+      "Honey"
+    ]
+  },
+  {
+    "loc": "Route 32",
+    "pokes": [
+      "Noctowl",
+      "Spinarak",
+      "Teddiursa",
+      "Ledian",
+      "Heracross",
+      "Slakoth"
+    ],
+    "items": [
+      "Kebia Berry",
+      "Shuca Berry",
+      "Colbur Berry",
+      "Pink Apricorn",
+      "White Apricorn",
+      "Yellow Apricorn",
+      "Red Apricorn",
+      "Honey"
+    ]
+  },
+  {
+    "loc": "Route 35",
+    "pokes": ["Natu", "Ledyba", "Noctowl", "Ledian", "Heracross", "Volbeat"],
+    "items": [
+      "Rindo Berry",
+      "Yache Berry",
+      "Chople Berry",
+      "Black Apricorn",
+      "Blue Apricorn",
+      "Green Apricorn",
+      "Red Apricorn",
+      "Honey"
+    ]
+  },
+  {
+    "loc": "Route 26",
+    "pokes": [
+      "Hoppip",
+      "Noctowl",
+      "Spinarak",
+      "Teddiursa",
+      "Heracross",
+      "Slakoth"
+    ],
+    "items": [
+      "Kebia Berry",
+      "Shuca Berry",
+      "Colbur Berry",
+      "Pink Apricorn",
+      "White Apricorn",
+      "Yellow Apricorn",
+      "Red Apricorn",
+      "Honey"
+    ]
+  },
+  {
+    "loc": "Route 31",
+    "pokes": ["Spinarak", "Noctowl", "Ledyba", "Hoppip", "Aipom", "Volbeat"],
+    "items": [
+      "Kebia Berry",
+      "Shuca Berry",
+      "Colbur Berry",
+      "Pink Apricorn",
+      "White Apricorn",
+      "Yellow Apricorn",
+      "Red Apricorn",
+      "Honey"
+    ]
+  },
+  {
+    "loc": "Route 33",
+    "pokes": [
+      "Ledian",
+      "Hoothoot",
+      "Spinarak",
+      "Teddiursa",
+      "Ariados",
+      "Murkrow"
+    ],
+    "items": [
+      "Rindo Berry",
+      "Yache Berry",
+      "Chople Berry",
+      "Black Apricorn",
+      "Blue Apricorn",
+      "Green Apricorn",
+      "Red Apricorn",
+      "Honey"
+    ]
+  },
+  {
+    "loc": "Route 36",
+    "pokes": ["Ledian", "Natu", "Teddiursa", "Hoothoot", "Aipom", "Seedot"],
+    "items": [
+      "Kebia Berry",
+      "Shuca Berry",
+      "Colbur Berry",
+      "Pink Apricorn",
+      "White Apricorn",
+      "Yellow Apricorn",
+      "Red Apricorn",
+      "Honey"
+    ]
+  },
+  {
+    "loc": "Route 44",
+    "pokes": [
+      "Spinarak",
+      "Teddiursa",
+      "Hoothoot",
+      "Natu",
+      "Ariados",
+      "Murkrow"
+    ],
+    "items": [
+      "Rindo Berry",
+      "Yache Berry",
+      "Chople Berry",
+      "Black Apricorn",
+      "Blue Apricorn",
+      "Green Apricorn",
+      "Red Apricorn",
+      "Honey"
+    ]
+  },
+  {
+    "loc": "Route 27",
+    "pokes": ["Hoothoot", "Pidgey", "Ledian", "Teddiursa", "Ariados", "Gligar"],
+    "items": [
+      "Kebia Berry",
+      "Shuca Berry",
+      "Colbur Berry",
+      "Pink Apricorn",
+      "White Apricorn",
+      "Yellow Apricorn",
+      "Red Apricorn",
+      "Honey"
+    ]
+  },
+  {
+    "loc": "Route 29",
+    "pokes": ["Ledian", "Hoothoot", "Sentret", "Teddiursa", "Aipom", "Gligar"],
+    "items": [
+      "Rindo Berry",
+      "Yache Berry",
+      "Chople Berry",
+      "Black Apricorn",
+      "Blue Apricorn",
+      "Green Apricorn",
+      "Red Apricorn",
+      "Honey"
+    ]
+  },
+  {
+    "loc": "Route 46",
+    "pokes": [
+      "Sentret",
+      "Teddiursa",
+      "Pidgey",
+      "Noctowl",
+      "Misdreavus",
+      "Gligar"
+    ],
+    "items": [
+      "Rindo Berry",
+      "Yache Berry",
+      "Chople Berry",
+      "Black Apricorn",
+      "Blue Apricorn",
+      "Green Apricorn",
+      "Red Apricorn",
+      "Honey"
+    ]
+  },
+  {
+    "loc": "Route 28",
+    "pokes": ["Pidgey", "Sentret", "Gastly", "Ledyba", "Aipom", "Sneasel"],
+    "items": [
+      "Kebia Berry",
+      "Shuca Berry",
+      "Colbur Berry",
+      "Pink Apricorn",
+      "White Apricorn",
+      "Yellow Apricorn",
+      "Red Apricorn",
+      "Honey"
+    ]
+  },
+  {
+    "loc": "Mt. Silver Exterior",
+    "pokes": ["Hoothoot", "Swinub", "Venonat", "Pidgey", "Pineco", "Murkrow"],
+    "items": [
+      "Rindo Berry",
+      "Yache Berry",
+      "Chople Berry",
+      "Black Apricorn",
+      "Blue Apricorn",
+      "Green Apricorn",
+      "Red Apricorn",
+      "Honey"
+    ]
+  },
+  {
+    "loc": "Mt. Silver Upper Mountainside",
+    "pokes": [
+      "Swinub",
+      "Noctowl",
+      "Sentret",
+      "Delibird",
+      "Heracross",
+      "Smoochum"
+    ],
+    "items": [
+      "Rindo Berry",
+      "Yache Berry",
+      "Chople Berry",
+      "Black Apricorn",
+      "Blue Apricorn",
+      "Green Apricorn",
+      "Red Apricorn",
+      "Honey"
+    ]
+  },
+  {
+    "loc": "Route 38",
+    "pokes": ["Taillow", "Ledyba", "Wurmple", "Natu", "Yanma", "Sneasel"],
+    "items": [
+      "Oran Berry",
+      "Persim Berry",
+      "Lum Berry",
+      "Sitrus Berry",
+      "Grepa Berry",
+      "Tamato Berry",
+      "Honey"
+    ]
+  },
+  {
+    "loc": "Mauville City",
+    "pokes": ["Wingull", "Cacnea", "Volbeat", "Poochyena", "Nuzleaf", "Starly"],
+    "items": [
+      "Pomeg Berry",
+      "Kelpsy Berry",
+      "Ganlon Berry",
+      "Salac Berry",
+      "Petaya Berry",
+      "Apicot Berry",
+      "Honey"
+    ]
+  },
+  {
+    "loc": "Vermilion City",
+    "pokes": [
+      "Pidgey",
+      "Spearow",
+      "Zubat",
+      "Natu",
+      "Farfetch'd",
+      "Starly",
+      "Munchlax"
+    ],
+    "items": [
+      "Qualot Berry",
+      "Hondew Berry",
+      "Occa Berry",
+      "Occa Berry",
+      "Passho Berry",
+      "Wacan Berry",
+      "Honey"
+    ]
+  },
+  {
+    "loc": "Vermilion City Graveyard",
+    "pokes": ["Gastly", "Pidgey", "Ekans", "Misdreavus", "Murkrow", "Sableye"],
+    "items": [
+      "Coba Berry",
+      "Payapa Berry",
+      "Tanga Berry",
+      "Charti Berry",
+      "Kasib Berry",
+      "Haban Berry",
+      "Honey"
+    ]
+  },
+  {
+    "loc": "Route 111 North",
+    "pokes": [
+      "Cacnea",
+      "Nuzleaf",
+      "Minun",
+      "Plusle",
+      "Slakoth",
+      "Baltoy",
+      "Vibrava"
+    ],
+    "items": [
+      "Pomeg Berry",
+      "Kelpsy Berry",
+      "Ganlon Berry",
+      "Salac Berry",
+      "Petaya Berry",
+      "Apicot Berry",
+      "Honey"
+    ]
+  },
+  {
+    "loc": "Littleroot Town",
+    "pokes": [
+      "Taillow",
+      "Volbeat",
+      "Seedot",
+      "Cacnea",
+      "Exeggcute",
+      "Treecko",
+      "Torchic",
+      "Mudkip"
+    ],
+    "items": [
+      "Qualot Berry",
+      "Hondew Berry",
+      "Occa Berry",
+      "Occa Berry",
+      "Passho Berry",
+      "Wacan Berry",
+      "Honey"
+    ]
+  },
+  {
+    "loc": "Route 101",
+    "pokes": [
+      "Wurmple",
+      "Illumise",
+      "Taillow",
+      "Seedot",
+      "Dustox",
+      "Shroomish"
+    ],
+    "items": [
+      "Cheri Berry",
+      "Leppa Berry",
+      "Pecha Berry",
+      "Rawst Berry",
+      "Babiri Berry",
+      "Roseli Berry",
+      "Honey"
+    ]
+  },
+  {
+    "loc": "Route 116",
+    "pokes": [
+      "Poochyena",
+      "Seedot",
+      "Taillow",
+      "Surskit",
+      "Beautifly",
+      "Gligar"
+    ],
+    "items": [
+      "Cheri Berry",
+      "Leppa Berry",
+      "Pecha Berry",
+      "Rawst Berry",
+      "Babiri Berry",
+      "Roseli Berry",
+      "Honey"
+    ]
+  },
+  {
+    "loc": "Petalburg Woods",
+    "pokes": [
+      "Cacnea",
+      "Wurmple",
+      "Illumise",
+      "Taillow",
+      "Pineco",
+      "Shroomish"
+    ],
+    "items": [
+      "Qualot Berry",
+      "Hondew Berry",
+      "Occa Berry",
+      "Occa Berry",
+      "Passho Berry",
+      "Wacan Berry",
+      "Honey"
+    ]
+  },
+  {
+    "loc": "Route 102",
+    "pokes": ["Taillow", "Cacnea", "Wurmple", "Poochyena", "Dustox", "Cacnea"],
+    "items": [
+      "Qualot Berry",
+      "Hondew Berry",
+      "Occa Berry",
+      "Occa Berry",
+      "Passho Berry",
+      "Wacan Berry",
+      "Honey"
+    ]
+  },
+  {
+    "loc": "Fortree City",
+    "pokes": ["Wingull", "Taillow", "Wurmple", "Pidgey", "Pineco", "Drifloon"],
+    "items": [
+      "Cheri Berry",
+      "Leppa Berry",
+      "Pecha Berry",
+      "Rawst Berry",
+      "Babiri Berry",
+      "Roseli Berry",
+      "Honey"
+    ]
+  },
+  {
+    "loc": "Route 120",
+    "pokes": ["Wurmple", "Illumise", "Seedot", "Surskit", "Cherubi", "Burmy"],
+    "items": [
+      "Qualot Berry",
+      "Hondew Berry",
+      "Occa Berry",
+      "Occa Berry",
+      "Passho Berry",
+      "Wacan Berry",
+      "Honey"
+    ]
+  },
+  {
+    "loc": "Route 123",
+    "pokes": [
+      "Seedot",
+      "Nuzleaf",
+      "Poochyena",
+      "Illumise",
+      "Dustox",
+      "Slakoth"
+    ],
+    "items": [
+      "Pomeg Berry",
+      "Kelpsy Berry",
+      "Ganlon Berry",
+      "Salac Berry",
+      "Petaya Berry",
+      "Apicot Berry",
+      "Honey"
+    ]
+  },
+  {
+    "loc": "Mt. Pyre Exterior",
+    "pokes": [
+      "Poochyena",
+      "Nuzleaf",
+      "Wingull",
+      "Seedot",
+      "Murkrow",
+      "Sableye"
+    ],
+    "items": [
+      "Cheri Berry",
+      "Leppa Berry",
+      "Pecha Berry",
+      "Rawst Berry",
+      "Babiri Berry",
+      "Roseli Berry",
+      "Honey"
+    ]
+  },
+  {
+    "loc": "Oldale Town",
+    "pokes": ["Seedot", "Volbeat", "Wingull", "Cacnea", "Beautifly", "Gligar"],
+    "items": [
+      "Cheri Berry",
+      "Leppa Berry",
+      "Pecha Berry",
+      "Rawst Berry",
+      "Babiri Berry",
+      "Roseli Berry",
+      "Honey"
+    ]
+  },
+  {
+    "loc": "Route 103",
+    "pokes": ["Seedot", "Cacnea", "Nuzleaf", "Volbeat", "Pineco", "Heracross"],
+    "items": [
+      "Pomeg Berry",
+      "Kelpsy Berry",
+      "Ganlon Berry",
+      "Salac Berry",
+      "Petaya Berry",
+      "Apicot Berry",
+      "Honey"
+    ]
+  },
+  {
+    "loc": "Littleroot Town",
+    "pokes": [
+      "Nuzleaf",
+      "Volbeat",
+      "Seedot",
+      "Cacnea",
+      "Beautifly",
+      "Beedrill"
+    ],
+    "items": [
+      "Qualot Berry",
+      "Hondew Berry",
+      "Occa Berry",
+      "Occa Berry",
+      "Passho Berry",
+      "Wacan Berry",
+      "Honey"
+    ]
+  },
+  {
+    "loc": "Route 117",
+    "pokes": ["Wurmple", "Taillow", "Volbeat", "Cacnea", "Pinsir", "Heracross"],
+    "items": [
+      "Pomeg Berry",
+      "Kelpsy Berry",
+      "Ganlon Berry",
+      "Salac Berry",
+      "Petaya Berry",
+      "Apicot Berry",
+      "Honey"
+    ]
+  },
+  {
+    "loc": "Route 115",
+    "pokes": [
+      "Cacnea",
+      "Taillow",
+      "Volbeat",
+      "Nuzleaf",
+      "Beautifly",
+      "Scyther"
+    ],
+    "items": [
+      "Cheri Berry",
+      "Leppa Berry",
+      "Pecha Berry",
+      "Rawst Berry",
+      "Babiri Berry",
+      "Roseli Berry",
+      "Honey"
+    ]
+  },
+  {
+    "loc": "Route 113",
+    "pokes": [
+      "Volbeat",
+      "Taillow",
+      "Poochyena",
+      "Cacnea",
+      "Beautifly",
+      "Carnivine"
+    ],
+    "items": [
+      "Qualot Berry",
+      "Hondew Berry",
+      "Occa Berry",
+      "Occa Berry",
+      "Passho Berry",
+      "Wacan Berry",
+      "Honey"
+    ]
+  },
+  {
+    "loc": "Route 111 North",
+    "pokes": ["Nuzleaf", "Surskit", "Cacnea", "Volbeat", "Slakoth", "Scyther"],
+    "items": [
+      "Pomeg Berry",
+      "Kelpsy Berry",
+      "Ganlon Berry",
+      "Salac Berry",
+      "Petaya Berry",
+      "Apicot Berry",
+      "Honey"
+    ]
+  },
+  {
+    "loc": "Route 112",
+    "pokes": ["Volbeat", "Poochyena", "Yanma", "Surskit", "Staravia", "Dustox"],
+    "items": [
+      "Qualot Berry",
+      "Hondew Berry",
+      "Occa Berry",
+      "Occa Berry",
+      "Passho Berry",
+      "Wacan Berry",
+      "Honey"
+    ]
+  },
+  {
+    "loc": "Route 119A",
+    "pokes": ["Surskit", "Poochyena", "Yanma", "Volbeat", "Slakoth", "Chatot"],
+    "items": [
+      "Pomeg Berry",
+      "Kelpsy Berry",
+      "Ganlon Berry",
+      "Salac Berry",
+      "Petaya Berry",
+      "Apicot Berry",
+      "Honey"
+    ]
+  },
+  {
+    "loc": "Leev Town Port",
+    "pokes": [
+      "Illumise",
+      "Poochyena",
+      "Surskit",
+      "Volbeat",
+      "Slakoth",
+      "Chatot"
+    ],
+    "items": [
+      "Qualot Berry",
+      "Hondew Berry",
+      "Occa Berry",
+      "Occa Berry",
+      "Passho Berry",
+      "Wacan Berry",
+      "Honey"
+    ]
+  },
+  {
+    "loc": "Eterna Forest",
+    "pokes": ["Starly", "Kricketot", "Cherubi", "Bidoof", "Shinx", "Turtwig"],
+    "items": [
+      "Charti Berry",
+      "Kasib Berry",
+      "Haban Berry",
+      "Colbur Berry",
+      "Chilan Berry",
+      "Liechi Berry",
+      "Honey"
+    ]
+  },
+  {
+    "loc": "Fuego Ironworks",
+    "pokes": ["Starly", "Kricketot", "Cherubi", "Bidoof", "Drifloon", "Shinx"],
+    "items": [
+      "Coba Berry",
+      "Payapa Berry",
+      "Tanga Berry",
+      "Charti Berry",
+      "Kasib Berry",
+      "Haban Berry",
+      "Honey"
+    ]
+  },
+  {
+    "loc": "Lake Valor",
+    "pokes": [
+      "Starly",
+      "Kricketot",
+      "Cherubi",
+      "Bidoof",
+      "Carnivine",
+      "Pachirisu"
+    ],
+    "items": [
+      "Charti Berry",
+      "Kasib Berry",
+      "Haban Berry",
+      "Colbur Berry",
+      "Chilan Berry",
+      "Liechi Berry",
+      "Honey"
+    ]
+  },
+  {
+    "loc": "Route 208",
+    "pokes": ["Starly", "Kricketot", "Cherubi", "Bidoof", "Combee", "Chimchar"],
+    "items": [
+      "Charti Berry",
+      "Kasib Berry",
+      "Haban Berry",
+      "Colbur Berry",
+      "Chilan Berry",
+      "Liechi Berry",
+      "Honey"
+    ]
+  },
+  {
+    "loc": "Route 209",
+    "pokes": ["Starly", "Kricketot", "Cherubi", "Bidoof", "Burmy", "Petilil"],
+    "items": [
+      "Coba Berry",
+      "Payapa Berry",
+      "Tanga Berry",
+      "Charti Berry",
+      "Kasib Berry",
+      "Haban Berry",
+      "Honey"
+    ]
+  },
+  {
+    "loc": "Sendoff Spring",
+    "pokes": ["Starly", "Kricketot", "Cherubi", "Bidoof", "Chatot", "Joltik"],
+    "items": [
+      "Coba Berry",
+      "Payapa Berry",
+      "Tanga Berry",
+      "Charti Berry",
+      "Kasib Berry",
+      "Haban Berry",
+      "Honey"
+    ]
+  },
+  {
+    "loc": "Safari Zone Exclusive",
+    "pokes": [
+      "Caterpie",
+      "Pidgey",
+      "Venonat",
+      "Silcoon",
+      "Aipom",
+      "Burmy",
+      "Pinsir",
+      "Heracross"
+    ],
+    "items": [
+      "Oran Berry",
+      "Persim Berry",
+      "Lum Berry",
+      "Sitrus Berry",
+      "Grepa Berry",
+      "Tamato Berry",
+      "Honey"
+    ]
+  },
+  {
+    "loc": "Twinleaf Town",
+    "pokes": [
+      "Starly",
+      "Bidoof",
+      "Venonat",
+      "Kricketot",
+      "Combee",
+      "Turtwig",
+      "Piplup",
+      "Chimchar"
+    ],
+    "items": [
+      "Charti Berry",
+      "Kasib Berry",
+      "Haban Berry",
+      "Colbur Berry",
+      "Chilan Berry",
+      "Liechi Berry",
+      "Honey"
+    ]
+  },
+  {
+    "loc": "New Bark Town",
+    "pokes": [
+      "Poochyena",
+      "Seedot",
+      "Taillow",
+      "Taillow",
+      "Pineco",
+      "Chikorita",
+      "Cyndaquil",
+      "Totodile"
+    ],
+    "items": [
+      "Aspear Berry",
+      "Chesto Berry",
+      "Oran Berry",
+      "Lum Berry",
+      "Lansat Berry",
+      "Starf Berry",
+      "Honey"
+    ]
+  }
+]

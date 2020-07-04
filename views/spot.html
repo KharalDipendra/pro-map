@@ -1,0 +1,277 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8" />
+    <title>Spots Editor - PROMap - Staff Tools</title>
+    <style>
+      .spot {
+        height: 20px;
+        width: 20px;
+        position: absolute;
+        background-color: red;
+        opacity: 0.4;
+        border-radius: 8px;
+      }
+    </style>
+  </head>
+  <body style="">
+    <img
+      id="img"
+      src="https://cdn.glitch.com/17fb597a-5412-4fab-a050-b2f738017121%2FPROWorld.png?v=1583308627195"
+      style="user-drag: none; 
+user-select: none;
+-moz-user-select: none;
+-webkit-user-drag: none;
+-webkit-user-select: none;
+-ms-user-select: none;position:absolute;top:0px;left:0px;"
+    />
+    <span
+      id="x"
+      style="position:fixed;top:10px;left:10px;-moz-user-select: none;
+-khtml-user-select: none;
+user-select: none;"
+      >X: 0</span
+    >
+    <span
+      id="y"
+      style="position:fixed;top:30px;left:10px;-moz-user-select: none;
+-khtml-user-select: none;
+user-select: none;"
+      >Y: 0</span
+    >
+    <div id="spots"></div>
+    <div id="ui">
+      <button
+        onclick="getData()"
+        style="position:fixed; right:100px; top:35px;"
+      >
+        Get Data
+      </button>
+      <button
+        onclick="renameLoc()"
+        style="position:fixed; right:100px; top:10px;"
+      >
+        Rename Loc
+      </button>
+      <span id="loopDat" style="position:fixed; right:100px; top:65px;">
+        {{DATA}}
+      </span>
+
+      <span
+        id="data"
+        style="position:fixed; height: 300px; width: 200px; border:solid 1px black; right:100px; top:100px; overflow-y: auto; word-wrap:word-break;"
+      >
+        Click Get Data to show JSON output here.
+      </span>
+      <button onclick="skip()" style="position:fixed; right:100px; top:430px;">
+        Skip
+      </button>
+      <button
+        onclick="addNew()"
+        style="position:fixed; right:100px; top:460px;"
+      >
+        Add New
+      </button>
+
+      <button
+        id="autosel"
+        onclick="autoSel()"
+        style="position:fixed; right:100px; top:485px;"
+      >
+        Enable AutoSelect Next
+      </button>
+      <button
+        id="copydata"
+        onclick="copyData()"
+        style="position:fixed; right:100px; top:510px;"
+      >
+        Copy Data
+      </button>
+    </div>
+    <script>
+      const ex = document.getElementById("x");
+      const ey = document.getElementById("y");
+      const img = document.getElementById("img");
+      var spots = {};
+      var ds = document.getElementById("spots");
+      var curr = null;
+      var ready = false;
+      var data = [];
+      var loop = { counter: 0, started: false, loc: null };
+      const dat = document.getElementById("loopDat");
+      const out = document.getElementById("data");
+      var dat2 = {};
+      var autosel = false;
+      const as = document.getElementById("autosel");
+
+      const autoSel = () => {
+        if (autosel == true) {
+          autosel = false;
+          as.innerText = "Enable AutoSelect Next";
+        } else {
+          autosel = true;
+          as.innerText = "Disable AutoSelect Next";
+        }
+      };
+      var dss = {};
+
+      var fet = fetch("https://pro-map.herokuapp.com/spots3").then(d => {
+        d.json().then(d2 => {
+          ready = true;
+          dss = d2;
+          for (const key in d2) {
+            let deta = d2[key];
+            if (deta.x != 0 && deta.y != 0) spots[key] = deta;
+            data.push(key);
+          }
+          startLoop();
+        });
+      });
+
+      const startLoop = () => {
+        loop.counter = 1;
+        let loc = data[loop.counter];
+        loop.loc = loc;
+        dat.innerHTML = `Loc: ${loc}`;
+        let det = spots[loc];
+      };
+
+      let skipdone = true;
+      let sdb = document.getElementById("noskipdone");
+
+      const disSkip = () => {
+        if (skipdone == true) {
+          skipdone = false;
+          sdb.innerText = "Enable Skipping Done";
+        } else {
+          skipdone = true;
+          sdb.innerText = "Disable Skipping Done";
+        }
+      };
+
+      const saveCurr = () => {
+        spots[loop.loc] = {
+          x: curr.style.left.split("p")[0],
+          y: curr.style.top.split("p")[0]
+        };
+      };
+
+      const copyData = () => {
+        getData();
+        var range = document.createRange();
+        range.selectNode(document.getElementById("data"));
+        window.getSelection().removeAllRanges(); // clear current selection
+        window.getSelection().addRange(range); // to select text
+        document.execCommand("copy");
+        window.getSelection().removeAllRanges();
+      };
+
+      const renameLoc = () => {
+        loop.loc = prompt(
+          "New Location (Please remove only floor part, copy other text. CASE SENSITIVE.): "
+        );
+        if (loc == null) return;
+        dat.innerHTML = `Loc: ${loop.loc}`;
+      };
+
+      const sendToServer = async () => {
+        getData();
+        if (out.innerText == "{}") return alert("Do some spots first 👀");
+        let resp = await fetch(
+          "https://promap.glitch.me/setcspots?data=" +
+            encodeURIComponent(out.innerText)
+        );
+        resp = await resp.json();
+        alert(resp.msg);
+      };
+      const addNew = () => {
+        let l = prompt("New Location Name: (Case Sensitive)");
+        data.push(l);
+        loop.counter = data.length - 1;
+        let loc = data[loop.counter];
+        loop.loc = loc;
+        dat.innerHTML = `Loc: ${loc}`;
+      };
+
+      const next = () => {
+        loop.counter++;
+        let loc = data[loop.counter];
+        loop.loc = loc;
+        dat.innerHTML = `Loc: ${loc}`;
+        let det = spots[loc];
+        if (det && skipdone) next();
+      };
+
+      const prev = () => {
+        loop.counter--;
+        let loc = data[loop.counter];
+        loop.loc = loc;
+        dat.innerHTML = `Loc: ${loc}`;
+      };
+
+      const skip = () => {
+        loop.counter++;
+        let loc = data[loop.counter];
+        loop.loc = loc;
+        dat.innerHTML = `Loc: ${loc}`;
+      };
+
+      const getData = () => {
+        return (out.innerText = JSON.stringify(spots));
+      };
+
+      var cx = 0,
+        cy = 0;
+
+      img.addEventListener("mousedown", evt => {
+        if (!ready) return;
+        if (curr != null) return;
+        //console.log("MOUSE DOWN")
+        evt.preventDefault();
+        curr = document.createElement("div");
+        curr.className = "spot";
+        cx = evt.clientX;
+        cy = evt.clientY + window.scrollY;
+        curr.style =
+          "position:absolute;left:" +
+          evt.clientX +
+          "px;top:" +
+          (evt.clientY + window.scrollY) +
+          "px;";
+        ds.appendChild(curr);
+      });
+
+      window.addEventListener("keydown", evt => {
+        if (!ready) return;
+        console.log(evt.keyCode);
+        if (!curr) return;
+        if (evt.keyCode == 90) {
+          saveCurr();
+          next();
+          curr = null;
+          if (autosel == true) {
+            curr = document.createElement("div");
+            curr.className = "spot";
+            curr.style =
+              "position:absolute;left:" + cx + "px;top:" + cy + "px;";
+            ds.appendChild(curr);
+          }
+        } else if (evt.keyCode == 27) {
+          ds.removeChild(curr);
+          curr = null;
+        }
+      });
+
+      img.addEventListener("mousemove", evt => {
+        if (!ready) return;
+        evt.preventDefault();
+        ex.innerText = "X: " + evt.clientX;
+        ey.innerText = "Y: " + (evt.clientY + window.scrollY);
+
+        if (!curr) return;
+        curr.style.left = evt.clientX + "px";
+        curr.style.top = evt.clientY + window.scrollY + "px";
+      });
+    </script>
+  </body>
+</html>

@@ -1,0 +1,94 @@
+<!doctype html>
+<html lang="en-US">
+  <head>
+    <meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width,initial-scale=1"/>
+    <title><%= poke.names.en %> - PokéDex - PRO Map</title>
+    <meta name="theme-color" content="<%=poke.col%>"/>
+    <meta name="og:site_name" content="PokéDex- PRO Map"/>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap" rel="stylesheet"> 
+    <meta name="og:title" content="#<%=poke.national_id%> <%=poke.names.en%> [<%=poke.types.join(", ")%>]"/>
+    <meta name="og:image" content="https://raw.githubusercontent.com/PokeAPI/pokeapi/master/data/v2/sprites/pokemon/<%=poke.national_id%>.png">
+    <meta name="og:description" content="<%=poke.desc%>
+Abilities: <%=poke.abilities.map(abi=>abi.hidden==true?`[HA] ${abi.name}`:abi.name).join(", ")%>
+Evolutions: <%=poke.evos%>
+"/>
+    <link rel="icon" href="https://raw.githubusercontent.com/PokeAPI/pokeapi/master/data/v2/sprites/pokemon/<%=poke.national_id%>.png"/>
+    <style>
+      :root {
+        --col-dbg: #232931;
+        --col-lbg: #393e46;
+        --col-grn: #4ecca3;
+        --col-txt: #eeeeee;
+      }
+      
+      body {
+        font-family: 'Roboto', sans-serif;
+        background-color: var(--col-dbg);
+        color: var(--col-txt);
+        height: 100%;
+        width: 100%;
+        overflow: hidden;
+        position: fixed;
+        top: 0px; 
+        left: 0px;
+      }
+      
+      #app {
+        position: fixed;
+        width: 90%;
+        left: 5%;
+        top: 5%;
+        height: 90%;
+        background-color: var(--col-lbg);
+        border-radius: 10px;
+        overflow-y: auto;
+      }
+      #header {
+        font-size: 30px;
+        color: var(--col-lbg);
+        background-color: var(--col-grn);
+        margin: 10px;
+        padding: 10px;
+        border-radius: 10px;
+      }
+      
+      #content {
+        background-color: var(--col-dbg);
+        margin: 10px;
+        padding: 10px;
+        border-radius: 10px;
+      }
+      
+      #image img {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width:15%;
+      }
+      #data {
+        align: left;
+        padding: 10px;
+        margin: 10px;
+      }
+    </style>
+  </head>
+  <body>
+    <!--div id="app" style="">
+      <div id="header">
+        <span style="color: var(--col-dbg);">#<%=poke.national_id%> </span><span><%=poke.names.en%></span>
+      </div>
+      <div id="content">
+        <div id="image">
+          <img src="https://raw.githubusercontent.com/PokeAPI/pokeapi/master/data/v2/sprites/pokemon/<%=poke.national_id%>.png" alt="SPRITE"/>
+        </div>
+        <div id="data">
+          <p>
+            <%=poke.desc%>
+          </p>
+        </div>
+      </div>
+    </div-->
+    See the embed in Discord!
+  </body>
+</html>
