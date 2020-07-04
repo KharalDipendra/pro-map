@@ -1,0 +1,4007 @@
+[
+  {
+    "name": "Misty",
+    "region": "Johto",
+    "location": "Route 41",
+    "cooldown": "12 days",
+    "reqs": ["Johto Champion"],
+    "teams": [
+      [
+        {
+          "name": "Milotic",
+          "moves": ["Water Pulse", "Icy Wind", "Mist", "Surf"]
+        },
+        {
+          "name": "Gyarados",
+          "moves": ["Twister", "Surf", "Earthquake", "Ice Fang"]
+        },
+        {
+          "name": "Starmie",
+          "moves": ["Water Pulse", "Psywave", "Water Gun", "Waterfall"]
+        },
+        {
+          "name": "Cradily",
+          "moves": ["Toxic", "Curse", "Solar Beam", "Rock Tomb"]
+        },
+        {
+          "name": "Blastoise",
+          "moves": ["Water Gun", "Aura Sphere", "Dark Pulse", "Waterfall"]
+        },
+        {
+          "name": "Togekiss",
+          "moves": ["Thunder Wave", "Extreme Speed", "Shock Wave", "Air Slash"]
+        }
+      ],
+      [
+        {
+          "name": "Milotic",
+          "moves": ["Scald", "Ice Beam", "Recover", "Dragon Tail"]
+        },
+        {
+          "name": "Gyarados",
+          "moves": ["Dragon Dance", "Earthquake", "Waterfall", "Ice Fang"]
+        },
+        {
+          "name": "Starmie",
+          "moves": ["Surf", "Psychic", "Thunderbolt", "Ice Beam"]
+        },
+        {
+          "name": "Cradily",
+          "moves": ["Toxic", "Curse", "Seed Bomb", "Ingrain"]
+        },
+        {
+          "name": "Blastoise",
+          "moves": ["Hydropump", "Aura Sphere", "Dark Pulse", "Flash Cannon"]
+        },
+        {
+          "name": "Togekiss",
+          "moves": ["Thunder Wave", "Roost", "Nasty Plot", "Air Slash"]
+        }
+      ]
+    ],
+    "rewards": [
+      "$5000-40000",
+      "0-4x PvE Coins",
+      "1-3x Pearl",
+      "Water Gem",
+      "1-3x TM105 - Scald",
+      "3-8x PP Up",
+      "Ludicolo Clothes",
+      "Ludicolo Hat",
+      "Wailmer",
+      "Shellder",
+      "Shellos",
+      "Oshawott"
+    ],
+    "thirdRewards": ["Oshawott", "Shellos", "Feebas", "Poliwag", "Togepi"]
+  },
+  {
+    "name": "BattleBot",
+    "region": "Kanto",
+    "location": "Dock Island House 2",
+    "cooldown": "15 days",
+    "reqs": ["6 Level 100 Pokémon", "200 Hours playtime"],
+    "teams": [
+      [
+        {
+          "name": "Mega Mewtwo X",
+          "moves": ["Psycho Cut", "Close Combat", "Recover", "Psych Up"]
+        },
+        {
+          "name": "Primal Groudon",
+          "moves": [
+            "Earthquake",
+            "Flamethrower",
+            "Swords Dance",
+            "Thunder Punch"
+          ]
+        },
+        {
+          "name": "XD001",
+          "moves": ["Cosmic Power", "Aeroblast", "Psyshock", "Roar"]
+        },
+        {
+          "name": "Primal Kyogre",
+          "moves": ["Surf", "Thunder", "Ice Beam", "Calm Mind"]
+        },
+        {
+          "name": "Mega Latios",
+          "moves": ["Calm Mind", "Stored Power", "Recover", "Dragon Pulse"]
+        },
+        {
+          "name": "Mega Rayquaza",
+          "moves": ["Dragon Dance", "Outrage", "Roost", "Extreme Speed"]
+        }
+      ]
+    ],
+    "rewards": [
+      "$60000-125000",
+      "10x Rare Candy",
+      "10x PP Up",
+      "10x Focus Sash",
+      "50x Ultra Ball",
+      "Assault Vest",
+      "1x Weakness Policy",
+      "Eviolite",
+      "Master Ball",
+      "Dratini",
+      "Larvitar",
+      "Bagon",
+      "Beldum",
+      "Goomy",
+      "Gible",
+      "25% chance for Phione"
+    ],
+    "thirdRewards": [
+      "Dratini",
+      "Larvitar",
+      "Bagon",
+      "Goomy",
+      "Small MS Medalion"
+    ]
+  },
+  {
+    "name": "Brock",
+    "region": "Kanto",
+    "location": "Digletts Cave",
+    "cooldown": "12 days",
+    "reqs": ["Kanto champion"],
+    "teams": [
+      [
+        {
+          "name": "Aerodactyl",
+          "moves": ["Rock Slide", "Taunt", "Stalth Rock", "Explosion"]
+        },
+        {
+          "name": "Golem",
+          "moves": ["Rock Slide", "Bulldoze", "Heavy Slam", "Sucker Punch"]
+        },
+        {
+          "name": "Steelix",
+          "moves": ["Iron Head", "Dig", "Sandstorm", "Double-Edge"]
+        },
+        {
+          "name": "Cradily",
+          "moves": ["Toxic", "Solarbeam", "Smack Down", "Sludge Wave"]
+        },
+        {
+          "name": "Toxicroak",
+          "moves": ["Vacuum Wave", "Sludge Wave", "Sludge Bomb", "Dark Pulse"]
+        },
+        {
+          "name": "Terrakion",
+          "moves": ["Scared Sword", "Rock Slide", "X-Scissor", "Poison Jab"]
+        }
+      ],
+      [
+        {
+          "name": "Aerodactyl",
+          "moves": ["Stone Edge", "Taunt", "Fire Blast", "Aqua Tail"]
+        },
+        {
+          "name": "Golem",
+          "moves": ["Stone Edge", "Rock Polish", "Earthquake", "Fire Punch"]
+        },
+        {
+          "name": "Steelix",
+          "moves": ["Earthquake", "Heavy Slam", "Stone Edge", "Ice Fang"]
+        },
+        {
+          "name": "Cradily",
+          "moves": ["Seed bomb", "Rock Slide", "Toxic", "Curse"]
+        },
+        {
+          "name": "Toxicroak",
+          "moves": ["Focus Blast", "Sludge Bomb", "Icy Wind", "Dark Pulse"]
+        },
+        {
+          "name": "Terrakion",
+          "moves": ["Close Combat", "Stone Edge", "Sword Dance", "Earthquake"]
+        }
+      ]
+    ],
+
+    "rewards": [
+      "$5000-40000",
+      "5x PP Up",
+      "x5 Rare Candy",
+      "1-2 Stardust",
+      "1x Srar piece",
+      "1x Dome Fossil",
+      "1x Helix Fossil",
+      "1x Old Amber",
+      "1x Nugget",
+      "1x Big Nugget",
+      "0-4x PVE Coins"
+    ],
+    "thirdRewards": ["Omanyte", "Kabuto", "Aerodactyl", "Anorith", "Lileep"]
+  },
+  {
+    "name": "Chuck",
+    "region": "Kanto",
+    "location": "Gold's Gym (Saffron City)",
+    "cooldown": "12 days",
+    "reqs": ["Johto Champion"],
+    "teams": [
+      [
+        {
+          "name": "Machamp",
+          "moves": ["Cross Chop", "Submission", "Revenge", "Brick Break"]
+        },
+        {
+          "name": "Infernape",
+          "moves": ["Overheat", "Heat Wave", "Vauum Wave", "Focus Blast"]
+        },
+        {
+          "name": "Meinshao",
+          "moves": ["Jump Kick", "Bounce", "Brick Break", "Aerial Ace"]
+        },
+        {
+          "name": "Conkeldurr",
+          "moves": ["Wake-Up Slap", "Rock Slide", "Brick Break", "Bulldoze"]
+        },
+        {
+          "name": "Poliwrath",
+          "moves": ["Surf", "Icy Wind", "Hyper Beam", "Psychic"]
+        },
+        {
+          "name": "Breloom",
+          "moves": ["Force Palm", "Leech Seed", "Sky Uppercut", "Bullet Seed"]
+        }
+      ],
+      [
+        {
+          "name": "Machamp",
+          "moves": ["Dynamic Punch", "Stone Edge", "Heavy Slam", "Fire Punch"]
+        },
+        {
+          "name": "Infernape",
+          "moves": ["Fire Blast", "Focus Blast", "Vacuum Wave", "Grass Knot"]
+        },
+        {
+          "name": "Meinshao",
+          "moves": ["High Jump Kick", "Rock Slide", "Knock Off", "Poison Jab"]
+        },
+        {
+          "name": "Conkeldurr",
+          "moves": ["Drain Punch", "Ice Punch", "Fire Punch", "Thunder Punch"]
+        },
+        {
+          "name": "Poliwrath",
+          "moves": ["Hydro Pump", "Ice Beam", "Focus Blast", "Hypnosis"]
+        },
+        {
+          "name": "Breloom",
+          "moves": ["Drain Punch", "Seed Bomb", "Facade", "Spore"]
+        }
+      ]
+    ],
+    "rewards": [
+      "$5000-40000",
+      "5-10x Chople Berry",
+      "5-10x Focus Sash",
+      "Shroomish",
+      "5-10x Weakness Policy",
+      "5-10x Lum Berry",
+      "Timburr",
+      "Meinfoo",
+      "Chimchar",
+      "0-4x PvE Coins"
+    ],
+    "thirdRewards": ["Meinfoo", "Chimchar", "Shroomish", "Timburr"]
+  },
+  {
+    "name": "Entei Guardian",
+    "region": "Kanto",
+    "location": "Route 25 Cave",
+    "cooldown": "12 days",
+    "reqs": ["Johto Champion", "450 Hours playtime"],
+    "teams": [
+      [
+        {
+          "name": "Entei",
+          "moves": ["Sacred Fire", "Extreme Speed", "Stone Edge", "Iron Tail"]
+        },
+        {
+          "name": "Infernape",
+          "moves": ["Close Combat", "Flare Blitz", "Gunk Shot", "Thunder Punch"]
+        },
+        {
+          "name": "Reshiram",
+          "moves": ["Blue Flare", "Dragon Pulse", "Focus Blast", "Shadow Ball"]
+        },
+        {
+          "name": "Gliscor",
+          "moves": ["Swords Dance", "Earthquake", "Facade", "Knock Off"]
+        },
+        {
+          "name": "Serperior",
+          "moves": ["Leaf Storm", "Dragon Pulse", "Leech Seed", "Giga Drain"]
+        },
+        {
+          "name": "Chandelure",
+          "moves": ["Shadow Ball", "Fire Blast", "Energy Ball", "Psychic"]
+        }
+      ]
+    ],
+    "rewards": [
+      "$20000-30000",
+      "3x PP Up",
+      "3x TM85 - Flamethrower",
+      "3x TM61 - Sunny Day",
+      "Heat Rock",
+      "Choice Band",
+      "4x PvE Coins",
+      "Entei (If not caught yet, level 30)"
+    ],
+    "thirdRewards": [
+      "Entei (If not caught yet, level 30)",
+      "Charmander",
+      "Bulbasaur",
+      "Chimchar",
+      "Tepig"
+    ]
+  },
+  {
+    "name": "Erika",
+    "region": "Kanto",
+    "location": "Viridian Maze",
+    "cooldown": "12 days",
+    "reqs": ["Kanto Champion"],
+    "teams": [
+      [
+        {
+          "name": "Ferrothorn",
+          "moves": ["Iron Head", "Payback", "Selfdestruct", "Curse"]
+        },
+        {
+          "name": "Volcarona",
+          "moves": ["Heat Wave", "Amnesia", "Signal Beam", "Psychic"]
+        },
+        {
+          "name": "Ludicolo",
+          "moves": ["Surf", "Mega Drain", "Icy Wind", "Solar Beam"]
+        },
+        {
+          "name": "Celebi",
+          "moves": ["Magical Leaf", "Ancient Power", "Prish Song", "Leech Seed"]
+        },
+        {
+          "name": "Torterra",
+          "moves": ["Razor Leaf", "Crunch", "Stomping Trantrum", "Synthesis"]
+        },
+        {
+          "name": "Tangrowth",
+          "moves": ["Giga Drain", "Knock Off", "Slam", "Brick Break"]
+        }
+      ],
+      [
+        {
+          "name": "Ferrothorn",
+          "moves": ["Power Whip", "Gyro Ball", "Bulldoze", "Explosion"]
+        },
+        {
+          "name": "Volcarona",
+          "moves": ["Quiver Dance", "Flamethrower", "Bug Buzz", "Giga Drain"]
+        },
+        {
+          "name": "Ludicolo",
+          "moves": ["Hydro Pump", "Giga Drain", "Ice Beam", "Focus Blast"]
+        },
+        {
+          "name": "Celebi",
+          "moves": ["Thunder Wave", "Nasty Plot", "Psychic", "Earth Power"]
+        },
+        {
+          "name": "Torterra",
+          "moves": ["Wood Hammer", "Earthquake", "Stone Edge", "Synthesis"]
+        },
+        {
+          "name": "Tangrowth",
+          "moves": ["Power Whip", "Sludge Bomb", "Earthquake", "Ancient Power"]
+        }
+      ]
+    ],
+    "rewards": [
+      "$5000-40000",
+      "5-10x Rindo Berry",
+      "5-10x Weakness Policy",
+      "Lotad",
+      "Tangela",
+      "5-10x TM22 - Solarbeam",
+      "5-10x Sitrus Berry",
+      "Ferroseed",
+      "Turtwig",
+      "Larvesta",
+      "0-4x PvE Coins"
+    ],
+    "thirdRewards": ["Larvesta", "Turtwig", "Ferroseed", "Lotad"]
+  },
+  {
+    "name": "George",
+    "region": "Kanto",
+    "location": "Jail (Pewter City)",
+    "cooldown": "12 days",
+    "reqs": ["Event move quest, Kanto Champion"],
+    "teams": [
+      [
+        {
+          "name": "Arcanine",
+          "moves": ["Double-Edge", "Flare Biltz", "Bite", "Roar"]
+        },
+        {
+          "name": "Stouthlald",
+          "moves": ["Yawn", "Superpower", "Wild Charge", "Facace"]
+        },
+        {
+          "name": "Grandbull",
+          "moves": ["Play Rough", "Thunder Wave", "Fire Fang", "Ice Fang"]
+        },
+        {
+          "name": "Houndoom",
+          "moves": ["Dark Pulse", "Flamethrower", "Sunny Day", "Shadow ball"]
+        },
+        {
+          "name": "Manetric",
+          "moves": ["Thunderbolt", "Thynder Wave", "Double Team", "Snarl"]
+        },
+        {
+          "name": "Lucario",
+          "moves": ["Close Combat", "Bullet Punch", "Blaze Kick", "Dual Chop"]
+        }
+      ],
+      [
+        {
+          "name": "Arcanine",
+          "moves": [
+            "Flare Blitz",
+            "Will-o-Wisp",
+            "CLose Combat",
+            "Extreme Speed"
+          ]
+        },
+        {
+          "name": "Southlang",
+          "moves": ["Return", "Crunch", "Superpower", "Play Rough"]
+        },
+        {
+          "name": "Grandbull",
+          "moves": ["Play Rough", "Thunder Wave", "Earthquake", "Stone Edge"]
+        },
+        {
+          "name": "Houndoom",
+          "moves": ["Nasty plot", "Fire Blast", "Dark Pulse", "Sludge Bomb"]
+        },
+        {
+          "name": "Manetric",
+          "moves": ["Thunder", "Flamethrower", "Thunder Wave", "Roar"]
+        },
+        {
+          "name": "Lucario",
+          "moves": ["Close Combat", "Meteor Mash", "Crunch", "Ice Punch"]
+        }
+      ]
+    ],
+    "rewards": [
+      "$6000-50000",
+      "2x Toxic Orb",
+      "x2 Flame Orb",
+      "Black Sludge",
+      "Houndour",
+      "Electrike",
+      "Lillipup",
+      "Riolu",
+      "Furfrou",
+      "0-4 PVE Coins"
+    ],
+    "thirdRewards": ["Houndoor", "Electrike", "Lillipup", "Riolu", "Furfrou"]
+  },
+  {
+    "name": "Jessie & James",
+    "region": "Kanto",
+    "location": "Celadon City",
+    "cooldown": "12 days",
+    "reqs": ["Kanto Champion", "Pikachu in team"],
+    "teams": [
+      [
+        {
+          "name": "Arbok",
+          "moves": ["Coil", "Gunk Shot", "Earthquake", "Ice Fang"]
+        },
+        {
+          "name": "Gourgiest",
+          "moves": ["Seed Bomb", "Phantom Force", "Will-o-Wisp", "Leech Seed"]
+        },
+        {
+          "name": "Yanmega",
+          "moves": ["Air Slash", "Giga Drain", "Bug Buzz", "Ancient Power"]
+        },
+        {
+          "name": "Porygon-Z",
+          "moves": ["Tri Attack", "Ice Beam", "Thunderbolt", "Shadow Ball"]
+        },
+        {
+          "name": "Seviper",
+          "moves": ["Sludge Bomb", "Giga Drain", "Sucker Punch", "Flamethrower"]
+        },
+        {
+          "name": "Jellicent",
+          "moves": ["Scald", "Shadow Ball", "Ice Beam", "Energy Ball"]
+        }
+      ],
+      [
+        {
+          "name": "Weezing",
+          "moves": ["Knock Off", "Sludge Bomb", "Fire Blast", "Thunderbolt"]
+        },
+        {
+          "name": "Arcanine",
+          "moves": [
+            "Flare Blitz",
+            "Wild Charge",
+            "Extreme Speed",
+            "Close Combat"
+          ]
+        },
+        {
+          "name": "Malamar",
+          "moves": ["Psycho Cut", "Knock Off", "Superpower"]
+        },
+        {
+          "name": "Gyarados",
+          "moves": ["Dragon Dance", "Waterfall", "Earthquake", "Ice Fang"]
+        },
+        {
+          "name": "Amoonguss",
+          "moves": ["Spore", "Giga Drain", "Clear Smog", "Foul Play"]
+        },
+        {
+          "name": "Cofagrigus",
+          "moves": ["Shadow Ball", "Nasty Plot", "Trick Room", "Energy Ball"]
+        }
+      ]
+    ],
+    "rewards": [
+      "$10000-30000",
+      "Silver Disc",
+      "Wynaut",
+      "Frillish",
+      "Team Rocket Clothes",
+      "Foongun",
+      "Cacnea",
+      "Inkay",
+      "2x PvE Coins"
+    ],
+    "thirdRewards": ["Inkay", "Frillish", "Foongun", "Porygon"]
+  },
+  {
+    "name": "Koichi",
+    "region": "Kanto",
+    "location": "Saffron Dojo",
+    "cooldown": "12 days",
+    "reqs": ["Kanto Champion"],
+    "teams": [
+      [
+        {
+          "name": "Lucario",
+          "moves": ["Aura Sphere", "Dragon Pulse", "Shadow Ball", "Calm Mind"]
+        },
+        {
+          "name": "Hitmonchan",
+          "moves": ["Sky Uppercut", "Counter", "Rock Slide", "Comet Punch"]
+        },
+        {
+          "name": "Hitmontop",
+          "moves": ["Quick Attack", "Triple Kick", "Rolling Kick", "Aerial Ace"]
+        },
+        {
+          "name": "Hitmonlee",
+          "moves": ["Jump Kick", "Blaze Kick", "Bulldoze", "Rock Tomb"]
+        },
+        {
+          "name": "Gallade",
+          "moves": ["Psycho Cut", "Leaf Blade", "Night Slash", "Slash"]
+        },
+        {
+          "name": "Pangoro",
+          "moves": ["Hammer Arm", "Crunch", "Fire Punch", "Stomping Tantrum"]
+        }
+      ],
+      [
+        {
+          "name": "Lucario",
+          "moves": ["Nasty Plot", "Focus Blast", "Flash Cannon", "Dark Pulse"]
+        },
+        {
+          "name": "Hitmonchan",
+          "moves": ["Counter", "Close Combat", "Fire Punch", "Ice Punch"]
+        },
+        {
+          "name": "Hitmontop",
+          "moves": ["Close Combat", "Endeavor", "Stone Edge", "Earthquake"]
+        },
+        {
+          "name": "Hitmonlee",
+          "moves": ["High Jump Kick", "Knock Off", "Poison Jab", "Blaze Kick"]
+        },
+        {
+          "name": "Gallade",
+          "moves": [
+            "Swords Dance",
+            "Close Combat",
+            "Zen Headbutt",
+            "Leaf Blade"
+          ]
+        },
+        {
+          "name": "Pangoro",
+          "moves": ["Hammer Arm", "Crunch", "Gunk Shot", "Fire Punch"]
+        }
+      ]
+    ],
+    "rewards": [
+      "$5000-40000",
+      "5-10x Chople Berry",
+      "5-10x Focus Sash",
+      "Tyrogue",
+      "5-10x Weakness Policy",
+      "5-10x Lum Berry",
+      "3-8x Rare Candy",
+      "3-8 PP Up",
+      "Riolu",
+      "Pancham",
+      "Ralts",
+      "0-4 PvE Coins"
+    ],
+    "thirdRewards": ["Tyrogue", "Riolu", "Ralts", "Pancham"]
+  },
+  {
+    "name": "Medusa & Eldir",
+    "region": "Sinnoh",
+    "location": "Legends Cave",
+    "cooldown": "12 days",
+    "reqs": ["Sinnoh Champion"],
+    "teams": [
+      [
+        {
+          "name": "Dragonite",
+          "moves": ["Dragon Claw", "Earthquake", "Iron Head", "Fire Punch"]
+        },
+        {
+          "name": "Conkeldurr",
+          "moves": ["Drain Punch", "Knock Off", "Poison Jab", "Ice Punch"]
+        },
+        {
+          "name": "Lucario",
+          "moves": ["Close Combat", "Meteor Mash", "Crunch", "Ice Punch"]
+        },
+        {
+          "name": "Jolteon",
+          "moves": ["Discharge", "Thunder", "Signal Beam", "Shadow Ball"]
+        },
+        {
+          "name": "Garchomp",
+          "moves": ["Dragon Tail", "Earthquake", "Iron Head", "Fire Blast"]
+        },
+        {
+          "name": "Reshiram",
+          "moves": ["Blue Flare", "Roost", "Outrage", "Earth Power"]
+        }
+      ],
+      [
+        {
+          "name": "Gyarados",
+          "moves": ["Dragon Dance", "Waterfall", "Crunch", "Earthquake"]
+        },
+        {
+          "name": "Muk-Alolan",
+          "moves": ["Knock Off", "Pursuit", "Gunk Shot", "Fire Punch"]
+        },
+        {
+          "name": "Alakazam",
+          "moves": ["Hidden Power", "Psyshock", "Energy Ball", "Dazzling Gleam"]
+        },
+        {
+          "name": "Infernape",
+          "moves": ["Close Combat", "Poison Jab", "Earthquake", "Fire Blast"]
+        },
+        {
+          "name": "Slowbro",
+          "moves": ["Calm Mind", "Psyshock", "Slack Off", "Scald"]
+        },
+        {
+          "name": "Zekrom",
+          "moves": ["Bolt Strike", "Dragon Claw", "Outrage", "Roost"]
+        }
+      ]
+    ],
+    "rewards": [
+      "$10000-60000",
+      "1-4x PvE Coins",
+      "DC Clothes",
+      "Peach Kimono",
+      "Purple Kimono",
+      "Green Kimono",
+      "Blue Kimono",
+      "Vulpix-Alolan",
+      "Grimer-Alolan",
+      "Mini-MS Medalion",
+      "20-30x Ultra Ball",
+      "13-18x Lum Berry",
+      "3-7 Rare Candy"
+    ],
+    "thirdRewards": [
+      "Eevee",
+      "Vulpix-Alolan",
+      "Grimer-Alolan",
+      "Gligar",
+      "Chimchar"
+    ]
+  },
+  {
+    "name": "Naruto Fanboy",
+    "location": "Desert Ruins",
+    "region": "Hoenn",
+    "reqs": ["6x Level 100 Pokemon", "300 Hours playtime"],
+    "cooldown": "12 days",
+    "teams": [
+      [
+        {
+          "name": "Staraptor",
+          "moves": ["Brave Bird", "Close Combat", "Double-Edge", "Quick Attack"]
+        },
+        {
+          "name": "Diggersby",
+          "moves": ["Return", "Quick Attack", "Earthquake", "Fire Punch"]
+        },
+        {
+          "name": "Porygon-Z",
+          "moves": ["Psyshock", "Petal Blizzard", "Shadow Ball", "Focus Blast"]
+        },
+        {
+          "name": "Heliolisk",
+          "moves": ["Thunderbolt", "Surf", "Hyper Voice", "Fire Blast"]
+        },
+        {
+          "name": "Exploud",
+          "moves": ["Hyper Voice", "Surf", "Fire Blast", "Fire Punch"]
+        },
+        {
+          "name": "Regigigas",
+          "moves": ["Heavy Slam", "Giga Impact", "Ice Punch", "Fire Punch"]
+        }
+      ]
+    ],
+    "rewards": [
+      "$12000-30000",
+      "2x Rare Candy",
+      "3x Oran Berry",
+      "2x Big Pearl",
+      "Razor Claw",
+      "Prism Scale",
+      "Slakoth",
+      "Tynamo",
+      "Sigilyph",
+      "Cacnea"
+    ],
+    "thirdRewards": ["Slakoth", "Tynamo", "Sigilyph"]
+  },
+  {
+    "name": "Naero",
+    "location": "Cerulean Cave B1F",
+    "region": "Kanto",
+    "reqs": ["6 level 100 pokemon", "201 hours playtime"],
+    "cooldown": "12 days, 6 days (active MS)",
+    "teams": [
+      [
+        {
+          "name": "Togekiss",
+          "moves": ["Air Slash", "Psychic", "Shadow Ball", "Extreme Speed"]
+        },
+        {
+          "name": "Snorlax",
+          "moves": ["Crunch", "Body Slam", "Rest", "Sleep Talk"]
+        },
+        {
+          "name": "Mr. Mime",
+          "moves": ["Icy Wind", "Psychic", "Confuse Ray", "Shadow Ball"]
+        },
+        {
+          "name": "Blissey",
+          "moves": [
+            "Seismic Toss",
+            "Softboiled",
+            "Thunder Wave",
+            "Flamethrower"
+          ]
+        },
+        {
+          "name": "Electivire",
+          "moves": ["Thunder Punch", "Cross Chop", "Flamethrower", "Ice Punch"]
+        },
+        {
+          "name": "Magmortar",
+          "moves": ["Thunderbolt", "Earthquake", "Lava Plume", "Focus Blast"]
+        }
+      ],
+      [
+        {
+          "name": "Togekiss",
+          "moves": [
+            "Air Slash",
+            "Flamethrower",
+            "Aura Sphere",
+            "Dazzling Gleam"
+          ]
+        },
+        {
+          "name": "Snorlax",
+          "moves": ["Body Slam", "Crunch", "Fire Punch", "Earthquake"]
+        },
+        {
+          "name": "Mr. Mime",
+          "moves": ["Psychic", "Focus Blast", "Dazzling Gleam", "Shadow Balll"]
+        },
+        {
+          "name": "Blissey",
+          "moves": ["Toxic", "Softboiled", "Seismic Toss", "Wish"]
+        },
+        {
+          "name": "Electivire",
+          "moves": ["Wild Charge", "Fire Punch", "Cross Chop", "Ice Punch"]
+        },
+        {
+          "name": "Magmortar",
+          "moves": ["Fire Blast", "Earthquake", "Thunderbolt", "Focus Blast"]
+        }
+      ]
+    ],
+    "rewards": [
+      "$5000-40000",
+      "0-4x PvE Coins",
+      "Tyrogue",
+      "Cleffa",
+      "Igglybuff",
+      "Pichu",
+      "Munchlax",
+      "Bonsly",
+      "Mime Jr.",
+      "Togepi",
+      "Elekid",
+      "Magby",
+      "Smoochum"
+    ],
+    "thirdRewards": ["Elekid", "Magby", "Smoochum", "Togepi", "Munchlax"]
+  },
+  {
+    "name": "Nikola",
+    "location": "Unknown Place (Trainers Valley)",
+    "region": "Kanto",
+    "reqs": ["Not able to catch a legendary anymore"],
+    "cooldown": "21 days",
+    "teams": [
+      [
+        {
+          "name": "Mewtwo",
+          "moves": ["Psystrike", "Aura Sphere", "Ice Beam", "Fire Blast"]
+        },
+        {
+          "name": "Rayquaza",
+          "moves": ["Dragon Dance", "Outrage", "Earthquake", "Extreme Speed"]
+        },
+        {
+          "name": "Kyogre",
+          "moves": ["Hydro Pump", "Thunder", "Ice Beam", "Water Spout"]
+        },
+        {
+          "name": "Arceus",
+          "moves": [
+            "Extreme Speed",
+            "Swords Dance",
+            "Shadow Claw",
+            "Brick Break"
+          ]
+        },
+        {
+          "name": "Deoxys",
+          "moves": ["Psycho Boost", "Superpower", "Ice Beam", "Knock Off"]
+        },
+        {
+          "name": "Groudon",
+          "moves": ["Earthquake", "Stone Edge", "Fire Blast", "Dragon Tail"]
+        }
+      ]
+    ],
+    "rewards": ["Recatch a legendary that you can't catch anymore"],
+    "thirdRewards": []
+  },
+  {
+    "name": "Region",
+    "location": "Cinnabar Lab Room 2",
+    "region": "",
+    "reqs": ["Kanto champion"],
+    "cooldown": "12 days",
+    "teams": [
+      [
+        {
+          "name": "Rotom",
+          "moves": ["Shock Wave", "Ominous Wind", "Signal Beam", "Will-o-Wisp"]
+        },
+        {
+          "name": "Venusaur",
+          "moves": [
+            "Giga Drain",
+            "Sleep Powder",
+            "Poison Powder",
+            "Sludge Bomb"
+          ]
+        },
+        {
+          "name": "Charizard",
+          "moves": ["Flamethrower", "Dragon Pulse", "Air Slash", "Smokescreen"]
+        },
+        {
+          "name": "Blastoise",
+          "moves": ["Scald", "Dark Pulse", "Aura Sphere", "Dragon Pulse"]
+        },
+        {
+          "name": "Tauros",
+          "moves": ["Take Down", "Zen Headbutt", "Pursuit", "Rock Slide"]
+        },
+        {
+          "name": "Dragonite",
+          "moves": ["Dragon Claw", "Thunder Punch", "Slam", "Wing Attack"]
+        }
+      ],
+      [
+        {
+          "name": "Rotom-Wash",
+          "moves": ["Thunderbolt", "Hydro Pump", "Defog", "Reflect"]
+        },
+        {
+          "name": "Venusaur",
+          "moves": ["Petal Dance", "Sleep Powder", "Sludge Bomb", "Leech Seed"]
+        },
+        {
+          "name": "Charizard",
+          "moves": ["Fire Blast", "Air Slash", "Focus Blast", "Dragon Pulse"]
+        },
+        {
+          "name": "Blastoise",
+          "moves": ["Hydro Pump", "Ice Beam", "Toxic", "Dark Pulse"]
+        },
+        {
+          "name": "Tauros",
+          "moves": ["Rock Climb", "Earthquake", "Rock Slide", "Iron Tail"]
+        },
+        {
+          "name": "Dragonite",
+          "moves": ["Dragon Dance", "Outrage", "Extreme Speed", "Fire Punch"]
+        }
+      ]
+    ],
+    "rewards": [
+      "$5000-40000",
+      "0-4x PVE Coins",
+      "5-10x Occa Berry",
+      "5-10x Passho Berry",
+      "5-10x Rindo Berry",
+      "5-10x Haban Berry",
+      "3-8x Rare Candy",
+      "3-8x PP Up",
+      "Bulbasaur",
+      "Charmander",
+      "Squirtle",
+      "Dratini",
+      "Rotom"
+    ],
+    "thirdRewards": ["Bulbasaur", "Charmander", "Squirtle", "Dratini"]
+  },
+  {
+    "name": "Shamac",
+    "location": "Jail (Pewter City)",
+    "region": "Kanto",
+    "reqs": ["Kanto champion"],
+    "cooldown": "12 days",
+    "teams": [
+      [
+        {
+          "name": "Swampert",
+          "moves": ["Scald", "Bulldoze", "Ice Punch", "Rock Slide"]
+        },
+        {
+          "name": "Swellow",
+          "moves": ["Air Slash", "Heat Wave", "Echoed Voice", "Whirlwind"]
+        },
+        {
+          "name": "Goodra",
+          "moves": ["Dragon Pulse", "Thunderbolt", "Muddy Water", "Sludge Bomb"]
+        },
+        {
+          "name": "Lapras",
+          "moves": ["Surf", "Ice Beam", "Confuse Ray", "Sing"]
+        },
+        {
+          "name": "Cinccino",
+          "moves": ["Slam", "Wake-Up Slap", "Bullet Seed", "Knock Off"]
+        },
+        {
+          "name": "Latias",
+          "moves": ["Dragon Pulse", "Psychic", "Recover", "Shadow Ball"]
+        }
+      ],
+      [
+        {
+          "name": "Swampert",
+          "moves": ["Waterfall", "Earthquake", "Stone Edge", "Ice Beam"]
+        },
+        {
+          "name": "Swellow",
+          "moves": ["Hurricane", "Boomburst", "Heat Wave", "Ominous Wind"]
+        },
+        {
+          "name": "Goodra",
+          "moves": ["Draco Meteor", "Fire Blast", "Thunder", "Sludge Wave"]
+        },
+        {
+          "name": "Lapras",
+          "moves": ["Hydro Pump", "Blizzard", "Sheer Cold", "Sing"]
+        },
+        {
+          "name": "Cinccino",
+          "moves": ["Tail Slap", "Rock Blast", "Bullet Seed", "Knock Off"]
+        },
+        {
+          "name": "Latias",
+          "moves": ["Draco Meteor", "Psyshock", "Thunderbolt", "Surf"]
+        }
+      ]
+    ],
+    "rewards": [
+      "$5000-40000",
+      "0-4x PVE Coins",
+      "5-10x Focus Sash",
+      "5-10x Weakness Policy",
+      "3-8x Rare Candy",
+      "Dubious Disc",
+      "Lapras",
+      "Mudkip",
+      "Goomy",
+      "Minccino"
+    ],
+    "thirdRewards": ["Lapras", "Mudkip", "Goomy", "Minccino"]
+  },
+  {
+    "name": "Shary/Shaui",
+    "location": "Love Island House 1",
+    "region": "Kanto",
+    "reqs": [
+      "Kanto champion",
+      "you can't leave the house",
+      "before you beat Shary and Shaui"
+    ],
+    "cooldown": "12 days",
+    "teams": [
+      [
+        {
+          "name": "Flareon",
+          "moves": ["Flare Blitz", "Facade", "Double Kick", "Will-o-Wisp"]
+        },
+        {
+          "name": "Mienshao",
+          "moves": ["Jump Kick", "Bounce", "Fake Out", "Dual Chop"]
+        },
+        {
+          "name": "Meloetta",
+          "moves": ["Psychic", "Perish Song", "Shock Wave", "Hyper Voice"]
+        },
+        {
+          "name": "Latias",
+          "moves": ["Psychic", "Dragon Pulse", "Icy Wind", "Shadow Ball"]
+        },
+        {
+          "name": "Jolteon",
+          "moves": ["Thunderbolt", "Thunder Wave", "Double Kick", "Pin Missile"]
+        },
+        {
+          "name": "Togekiss",
+          "moves": ["Air Slash", "Psychic", "Ancient Power", "Shadow Ball"]
+        }
+      ],
+      [
+        {
+          "name": "Shaymin-Sky",
+          "moves": ["Air Slash", "Energy Ball", "Dazzling Gleam", "Leech Seed"]
+        },
+        {
+          "name": "Conkeldurr",
+          "moves": ["Wake-Up Slap", "Rock Slide", "Facade", "Fire Punch"]
+        },
+        {
+          "name": "Dragonite",
+          "moves": [
+            "Dragon Dance",
+            "Dragon Claw",
+            "Thunder Punch",
+            "Earthquake"
+          ]
+        },
+        {
+          "name": "Alakazam",
+          "moves": ["Psychic", "Dazzling Gleam", "Thunder Wave", "Shadow Ball"]
+        },
+        {
+          "name": "Greninja",
+          "moves": ["Scald", "Dark Pulse", "Extrasensory", "Grass Knot"]
+        },
+        {
+          "name": "Azelf",
+          "moves": ["Extrasensory", "Thunderbolt", "Energy Ball", "Shadow Ball"]
+        }
+      ]
+    ],
+    "rewards": [
+      "$10000-100000",
+      "0-6x PVE Coins",
+      "10-15x Focus Sash",
+      "2-3x TM115 - Shadow Claw",
+      "2-3x TM96 - Thief",
+      "2-3x TM52 - Dragon Claw",
+      "2-3x TM92 - Facade",
+      "2-3x TM85 - Flamethrower",
+      "2-3x TM80 - Shadow Ball",
+      "2-3x TM54 - Calm Mind",
+      "2-3x TM62 - Taunt",
+      "5-8x Rare Candy",
+      "5x Dark Gem",
+      "Goomy Hat",
+      "Lunch Box",
+      "Marill",
+      "Shinx",
+      "Trapinch",
+      "Pancham",
+      "Deino",
+      "Eevee",
+      "Purrloin",
+      "Audino"
+    ],
+    "thirdRewards": ["Eevee", "Shinx", "Deino", "Audino", "Trapinch", "Buneary"]
+  },
+  {
+    "name": "Red",
+    "location": "Mt. Silver Summit",
+    "region": "Kanto",
+    "reqs": ["No requirements"],
+    "cooldown": "Not rechallengable",
+    "teams": [
+      [
+        {
+          "name": "Pikachu",
+          "moves": ["Megavolt", "Surf", "Grass Knot", "Knock Off"]
+        },
+        {
+          "name": "Espeon",
+          "moves": ["Psychic", "Psyshock", "Shadow Ball", "Calm Mind"]
+        },
+        {
+          "name": "Venusaur",
+          "moves": ["Sleep Powder", "Leech Seed", "Giga Drain", "Sludge Bomb"]
+        },
+        {
+          "name": "Blastoise",
+          "moves": ["Hydro Pump", "Ice Beam", "Dark Pulse", "Aura Sphere"]
+        },
+        {
+          "name": "Mega Charizard Y",
+          "moves": ["Flamethrower", "Roost", "Solar Beam", "Air Slash"]
+        },
+        {
+          "name": "Snorlax",
+          "moves": ["Crunch", "Curse", "Rest", "Sleep Talk"]
+        }
+      ]
+    ],
+    "rewards": ["You can use subway if you completed the quest"],
+    "thirdRewards": []
+  },
+  {
+    "name": "Pumpkin King",
+    "location": "Route 6",
+    "region": "Kanto",
+    "reqs": ["Kanto champion"],
+    "cooldown": "12 days",
+    "teams": [
+      [
+        {
+          "name": "Bisharp",
+          "moves": ["Swords Dance", "Knock Off", "Iron Head", "Low Kick"]
+        },
+        {
+          "name": "Shuckle",
+          "moves": ["Stealth Rock", "Infestation", "Toxic", "Encore"]
+        },
+        {
+          "name": "Yanmega",
+          "moves": ["Bug Buzz", "Air Slash", "Protect", "Giga Drain"]
+        },
+        {
+          "name": "Roserade",
+          "moves": ["Giga Drain", "Sludge Bomb", "Spikes", "Sleep Powder"]
+        },
+        {
+          "name": "Gourgeist",
+          "moves": ["Seed Bomb", "Will-o-Wisp", "Phantom Force", "Leech Seed"]
+        },
+        {
+          "name": "Togekiss",
+          "moves": [
+            "Air Slash",
+            "Flamethrower",
+            "Dazzling Gleam",
+            "Aura Sphere"
+          ]
+        }
+      ]
+    ],
+    "rewards": [
+      "$5000-10000",
+      "10x Passho Berry",
+      "10x Rindo Berry",
+      "10x Occa Berry",
+      "10x Yache Berry",
+      "10x Shuca Berry",
+      "10x Chople Berry",
+      "10x Colbur Berry",
+      "Shiny Stone",
+      "Shuckle",
+      "Lotad",
+      "Pawniard",
+      "Unlock the berry shop in Goldenrod City"
+    ],
+    "thirdRewards": ["Shuckle", "Lotad", "Pawniard"]
+  },
+  {
+    "name": "Urahara",
+    "location": "Pokemon Tower 3F",
+    "region": "Kanto",
+    "reqs": ["Kanto champion", "level 100 team"],
+    "cooldown": "12 days",
+    "teams": [
+      [
+        {
+          "name": "Lucario",
+          "moves": ["Close Combat", "Extreme Speed", "Ice Punch", "Meteor Mash"]
+        },
+        {
+          "name": "Ho-Oh",
+          "moves": ["Sacred Fire", "Brave Bird", "Earthquake", "Zen Headbutt"]
+        },
+        {
+          "name": "Volcarona",
+          "moves": ["Quiver Dance", "Flamethrower", "Giga Drain", "Bug Buzz"]
+        },
+        {
+          "name": "Raikou",
+          "moves": [
+            "Thunderbolt",
+            "Shadow Ball",
+            "Hidden Power",
+            "Extrasensory"
+          ]
+        },
+        {
+          "name": "Donphan",
+          "moves": ["Earthquake", "Ice Shard", "Stealth Rock", "Toxic"]
+        },
+        {
+          "name": "Togekiss",
+          "moves": ["Air Slash", "Fire Blast", "Aura Sphere", "Dazzling Gleam"]
+        }
+      ]
+    ],
+    "rewards": [
+      "$5000-40000",
+      "0-4x PVE Coins",
+      "5-10x Focus Sash",
+      "25-35x Lum Berry",
+      "Choice Band",
+      "Choice Scarf",
+      "Life Orb",
+      "TZ Clothes",
+      "Hollow Mask"
+    ],
+    "thirdRewards": ["Larvesta", "Larvitar", "Riolu"]
+  },
+  {
+    "name": "Xylos",
+    "location": "Pokemon Club (Vermilion City)",
+    "region": "Kanto",
+    "reqs": ["Kanto champion"],
+    "cooldown": "12 days",
+    "teams": [
+      [
+        {
+          "name": "Victini",
+          "moves": ["V-create", "Bolt Strike", "Brick Break", "Hidden Power"]
+        },
+        {
+          "name": "Druddigon",
+          "moves": ["Stealth Rock", "Glare", "Dragon Tail", "Iron Head"]
+        },
+        {
+          "name": "Skarmory",
+          "moves": ["Spikes", "Whirlwind", "Roost", "Iron Head"]
+        },
+        {
+          "name": "Jolteon",
+          "moves": ["Thunder", "Discharge", "Shadow Ball", "Hidden Power"]
+        },
+        {
+          "name": "Flareon",
+          "moves": ["Superpower", "Flare Blitz", "Facade", "Lava Plume"]
+        },
+        {
+          "name": "Mewtwo",
+          "moves": ["Drain Punch", "Flamethrower", "Psystrike", "Recover"]
+        }
+      ],
+      [
+        {
+          "name": "Victini",
+          "moves": ["V-create", "Bolt Strike", "Brick Break", "Hidden Power"]
+        },
+        {
+          "name": "Druddigon",
+          "moves": ["Stealth Rock", "Glare", "Dragon Tail", "Iron Head"]
+        },
+        {
+          "name": "Skarmory",
+          "moves": ["Spikes", "Whirlwind", "Roost", "Iron Head"]
+        },
+        {
+          "name": "Jolteon",
+          "moves": ["Thunder", "Discharge", "Shadow Ball", "Hidden Power"]
+        },
+        {
+          "name": "Flareon",
+          "moves": ["Superpower", "Flare Blitz", "Facade", "Lava Plume"]
+        },
+        {
+          "name": "Mewtwo",
+          "moves": ["Drain Punch", "Flamethrower", "Psystrike", "Recover"]
+        }
+      ],
+      [
+        {
+          "name": "Victini",
+          "moves": ["V-create", "Bolt Strike", "Brick Break", "Hidden Power"]
+        },
+        {
+          "name": "Druddigon",
+          "moves": ["Stealth Rock", "Glare", "Dragon Tail", "Iron Head"]
+        },
+        {
+          "name": "Skarmory",
+          "moves": ["Spikes", "Whirlwind", "Roost", "Iron Head"]
+        },
+        {
+          "name": "Jolteon",
+          "moves": ["Thunder", "Discharge", "Shadow Ball", "Hidden Power"]
+        },
+        {
+          "name": "Flareon",
+          "moves": ["Superpower", "Flare Blitz", "Facade", "Lava Plume"]
+        },
+        {
+          "name": "Mewtwo",
+          "moves": ["Drain Punch", "Flamethrower", "Psystrike", "Recover"]
+        }
+      ]
+    ],
+    "rewards": [
+      "$5000-40000",
+      "0-4x PVE Coins",
+      "Jolteon",
+      "Flareon",
+      "Vaporeon",
+      "Leafeon",
+      "Glaceon",
+      "Umbreon",
+      "Sylveon",
+      "Eevee",
+      "2-3x Thunder Stone",
+      "2-3x Fire Stone",
+      "2-3x Water Stone",
+      "2-3x Leaf Stone",
+      "3-5x Electric Gem",
+      "3-5x Fire Gem",
+      "3-5x Ice Gem",
+      "Ice Stone"
+    ],
+    "thirdRewards": ["Eevee"]
+  },
+  {
+    "name": "Youngster Joey",
+    "location": "Indigo Plateau",
+    "region": "Kanto",
+    "reqs": ["1 level 80 Rattata with your OT", "Johto champion"],
+    "cooldown": "Not rechallengable, 2 hours (if you lose to him)",
+    "teams": [
+      [
+        {
+          "name": "Rattata",
+          "moves": ["Sucker Punch", "Thunder Wave", "Taunt", "Double-Edge"]
+        },
+        {
+          "name": "Rattata",
+          "moves": ["Thunderbolt", "Ice Beam", "Thunder Wave", "Shadow Ball"]
+        },
+        {
+          "name": "Rattata",
+          "moves": ["Endeavor", "Sucker Punch", "Quick Attack", "Swagger"]
+        },
+        {
+          "name": "Rattata",
+          "moves": ["Blizzard", "Grass Knot", "Thunder", "Rain Dance"]
+        },
+        {
+          "name": "Rattata",
+          "moves": ["Pluck", "Shadow Ball", "Charge Beam", "Work Up"]
+        },
+        {
+          "name": "Rattata",
+          "moves": ["Zen Headbutt", "Body Slam", "Assurance", "Revenge"]
+        }
+      ]
+    ],
+    "rewards": ["Unlock Hoenn", "Shiny Rattata"],
+    "thirdRewards": []
+  },
+  {
+    "name": "Bruno",
+    "location": "Mt. Mortar Lower Cave",
+    "region": "Johto",
+    "reqs": ["Johto champion"],
+    "cooldown": "12 days",
+    "teams": [
+      [
+        {
+          "name": "Steelix",
+          "moves": ["Iron Head", "Earthquake", "Curse", "Fire Fang"]
+        },
+        {
+          "name": "Hariyama",
+          "moves": ["Heavy Slam", "Endure", "Reversal", "Close Combat"]
+        },
+        {
+          "name": "Hitmonlee",
+          "moves": ["Fake Out", "Jump Kick", "Blaze Kick", "Rolling Kick"]
+        },
+        {
+          "name": "Throh",
+          "moves": ["Reversal", "Superpower", "Wide Guard", "Endure"]
+        },
+        {
+          "name": "Sawk",
+          "moves": ["Reversal", "Close Combat", "Endure", "Quick Guard"]
+        },
+        {
+          "name": "Scrafty",
+          "moves": ["Head Smash", "Focus Punch", "Rock Climb", "Facade"]
+        }
+      ],
+      [
+        {
+          "name": "Steelix",
+          "moves": ["Heavy Slam", "Earthquake", "Stone Edge", "Ice Fang"]
+        },
+        {
+          "name": "Hariyama",
+          "moves": ["Close Combat", "Heavy Slam", "Stone Edge", "Fire Punch"]
+        },
+        {
+          "name": "Hitmonlee",
+          "moves": ["High Jump Kick", "Stone Edge", "Knock Off", "Poison Jab"]
+        },
+        {
+          "name": "Throh",
+          "moves": ["Bulk Up", "Superpower", "Knock Off", "Thunder Punch"]
+        },
+        {
+          "name": "Sawk",
+          "moves": ["Close Combat", "Knock Off", "Fire Punch", "Ice Punch"]
+        },
+        {
+          "name": "Scrafty",
+          "moves": ["Knock Off", "High Jump Kick", "Dragon Dance", "Head Smash"]
+        }
+      ]
+    ],
+    "rewards": [
+      "$5000-40000",
+      "0-4x PVE Coins",
+      "5-10x Focus Sash",
+      "1-3x TM26 - Earthquake",
+      "3-8x Rare Candy",
+      "Meditite",
+      "Throw",
+      "Sawk",
+      "Scraggy"
+    ],
+    "thirdRewards": ["Meditite", "Throh", "Sawk", "Scraggy"]
+  },
+  {
+    "name": "Bugsy",
+    "location": "Amazon Forest",
+    "region": "Johto",
+    "reqs": ["Johto champion"],
+    "cooldown": "12 days",
+    "teams": [
+      [
+        {
+          "name": "Scyther",
+          "moves": ["Aerial Ace", "Bug Bite", "Swords Dance", "Brick Break"]
+        },
+        {
+          "name": "Heracross",
+          "moves": ["Rock Slide", "X-Scissor", "Earthquake", "Facade"]
+        },
+        {
+          "name": "Crustle",
+          "moves": ["Brick Break", "X-Scissor", "Rock Slide", "Earthquake"]
+        },
+        {
+          "name": "Volcarona",
+          "moves": ["Quiver Dance", "Flamethrower", "Bug Buzz", "Roost"]
+        },
+        {
+          "name": "Serperior",
+          "moves": ["Giga Drain", "Dragon Pulse", "Leech Seed", "Glare"]
+        },
+        {
+          "name": "Scizor",
+          "moves": ["Bullet Punch", "Feint", "Fury Cutter", "Pursuit"]
+        }
+      ],
+      [
+        {
+          "name": "Scyther",
+          "moves": ["Aerial Ace", "Bug Bite", "Swords Dance", "Brick Break"]
+        },
+        {
+          "name": "Heracross",
+          "moves": ["Close Combat", "Megahorn", "Knock Off", "Stone Edge"]
+        },
+        {
+          "name": "Crustle",
+          "moves": ["Stone Edge", "X-Scissor", "Earthquake", "Poison Jab"]
+        },
+        {
+          "name": "Volcarona",
+          "moves": ["Quiver Dance", "Fire Blast", "Bug Buzz", "Giga Drain"]
+        },
+        {
+          "name": "Serperior",
+          "moves": ["Leaf Storm", "Leech Seed", "Dragon Pulse", "Glare"]
+        },
+        {
+          "name": "Scizor",
+          "moves": ["Bullet Punch", "Bug Bite", "Superpower", "Knock Off"]
+        }
+      ]
+    ],
+    "rewards": [
+      "$5000-40000",
+      "0-4x PVE Coins",
+      "5-10x Weakness Policy",
+      "Silver Powder",
+      "1-3x TM139 - U-turn",
+      "3-8x PP Up",
+      "Straw Hat",
+      "Straw Hat 2",
+      "Pinsir",
+      "Scyther",
+      "Ferroseed",
+      "Snivy"
+    ],
+    "thirdRewards": ["Snivy", "Heracross", "Nincada", "Scyther"]
+  },
+  {
+    "name": "Elm",
+    "location": "Ruins Research Center",
+    "region": "Johto",
+    "reqs": ["Johto champion"],
+    "cooldown": "12 days",
+    "teams": [
+      [
+        {
+          "name": "Corsola",
+          "moves": ["Surf", "Power Gem", "Earth Power", "Toxic"]
+        },
+        {
+          "name": "Togekiss",
+          "moves": ["Air Slash", "Aura Sphere", "Psyshock", "Shadow Ball"]
+        },
+        {
+          "name": "Meganium",
+          "moves": ["Giga Drain", "Reflect", "Echoed Voice", "Poison Powder"]
+        },
+        {
+          "name": "Typhlosion",
+          "moves": ["Lava Plume", "Swift", "Flame Charge", "Extrasensory"]
+        },
+        {
+          "name": "Feraligatr",
+          "moves": ["Aqua Tail", "Brick Break", "Earthquake", "Aqua Jet"]
+        },
+        {
+          "name": "Tyranitar",
+          "moves": ["Rock Slide", "Payback", "Thunder Punch", "Bulldoze"]
+        }
+      ],
+      [
+        {
+          "name": "Corsola",
+          "moves": ["Surf", "Power Gem", "Mirror Coat", "Light Screen"]
+        },
+        {
+          "name": "Togekiss",
+          "moves": ["Nasty Plot", "Air Slash", "Flamethrower", "Aura Sphere"]
+        },
+        {
+          "name": "Meganium",
+          "moves": ["Giga Drain", "Toxic", "Reflect", "Petal Dance"]
+        },
+        {
+          "name": "Typhlosion",
+          "moves": ["Eruption", "Fire Blast", "Focus Blast", "Roar"]
+        },
+        {
+          "name": "Feraligatr",
+          "moves": ["Dragon Dance", "Liquidation", "Ice Punch", "Earthquake"]
+        },
+        {
+          "name": "Tyranitar",
+          "moves": ["Stone Edge", "Crunch", "Fire Punch", "Thunder Punch"]
+        }
+      ]
+    ],
+    "rewards": [
+      "$5000-40000",
+      "0-4x PVE Coins",
+      "Miracle Seed",
+      "Charcoal",
+      "Mystic Water",
+      "3-8x Rare Candy",
+      "3-8x PP Up",
+      "Chicorita",
+      "Cyndaquil",
+      "Totodile",
+      "Larvitar",
+      "Togepi"
+    ],
+    "thirdRewards": ["Chicorita", "Cyndaquil", "Totodile", "Larvitar", "Togepi"]
+  },
+  {
+    "name": "Lance - Dragons Den B1F",
+    "location": "Dragons Den B1F",
+    "region": "Johto",
+    "reqs": ["Johto champion", "talk to Security Guy in Cerulean City"],
+    "cooldown": "Not rechallengable, no cooldown (if you lose to him)",
+    "teams": [
+      [
+        {
+          "name": "Salamence",
+          "moves": ["Draco Meteor", "Fly", "Earthquake", "Fire Blast"]
+        },
+        {
+          "name": "Dialga",
+          "moves": [
+            "Draco Meteor",
+            "Flash Cannon",
+            "Earth Power",
+            "Thunderbolt"
+          ]
+        },
+        {
+          "name": "Latios",
+          "moves": ["Draco Meteor", "Luster Purge", "Surf", "Recover"]
+        },
+        {
+          "name": "Garchomp",
+          "moves": ["Dragon Claw", "Earthquake", "Rock Slide", "Fire Fang"]
+        },
+        {
+          "name": "Gyarados",
+          "moves": ["Waterfall", "Bounce", "Crunch", "Ice Fang"]
+        },
+        {
+          "name": "Dragonite",
+          "moves": [
+            "Dragon Claw",
+            "Extreme Speed",
+            "Fire Punch",
+            "Thunder Punch"
+          ]
+        }
+      ],
+      [
+        {
+          "name": "Salamence",
+          "moves": ["Outrage", "Fire Blast", "Earthquake", "Iron Tail"]
+        },
+        {
+          "name": "Dialga",
+          "moves": ["Aura Sphere", "Flash Cannon", "Fire Blast", "Thunder"]
+        },
+        {
+          "name": "Latios",
+          "moves": ["Draco Meteor", "Psychic", "Thunderbolt", "Surf"]
+        },
+        {
+          "name": "Garchomp",
+          "moves": ["Swords Dance", "Earthquake", "Outrage", "Stone Edge"]
+        },
+        {
+          "name": "Gyarados",
+          "moves": ["Dragon Dance", "Waterfall", "Earthquake", "Ice Fang"]
+        },
+        {
+          "name": "Dragonite",
+          "moves": ["Dragon Dance", "Outrage", "Extreme Speed", "Earthquake"]
+        }
+      ]
+    ],
+    "rewards": ["Unlock Cerulean Cave"],
+    "thirdRewards": []
+  },
+  {
+    "name": "Lance - Dragons Shrine",
+    "location": "Dragons Shrine",
+    "region": "Johto",
+    "reqs": [
+      "Access to Dragons Shrine (1x level 100 dragon type pokemon",
+      "150 evolutions data)"
+    ],
+    "cooldown": "12 days",
+    "teams": [
+      [
+        {
+          "name": "Salamence",
+          "moves": ["Draco Meteor", "Fly", "Earthquake", "Fire Blast"]
+        },
+        {
+          "name": "Dialga",
+          "moves": [
+            "Draco Meteor",
+            "Flash Cannon",
+            "Earth Power",
+            "Thunderbolt"
+          ]
+        },
+        {
+          "name": "Latios",
+          "moves": ["Draco Meteor", "Luster Purge", "Surf", "Recover"]
+        },
+        {
+          "name": "Garchomp",
+          "moves": ["Dragon Claw", "Earthquake", "Rock Slide", "Fire Fang"]
+        },
+        {
+          "name": "Gyarados",
+          "moves": ["Waterfall", "Bounce", "Crunch", "Ice Fang"]
+        },
+        {
+          "name": "Dragonite",
+          "moves": [
+            "Dragon Claw",
+            "Extreme Speed",
+            "Fire Punch",
+            "Thunder Punch"
+          ]
+        }
+      ],
+      [
+        {
+          "name": "Salamence",
+          "moves": ["Outrage", "Fire Blast", "Earthquake", "Iron Tail"]
+        },
+        {
+          "name": "Dialga",
+          "moves": ["Aura Sphere", "Flash Cannon", "Fire Blast", "Thunder"]
+        },
+        {
+          "name": "Latios",
+          "moves": ["Draco Meteor", "Psychic", "Thunderbolt", "Surf"]
+        },
+        {
+          "name": "Garchomp",
+          "moves": ["Swords Dance", "Earthquake", "Outrage", "Stone Edge"]
+        },
+        {
+          "name": "Gyarados",
+          "moves": ["Dragon Dance", "Waterfall", "Earthquake", "Ice Fang"]
+        },
+        {
+          "name": "Dragonite",
+          "moves": ["Dragon Dance", "Outrage", "Extreme Speed", "Earthquake"]
+        }
+      ]
+    ],
+    "rewards": [
+      "$5000-40000",
+      "0-4x PVE Coins",
+      "5-10x Weakness Policy",
+      "3-8x Rare Candy",
+      "5-10x Focus Sash",
+      "Axew",
+      "Swablu",
+      "Dratini",
+      "Skrelp"
+    ],
+    "thirdRewards": ["Swablu", "Dratini", "Bagon", "Axew", "Skrelp"]
+  },
+  {
+    "name": "Lorelei",
+    "location": "Ice Path B2F",
+    "region": "Johto",
+    "reqs": ["Johto champion"],
+    "cooldown": "12 days",
+    "teams": [
+      [
+        {
+          "name": "Ninetales-Alolan",
+          "moves": ["Icy Wind", "Dazzling Gleam", "Hypnosis", "Confuse Ray"]
+        },
+        {
+          "name": "Sandslash-Alolan",
+          "moves": ["Icicle Crash", "Earthquake", "Stealth Rock", "Toxic"]
+        },
+        {
+          "name": "Articuno",
+          "moves": ["Hail", "Ice Beam", "Icy Wind", "Ancient Power"]
+        },
+        {
+          "name": "Weavile",
+          "moves": ["Assurance", "Ice Punch", "Brick Break", "Metal Claw"]
+        },
+        { "name": "Lapras", "moves": ["Rest", "Surf", "Ice Beam", "Psychic"] },
+        {
+          "name": "Slowbro",
+          "moves": ["Light Screen", "Surf", "Flamethrower", "Toxic"]
+        }
+      ],
+      [
+        {
+          "name": "Ninetales-Alolan",
+          "moves": ["Blizzard", "Moonblast", "Nasty Plot", "Freeze-Dry"]
+        },
+        {
+          "name": "Sandslash-Alolan",
+          "moves": ["Earthquake", "Icicle Crash", "Iron Head", "Aqua Tail"]
+        },
+        {
+          "name": "Articuno",
+          "moves": ["Freeze-Dry", "Hurricane", "Toxic", "Blizzard"]
+        },
+        {
+          "name": "Weavile",
+          "moves": ["Ice Shard", "Knock Off", "Icicle Crash", "Low Kick"]
+        },
+        {
+          "name": "Lapras",
+          "moves": ["Hydro Pump", "Blizzard", "Thunderbolt", "Scald"]
+        },
+        {
+          "name": "Slowbro",
+          "moves": ["Surf", "Fire Blast", "Psychic", "Ice Beam"]
+        }
+      ]
+    ],
+    "rewards": [
+      "$5000-40000",
+      "0-4x PVE Coins",
+      "5-10x Yache Berry",
+      "5-10x Focus Sash",
+      "Sneasel",
+      "Snover",
+      "Lapras",
+      "5-10x Lum Berry",
+      "Winter Clothes and Hat Blu",
+      "Winter Clothes and Hat Green",
+      "Winter Clothes and Hat Grey",
+      "Winter Clothes and Hat Pink",
+      "Lapras Mount",
+      "Ice Stone"
+    ],
+    "thirdRewards": ["Sneasel", "Snover", "Lapras"]
+  },
+  {
+    "name": "Misty",
+    "location": "Route 41",
+    "region": "Johto",
+    "reqs": ["Johto champion"],
+    "cooldown": "12 days",
+    "teams": [
+      [
+        {
+          "name": "Milotic",
+          "moves": ["Water Pulse", "Icy Wind", "Mist", "Surf"]
+        },
+        {
+          "name": "Gyarados",
+          "moves": ["Twister", "Surf", "Earthquake", "Ice Fang"]
+        },
+        {
+          "name": "Starmie",
+          "moves": ["Water Pulse", "Psywave", "Water Gun", "Waterfall"]
+        },
+        {
+          "name": "Cradily",
+          "moves": ["Toxic", "Curse", "Solar Beam", "Rock Tomb"]
+        },
+        {
+          "name": "Blastoise",
+          "moves": ["Water Gun", "Aura Sphere", "Dark Pulse", "Waterfall"]
+        },
+        {
+          "name": "Togekiss",
+          "moves": ["Thunder Wave", "Extreme Speed", "Shock Wave", "Air Slash"]
+        }
+      ],
+      [
+        {
+          "name": "Milotic",
+          "moves": ["Scald", "Ice Beam", "Recover", "Dragon Tail"]
+        },
+        {
+          "name": "Gyarados",
+          "moves": ["Dragon Dance", "Earthquake", "Waterfall", "Ice Fang"]
+        },
+        {
+          "name": "Starmie",
+          "moves": ["Surf", "Psychic", "Thunderbolt", "Ice Beam"]
+        },
+        {
+          "name": "Cradily",
+          "moves": ["Toxic", "Curse", "Seed Bomb", "Ingrain"]
+        },
+        {
+          "name": "Blastoise",
+          "moves": ["Hydro Pump", "Aura Sphere", "Dark Pulse", "Flash Cannon"]
+        },
+        {
+          "name": "Togekiss",
+          "moves": ["Thunder Wave", "Roost", "Nasty Plot", "Air Slash"]
+        }
+      ]
+    ],
+    "rewards": [
+      "$5000-40000",
+      "0-4x PVE Coins",
+      "1-3x Pearl",
+      "Water Gem",
+      "1-3x TM105 - Scald",
+      "3-8x PP Up",
+      "Ludicolo Clothes",
+      "Ludicolo Hat",
+      "Wailmer",
+      "Shellder",
+      "Shellos",
+      "Oshawott"
+    ],
+    "thirdRewards": ["Oshawott", "Shellos", "Feebas", "Poliwag", "Togepi"]
+  },
+  {
+    "name": "Neroli",
+    "location": "Ilex Forest",
+    "region": "Johto",
+    "reqs": ["Johto champion"],
+    "cooldown": "12 days",
+    "teams": [
+      [
+        {
+          "name": "Celebi",
+          "moves": ["Earth Power", "Giga Drain", "Psyshock", "Ancient Power"]
+        },
+        {
+          "name": "Ninetales",
+          "moves": ["Fire Blast", "Solar Beam", "Psyshock", "Dark Pulse"]
+        },
+        {
+          "name": "Meganium",
+          "moves": ["Giga Drain", "Dragon Tail", "Ancient Power", "Leech Seed"]
+        },
+        {
+          "name": "Leavanny",
+          "moves": ["Leaf Blade", "X-Scissor", "Knock Off", "Swords Dance"]
+        },
+        {
+          "name": "Lilligant",
+          "moves": ["Leaf Storm", "Hidden Power", "Synthesis", "Quiver Dance"]
+        },
+        {
+          "name": "Altaria",
+          "moves": ["Draco Meteor", "Solar Beam", "Moonblast", "Flamethrower"]
+        }
+      ],
+      [
+        {
+          "name": "Celebi",
+          "moves": ["Earth Power", "Giga Drain", "Psyshock", "Ancient Power"]
+        },
+        {
+          "name": "Donphan",
+          "moves": ["Earthquake", "Knock Off", "Ice Shard", "Seed Bomb"]
+        },
+        {
+          "name": "Roserade",
+          "moves": [
+            "Hidden Power",
+            "Leaf Storm",
+            "Sludge Bomb",
+            "Dazzling Gleam"
+          ]
+        },
+        {
+          "name": "Kingdra",
+          "moves": ["Waterfall", "Outrage", "Iron Head", "Swords Dance"]
+        },
+        {
+          "name": "Serperior",
+          "moves": ["Leaf Storm", "Hidden Power", "Dragon Pulse", "Synthesis"]
+        },
+        {
+          "name": "Gardevoir",
+          "moves": ["Moonblast", "Psyshock", "Shadow Ball", "Focus Blast"]
+        }
+      ],
+      [
+        {
+          "name": "Celebi",
+          "moves": [
+            "Earth Power",
+            "Giga Drain",
+            "Psyshock",
+            "Ancient Power",
+            "Dazzling Gleam",
+            "Recover"
+          ]
+        },
+        {
+          "name": "Diancie",
+          "moves": [
+            "Diamond Storm",
+            "Moonblast",
+            "Hidden Power",
+            "Earth Power",
+            "Psyshock",
+            "Calm Mind"
+          ]
+        },
+        {
+          "name": "Florges",
+          "moves": [
+            "Moonblast",
+            "Hidden Power",
+            "Psychic",
+            "Energy Ball",
+            "Synthesis"
+          ]
+        },
+        {
+          "name": "Chandelure",
+          "moves": [
+            "Shadow Ball",
+            "Energy Ball",
+            "Fire Blast",
+            "Hidden Power",
+            "Trick"
+          ]
+        },
+        {
+          "name": "Goodra",
+          "moves": [
+            "Outrage",
+            "Iron Tail",
+            "Power Whip",
+            "Earthquake",
+            "Fire Punch",
+            "Superpower",
+            "Aqua Tail"
+          ]
+        },
+        {
+          "name": "Clefable",
+          "moves": [
+            "Moonblast",
+            "Petal Dance",
+            "Fire Blast",
+            "Psychic",
+            "Thunderbolt",
+            "Shadow Ball",
+            "Focus Blast"
+          ]
+        }
+      ]
+    ],
+    "rewards": [
+      "$5000-40000",
+      "0-4x PVE Coins",
+      "Clefairy",
+      "Budew",
+      "Vulpix",
+      "Phanpy",
+      "Chikorita",
+      "Sewaddle",
+      "Petilil",
+      "Litwick",
+      "Flabebe",
+      "Goomy",
+      "Ralts",
+      "3-5x Revival Herb",
+      "3-10x Energy Root",
+      "3-5x Focus Sash",
+      "3-5x Leaf Stone",
+      "3-5x Dusk Stone",
+      "3-5x Rare Candy",
+      "Miracle Seed",
+      "3-5x TM22 - Solarbeam",
+      "3-5x TM61 - Sunny Day",
+      "Hibiscus Hat",
+      "Pansy Flower",
+      "Orchid Flowerm",
+      "Anemone Flowerm",
+      "Jasmine Flower"
+    ],
+    "thirdRewards": ["Ralts", "Goomy", "Litwick", "Flabebe", "Petilil"]
+  },
+
+  {
+    "name": "Sage",
+    "location": "Sprout Tower F3 (Violet City)",
+    "region": "Johto",
+    "reqs": ["Johto champion"],
+    "cooldown": "12 days",
+    "teams": [
+      [
+        {
+          "name": "Glaceon",
+          "moves": ["Blizzard", "Shadow Ball", "Ice Beam", "Toxic"]
+        },
+        {
+          "name": "Flareon",
+          "moves": ["Flare Blitz", "Iron Tail", "Facade", "Superpower"]
+        },
+        {
+          "name": "Vaporeon",
+          "moves": ["Scald", "Ice Beam", "Wish", "Protect"]
+        },
+        {
+          "name": "Jolteon",
+          "moves": ["Thunderbolt", "Shadow Ball", "Signal Beam", "Volt Switch"]
+        },
+        {
+          "name": "Sylveon",
+          "moves": ["Hyper Voice", "Shadow Ball", "Psyshock", "Wish"]
+        },
+        {
+          "name": "Espeon",
+          "moves": ["Calm Mind", "Psyshock", "Dazzling Gleam", "Morning Sun"]
+        }
+      ]
+    ],
+    "rewards": ["$5000-15000", "Eevee"],
+    "thirdRewards": ["Eevee"]
+  },
+  {
+    "name": "Suicune Guardian",
+    "location": "Secluded Lake (Lake of Rage)",
+    "region": "Johto",
+    "reqs": ["Johto champion", "450 hours playtime"],
+    "cooldown": "12 days",
+    "teams": [
+      [
+        {
+          "name": "Kyurem",
+          "moves": ["Blizzard", "Draco Meteor", "Focus Blast", "Flash Cannon"]
+        },
+        {
+          "name": "Suicune",
+          "moves": ["Calm Mind", "Scald", "Ice Beam", "Air Slash"]
+        },
+        {
+          "name": "Avalugg",
+          "moves": ["Avalanche", "Toxic", "Recover", "Stone Edge"]
+        },
+        {
+          "name": "Walrein",
+          "moves": ["Sheer Cold", "Blizzard", "Surf", "Super Fang"]
+        },
+        {
+          "name": "Azumarill",
+          "moves": ["Aqua Jet", "Play Rough", "Superpower", "Knock Off"]
+        },
+        {
+          "name": "Mamoswine",
+          "moves": ["Earthquake", "Icicle Crash", "Stone Edge", "Ice Shard"]
+        }
+      ]
+    ],
+    "rewards": [
+      "$20000-30000",
+      "4x PVE Coins",
+      "Suicune (If you didn't catch it level 30) 3x PP Up",
+      "3x TM105 - Scald",
+      "3x TM54 - Calm Mind",
+      "Icy Rock",
+      "Choice Specs",
+      ""
+    ],
+    "thirdRewards": [
+      "Suicune (If you didn't catch it, level 30)",
+      "Snover",
+      "Spheal",
+      "Bergmite",
+      "Oshawott"
+    ]
+  },
+  {
+    "name": "Terminator",
+    "location": "Mt. Silver Moltres Chamber",
+    "region": "Johto",
+    "reqs": ["Sinnoh champion"],
+    "cooldown": "11 days",
+    "teams": [
+      [
+        {
+          "name": "Klinklang",
+          "moves": ["Wild Charge", "Gear Grind", "Shift Gear", "Return"]
+        },
+        {
+          "name": "Beheeyem",
+          "moves": ["Psychic", "Thunderbolt", "Shadow Ball", "Energy Ball"]
+        },
+        {
+          "name": "Porygon2",
+          "moves": ["Ice Beam", "Foul Play", "Recover", "Thunder Wave"]
+        },
+        {
+          "name": "Sharpedo",
+          "moves": ["Waterfall", "Crunch", "Ice Fang", "Earthquake"]
+        },
+        {
+          "name": "Garbodor",
+          "moves": ["Gunk Shot", "Drain Punch", "Seed Bomb", "Curse"]
+        },
+        {
+          "name": "Rotom-Wash",
+          "moves": ["Hydro Pump", "Thunderbolt", "Hidden Power", "Shadow Ball"]
+        }
+      ],
+      [
+        {
+          "name": "Magnezone",
+          "moves": [
+            "Thunderbolt",
+            "Hidden Power",
+            "Flash Cannon",
+            "Magnet Rise",
+            "Signal Beam"
+          ]
+        },
+        {
+          "name": "Reuniclus",
+          "moves": [
+            "Psyshock",
+            "Energy Ball",
+            "Focus Blast",
+            "Shadow Ball",
+            "Thunder",
+            "Recover"
+          ]
+        },
+        {
+          "name": "Porygon-Z",
+          "moves": [
+            "Tri Attack",
+            "Thunderbolt",
+            "Ice Beam",
+            "Toxic",
+            "Signal Beam"
+          ]
+        },
+        {
+          "name": "Muk-Alolan",
+          "moves": [
+            "Gunk Shot",
+            "Knock Off",
+            "Fire Punch",
+            "Stone Edge",
+            "Thunder Punch",
+            "Ice Punch"
+          ]
+        },
+        {
+          "name": "Latios",
+          "moves": [
+            "Dragon Pulse",
+            "Psyshock",
+            "Thunderbolt",
+            "Energy Ball",
+            "Shadow Ball",
+            "Calm Mind"
+          ]
+        },
+        {
+          "name": "Genesect",
+          "moves": [
+            "Iron Head",
+            "X-Scissor",
+            "Zen Headbutt",
+            "Flamethrower",
+            "Thunderbolt",
+            "Ice Beam"
+          ]
+        }
+      ]
+    ],
+    "rewards": [
+      "$5000-40000",
+      "0-4x PVE Coins",
+      "Klink",
+      "Magnemite",
+      "Elgyem",
+      "Grimer-Alolan",
+      "Solosis",
+      "Rotom",
+      "Porygon",
+      "3-5x Revival Herb",
+      "3-10x Energy Root",
+      "3-5x Focus Sash",
+      "Dubious Disc",
+      "Upgrade",
+      "3-5x Rare Candy",
+      "3-5x TM24 - Thunderbolt",
+      "3-5x TM53 - Psyshock"
+    ],
+    "thirdRewards": ["Porygon", "Rotom", "Solosis", "Grimer-Alolan", "Klink"]
+  },
+  {
+    "name": "Thor",
+    "location": "Whirl Islands B4F",
+    "region": "Johto",
+    "reqs": ["Sinnoh champion"],
+    "cooldown": "12 days",
+    "teams": [
+      [
+        {
+          "name": "Dragonite",
+          "moves": ["Outrage", "Iron Head", "Earthquake", "Fire Punch"]
+        },
+        {
+          "name": "Ursaring",
+          "moves": ["Close Combat", "Crunch", "Earthquake", "Return"]
+        },
+        {
+          "name": "Greninja",
+          "moves": ["Hydro Pump", "Ice Beam", "Low Kick", "Gunk Shot"]
+        },
+        {
+          "name": "Clefable",
+          "moves": ["Moonblast", "Flamethrower", "Thunderbolt", "Focus Blast"]
+        },
+        {
+          "name": "Mamoswine",
+          "moves": ["Earthquake", "Icicle Crash", "Knock Off", "Superpower"]
+        },
+        {
+          "name": "Lugia",
+          "moves": ["Aeroblast", "Thunder", "Earth Power", "Calm Mind"]
+        }
+      ],
+      [
+        {
+          "name": "Dragonite",
+          "moves": ["Facade", "Ice Punch", "Yawn", "Scary Face"]
+        },
+        {
+          "name": "Tyranitar",
+          "moves": ["Stone Edge", "Crunch", "Ice Punch", "Fire Punch"]
+        },
+        {
+          "name": "Greninja",
+          "moves": ["Hydro Pump", "Ice Beam", "Low Kick", "Gunk Shot"]
+        },
+        {
+          "name": "Clefable",
+          "moves": ["Moonblast", "Flamethrower", "Thunderbolt", "Focus Blast"]
+        },
+        {
+          "name": "Mamoswine",
+          "moves": ["Earthquake", "Icicle Crash", "Knock Off", "Superpower"]
+        },
+        {
+          "name": "Lugia",
+          "moves": ["Aeroblast", "Thunder", "Earth Power", "Calm Mind"]
+        }
+      ],
+      [
+        {
+          "name": "Dragonite",
+          "moves": ["Outrage", "Iron Head", "Earthquake", "Fire Punch"]
+        },
+        {
+          "name": "Tyranitar",
+          "moves": ["Stone Edge", "Crunch", "Ice Punch", "Fire Punch"]
+        },
+        {
+          "name": "Greninja",
+          "moves": ["Hydro Pump", "Ice Beam", "Low Kick", "Gunk Shot"]
+        },
+        {
+          "name": "Zapdos",
+          "moves": ["Discharge", "Heat Wave", "Hidden Power", "Toxic"]
+        },
+        {
+          "name": "Mamoswine",
+          "moves": ["Earthquake", "Icicle Crash", "Knock Off", "Superpower"]
+        },
+        {
+          "name": "Lugia",
+          "moves": ["Aeroblast", "Thunder", "Earth Power", "Roost"]
+        }
+      ]
+    ],
+    "rewards": [
+      "$5000-40000",
+      "0-4 PVE Coins",
+      "Swinub",
+      "Clefairy",
+      "Larvitar",
+      "Teddiursa",
+      "Dratini",
+      "Froakie",
+      "Leftovers",
+      "2-8x Rare Candy",
+      "12-15x Sitrus Berry",
+      "Icy Rock",
+      "3-5x Rare Candy",
+      "Heat Rock",
+      "Light Clay",
+      "Smooth Rock"
+    ],
+    "thirdRewards": ["Larvitar", "Dratini", "Froakie"]
+  },
+  {
+    "name": "Birch",
+    "location": "Verdanturf House 2",
+    "region": "Hoenn",
+    "reqs": ["Hoenn champion", "6 level 100 pokemon"],
+    "cooldown": "12 days",
+    "teams": [
+      [
+        {
+          "name": "Medicham",
+          "moves": [
+            "High Jump Kick",
+            "Zen Headbutt",
+            "Grass Knot",
+            "Poison Jab"
+          ]
+        },
+        {
+          "name": "Slaking",
+          "moves": ["Hammer Arm", "Yawn", "Body Slam", "Rock Slide"]
+        },
+        {
+          "name": "Mightyena",
+          "moves": ["Fire Fang", "Ice Fang", "Thunder Fang", "Crunch"]
+        },
+        {
+          "name": "Flygon",
+          "moves": ["Draco Meteor", "Dragon Claw", "Earthquake", "Dragon Tail"]
+        },
+        {
+          "name": "Swellow",
+          "moves": ["Brave Bird", "Roost", "Whirlwind", "Hurricane"]
+        },
+        {
+          "name": "Mega Sceptile",
+          "moves": ["Giga Drain", "Dragon Pulse", "Rock Slide", "Acrobatics"]
+        }
+      ],
+      [
+        {
+          "name": "Mightyena",
+          "moves": ["Howl", "Play Rough", "Sucker Punch", "Roar"]
+        },
+        {
+          "name": "Medicham",
+          "moves": ["Rock Tomb", "Psychic", "Energy Ball", "Thunder Punch"]
+        },
+        {
+          "name": "Flygon",
+          "moves": ["Flamethrower", "Toxic", "Earth Power", "Superpower"]
+        },
+        {
+          "name": "Swellow",
+          "moves": ["Sunny Day", "Giga Impact", "Swagger", "Brave Bird"]
+        },
+        {
+          "name": "Mega Blaziken",
+          "moves": ["High Jump Kick", "Flare Blitz", "Overheat", "Stone Edge"]
+        },
+        {
+          "name": "Slaking",
+          "moves": ["Low Kick", "Earthquake", "Slack Off", "Yawn"]
+        }
+      ],
+      [
+        {
+          "name": "Swellow",
+          "moves": ["Air Slash", "Toxic", "Rain Dance", "Hurricane"]
+        },
+        {
+          "name": "Mega Swampert",
+          "moves": ["Earthquake", "Waterfall", "Ice Beam", "Hammer Arm"]
+        },
+        {
+          "name": "Medicham",
+          "moves": ["Calm Mind", "Psyshock", "Shadow Ball", "Poison Jab"]
+        },
+        {
+          "name": "Mightyena",
+          "moves": ["Crunch", "Play Rough", "Roar", "Dark Pulse"]
+        },
+        {
+          "name": "Slaking",
+          "moves": ["Giga Impact", "Slack Off", "Amnesia", "Feint Attack"]
+        },
+        {
+          "name": "Flygon",
+          "moves": ["Bug Buzz", "Dragon Claw", "Earth Power", "Stone Edge"]
+        }
+      ]
+    ],
+    "rewards": [
+      "$8000-25000",
+      "5x Rare Candy",
+      "Poochyena",
+      "Tailow",
+      "Trapinch",
+      "Torchic",
+      "Mudkip",
+      "Treecko",
+      "Slakoth"
+    ],
+    "thirdRewards": ["Trapinch", "Mudkip", "Torchic", "Treecko", "Slakoth"]
+  },
+  {
+    "name": "Gingery Jones",
+    "location": "Feral Site (Fiery Path)",
+    "region": "Hoenn",
+    "reqs": ["Only level 100 pokemon in your team", "2400 discoveries"],
+    "cooldown": "12 days",
+    "teams": [
+      [
+        {
+          "name": "Mandibuzz",
+          "moves": ["Bone Rush", "Brave Bird", "Mirror Move", "Whirlwind"]
+        },
+        {
+          "name": "Clawitzer",
+          "moves": ["Aura Sphere", "Dark Pulse", "Dragon Pulse", "Muddy Water"]
+        },
+        {
+          "name": "Conkeldurr",
+          "moves": ["Superpower", "Stone Edge", "Hammer Arm", "Focus Punch"]
+        },
+        {
+          "name": "Klinklang",
+          "moves": ["Hyper Beam", "Lock-On", "Zap Cannon", "Metal Sound"]
+        },
+        {
+          "name": "Pangoro",
+          "moves": ["Hammer Arm", "Crunch", "Taunt", "Sky Uppercut"]
+        },
+        {
+          "name": "Golurk",
+          "moves": ["Focus Punch", "Heavy Slam", "Earthquake", "Hammer Arm"]
+        }
+      ]
+    ],
+    "rewards": [
+      "Elgyem",
+      "Darumaka",
+      "Leftovers",
+      "Rare Candy",
+      "Jaw Fossil",
+      "Sail Fossil"
+    ],
+    "thirdRewards": ["Tyrunt", "Amaura", "Timburr", "Vullaby"]
+  },
+  {
+    "name": "Hannah",
+    "location": "Pokemon League Hoenn",
+    "region": "Hoenn",
+    "reqs": ["OT Huntail", "Hoenn champion"],
+    "cooldown": "Not rechallengable, 140 minutes (if you lose to her)",
+    "teams": [
+      [
+        {
+          "name": "Houndoom",
+          "moves": ["Nasty Plot", "Dark Pulse", "Flamethrower", "Roar"]
+        },
+        {
+          "name": "Machamp",
+          "moves": ["Dynamic Punch", "Ice Punch", "Thunder Punch", "Knock Off"]
+        },
+        {
+          "name": "Talonflame",
+          "moves": ["Brave Bird", "Roost", "Swords Dance", "Flare Blitz"]
+        },
+        {
+          "name": "Metagross",
+          "moves": ["Bullet Punch", "Meteor Mash", "Zen Headbutt", "Ice Punch"]
+        },
+        {
+          "name": "Volcarona",
+          "moves": ["Quiver Dance", "Bug Buzz", "Heat Wave", "Roost"]
+        },
+        {
+          "name": "Sharpedo",
+          "moves": ["Waterfall", "Earthquake", "Crunch", "Poison Jab"]
+        }
+      ]
+    ],
+    "rewards": ["Unlock Sinnoh"],
+    "thirdRewards": []
+  },
+  {
+    "name": "Lt. Surge",
+    "location": "New Mauville",
+    "region": "Hoenn",
+    "reqs": ["Hoenn champion"],
+    "cooldown": "12 days",
+    "teams": [
+      [
+        {
+          "name": "Raichu",
+          "moves": ["Thunderbolt", "Grass Knot", "Hidden Power", "Focus Blast"]
+        },
+        {
+          "name": "Manectric",
+          "moves": ["Wild Charge", "Ice Fang", "Fire Fang", "Crunch"]
+        },
+        {
+          "name": "Heliolisk",
+          "moves": ["Thunderbolt", "Hyper Voice", "Surf", "Dragon Pulse"]
+        },
+        {
+          "name": "Luxray",
+          "moves": ["Wild Charge", "Facade", "Ice Fang", "Fire Fang"]
+        },
+        {
+          "name": "Magnezone",
+          "moves": ["Thunderbolt", "Flash Cannon", "Signal Beam", "Magnet Rise"]
+        },
+        {
+          "name": "Jolteon",
+          "moves": ["Thunderbolt", "Hidden Power", "Shadow Ball", "Signal Beam"]
+        }
+      ],
+      [
+        {
+          "name": "Rotom-Wash",
+          "moves": [
+            "Thunderbolt",
+            "Hidden Power",
+            "Hydro Pump",
+            "Shadow Ball",
+            "Dark Pulse",
+            "Signal Beam"
+          ]
+        },
+        {
+          "name": "Electivire",
+          "moves": [
+            "Wild Charge",
+            "Ice Punch",
+            "Low Kick",
+            "Iron Tail",
+            "Fire Punch",
+            "Rock Slide"
+          ]
+        },
+        {
+          "name": "Raichu",
+          "moves": [
+            "Thunderbolt",
+            "Surf",
+            "Hidden Power",
+            "Focus Blast",
+            "Grass Knot",
+            "Signal Beam",
+            "Iron Tail"
+          ]
+        },
+        {
+          "name": "Zapdos",
+          "moves": [
+            "Thunderbolt",
+            "Heat Wave",
+            "Hidden Power",
+            "Ancient Power",
+            "Signal Beam",
+            "Drill Peck"
+          ]
+        },
+        {
+          "name": "Golem-Alolan",
+          "moves": [
+            "Wild Charge",
+            "Earthquake",
+            "Fire Punch",
+            "Close Combat",
+            "Stone Edge",
+            "Iron Head",
+            "Rock Polish"
+          ]
+        },
+        {
+          "name": "Zekrom",
+          "moves": [
+            "Bolt Strike",
+            "Outrage",
+            "Bolt Strike",
+            "Outrage",
+            "Steel Wing",
+            "Rock Slide"
+          ]
+        }
+      ]
+    ],
+    "rewards": [
+      "$5000-40000",
+      "0-4x PVE Coins",
+      "Pikachu",
+      "Electrike",
+      "Shinx",
+      "Elekid",
+      "Helioptile",
+      "Rotom",
+      "Tynamo",
+      "3-5x Revival Herb",
+      "3-10x Energy Root",
+      "3-5x Focus Sash",
+      "3-5x Sun Stone",
+      "3-5x Thunder Stone",
+      "3-5x Rare Candy",
+      "3-5x TM24 - Thunderbolt",
+      "3-5x TM60 - Hidden Power",
+      "Manectric Mount"
+    ],
+    "thirdRewards": ["Electrike", "Shinx", "Rotom", "Helioptile", "Tynamo"]
+  },
+  {
+    "name": "Maxie/Archie",
+    "location": "Marine Cave End/Terra Cave End (Sootopolis City)",
+    "region": "Hoenn",
+    "reqs": [
+      "50 hours since entering Hoenn",
+      "6 level 100 Pokemon",
+      "Hoenn champion"
+    ],
+    "cooldown": "Not rechallengable",
+    "teams": [
+      [
+        {
+          "name": "Jolteon",
+          "moves": ["Thunderbolt", "Shadow Ball", "Thunder Wave", "Discharge"]
+        },
+        {
+          "name": "Volcarona",
+          "moves": ["Heat Wave", "Bug Buzz", "Psychic", "Fire Blast"]
+        },
+        {
+          "name": "Charizard",
+          "moves": ["Fire Blast", "Air Slash", "Dragon Pulse", "Will-o-Wisp"]
+        },
+        {
+          "name": "Breloom",
+          "moves": ["Mach Punch", "Seed Bomb", "Leech Seed", "Stone Edge"]
+        },
+        {
+          "name": "Mega Camerupt",
+          "moves": ["Fissure", "Earthquake", "Stone Edge", "Fire Blast"]
+        },
+        {
+          "name": "Primal Groudon",
+          "moves": ["Eruption", "Fire Blast", "Earthquake", "Hammer Arm"]
+        }
+      ],
+      [
+        {
+          "name": "Gengar",
+          "moves": ["Thunderbolt", "Psychic", "Taunt", "Shadow Ball"]
+        },
+        {
+          "name": "Starmie",
+          "moves": ["Thunderbolt", "Psychic", "Surf", "Ice Beam"]
+        },
+        {
+          "name": "Wailord",
+          "moves": ["Earthquake", "Rock Tomb", "Waterfall", "Toxic"]
+        },
+        {
+          "name": "Salamence",
+          "moves": ["Dragon Claw", "Crunch", "Dragon Dance", "Earthquake"]
+        },
+        {
+          "name": "Mega Sharpedo",
+          "moves": ["Earthquake", "Crunch", "Waterfall", "Skull Bash"]
+        },
+        {
+          "name": "Primal Kyogre",
+          "moves": ["Hydro Pump", "Thunder", "Ice Beam", "Calm Mind"]
+        }
+      ]
+    ],
+    "rewards": ["Kyogre pokedex entry", "Carvanha"],
+    "thirdRewards": []
+  },
+  {
+    "name": "Morty",
+    "location": "Mt. Pyre 4F",
+    "region": "Hoenn",
+    "reqs": ["Hoenn champion"],
+    "cooldown": "12 days",
+    "teams": [
+      [
+        {
+          "name": "Gengar",
+          "moves": ["Hex", "Hypnosis", "Will-O-Wisp", "Confuse Ray"]
+        },
+        {
+          "name": "Froslass",
+          "moves": ["Spikes", "Shadow Ball", "Icy Wind", "Shock Wave"]
+        },
+        {
+          "name": "Gourgeist",
+          "moves": ["Shadow Sneak", "Will-o-Wisp", "Pain Split", "Scary Face"]
+        },
+        {
+          "name": "Golurk",
+          "moves": ["Curse", "Heavy Slam", "Bulldoze", "Ice Punch"]
+        },
+        {
+          "name": "Cofagrigus",
+          "moves": ["Will-o-Wisp", "Pain Split", "Shadow Ball", "Dark Pulse"]
+        },
+        {
+          "name": "Giratina",
+          "moves": ["Will-o-Wisp", "Ancient Power", "Roar", "Shadow Ball"]
+        }
+      ],
+      [
+        {
+          "name": "Gengar",
+          "moves": ["Focus Blast", "Icy Wind", "Shadow Ball", "Sludge Wave"]
+        },
+        {
+          "name": "Froslass",
+          "moves": ["Shadow Ball", "Thunder", "Ice Beam", "Signal Beam"]
+        },
+        {
+          "name": "Gourgeist",
+          "moves": ["Will-O-Wisp", "Leech Seed", "Seed Bomb", "Rock Slide"]
+        },
+        {
+          "name": "Golurk",
+          "moves": ["Dynamic Punch", "Earthquake", "Stone Edge", "Ice Punch"]
+        },
+        {
+          "name": "Cofagrigus",
+          "moves": ["Will-O-Wisp", "Pain Split", "Shadow Ball", "Protect"]
+        },
+        {
+          "name": "Giratina",
+          "moves": ["Shadow Ball", "Earth Power", "Aura Sphere", "Draco Meteor"]
+        }
+      ]
+    ],
+    "rewards": [
+      "$5000-40000",
+      "0-4x PVE Coins",
+      "1-2x Spell Tag",
+      "5-10x Focus Sash",
+      "1-3x TM80 - Shadow Ball",
+      "3-8x PP Up",
+      "3-8x Rare Candy",
+      "Frillish",
+      "Sableye",
+      "Golett",
+      "Phantump",
+      "Pumpkaboo",
+      "Rotom"
+    ],
+    "thirdRewards": ["Rotom", "Pumpkaboo", "Phantump", "Yamask", "Litwick"]
+  },
+  {
+    "name": "Raikou Guardian",
+    "location": "Secret Base Alpha (Route 110)",
+    "region": "Hoenn",
+    "reqs": ["Hoenn champion", "450 hours playtime"],
+    "cooldown": "12 days",
+    "teams": [
+      [
+        {
+          "name": "Zekrom",
+          "moves": ["Bolt Strike", "Dragon Claw", "Steel Wing", "Focus Blast"]
+        },
+        {
+          "name": "Excadrill",
+          "moves": ["Earthquake", "Iron Head", "Rock Slide", "X-Scissor"]
+        },
+        {
+          "name": "Raikou",
+          "moves": ["Thunder", "Aura Sphere", "Extrasensory", "Calm Mind"]
+        },
+        {
+          "name": "Quagsire",
+          "moves": ["Scald", "Ice Beam", "Recover", "Toxic"]
+        },
+        {
+          "name": "Eelektross",
+          "moves": ["Thunderbolt", "Flamethrower", "Giga Drain", "Knock Off"]
+        },
+        {
+          "name": "Magnezone",
+          "moves": ["Thunderbolt", "Discharge", "Flash Cannon", "Tri Attack"]
+        }
+      ]
+    ],
+    "rewards": [
+      "$20000-30000",
+      "4 PVE Coins",
+      "Raikou (If you didn't catch it level 30)",
+      "3x PP Up",
+      "3x TM24 - Thunderbolt",
+      "3x TM68 - Rain Dance",
+      "Damp Rock",
+      "Choice Scarf",
+      ""
+    ],
+    "thirdRewards": [
+      "Raikou (If you didn't catch it",
+      "level 30)",
+      "Lotad",
+      "Electrike",
+      "Tynamo",
+      "Blitzle"
+    ]
+  },
+  {
+    "name": "Steven",
+    "location": "Valley Of Steel Underground (Lavaridge Town)",
+    "region": "Hoenn",
+    "reqs": ["2 steel-type pokemon"],
+    "cooldown": "12 days",
+    "teams": [
+      [
+        {
+          "name": "Metagross",
+          "moves": ["Meteor Mash", "Zen Headbutt", "Thunder Punch", "Ice Punch"]
+        },
+        {
+          "name": "Excadrill",
+          "moves": ["Earthquake", "Iron Head", "Rock Slide", "Swords Dance"]
+        },
+        {
+          "name": "Empoleon",
+          "moves": ["Scald", "Ice Beam", "Roar", "Grass Knot"]
+        },
+        {
+          "name": "Lucario",
+          "moves": [
+            "Meteor Mash",
+            "Close Combat",
+            "Extreme Speed",
+            "Swords Dance"
+          ]
+        },
+        {
+          "name": "Ferrothorn",
+          "moves": ["Leech Seed", "Power Whip", "Gyro Ball", "Knock Off"]
+        },
+        {
+          "name": "Heatran",
+          "moves": ["Magma Storm", "Earth Power", "Ancient Power", "Solar Beam"]
+        }
+      ],
+      [
+        {
+          "name": "Metagross",
+          "moves": ["Meteor Mash", "Zen Headbutt", "Thunder Punch", "Ice Punch"]
+        },
+        {
+          "name": "Excadrill",
+          "moves": ["Earthquake", "Iron Head", "Rock Slide", "Swords Dance"]
+        },
+        {
+          "name": "Magnezone",
+          "moves": ["Thunderbolt", "Flash Cannon", "Hidden Power", "Sunny Day"]
+        },
+        {
+          "name": "Lucario",
+          "moves": [
+            "Meteor Mash",
+            "Close Combat",
+            "Extreme Speed",
+            "Swords Dance"
+          ]
+        },
+        {
+          "name": "Ferrothorn",
+          "moves": ["Leech Seed", "Power Whip", "Gyro Ball", "Knock Off"]
+        },
+        {
+          "name": "Heatran",
+          "moves": ["Magma Storm", "Earth Power", "Ancient Power", "Solar Beam"]
+        }
+      ],
+      [
+        {
+          "name": "Metagross",
+          "moves": ["Meteor Mash", "Zen Headbutt", "Thunder Punch", "Ice Punch"]
+        },
+        {
+          "name": "Excadrill",
+          "moves": ["Earthquake", "Iron Head", "Rock Slide", "Swords Dance"]
+        },
+        {
+          "name": "Magnezone",
+          "moves": ["Hidden Power", "Flash Cannon", "Thunderbolt", "Sunny Day"]
+        },
+        {
+          "name": "Jirachi",
+          "moves": ["Iron Head", "Ice Punch", "Fire Punch", "Zen Headbutt"]
+        },
+        {
+          "name": "Ferrothorn",
+          "moves": ["Leech Seed", "Power Whip", "Gyro Ball", "Knock Off"]
+        },
+        {
+          "name": "Heatran",
+          "moves": ["Magma Storm", "Earth Power", "Ancient Power", "Solar Beam"]
+        }
+      ]
+    ],
+    "rewards": [
+      "$5000-40000",
+      "0-4x PVE Coins",
+      "Aaron",
+      "Skarmory",
+      "Shieldon",
+      "Pawniard",
+      "Mawile",
+      "Beldum",
+      "Drilbur",
+      "Klefki",
+      "Riolu",
+      "3-5x Revival Herb",
+      "2-10x Electric Gem",
+      "3-10x Focus Sash",
+      "3-10x Rare Candy",
+      "7-10x Passho Berry",
+      "Ice Stone"
+    ],
+    "thirdRewards": ["Beldum", "Drilbur", "Klefki"]
+  },
+  {
+    "name": "Toothless",
+    "location": "Abandoned Ship B1F Room 1 (Route 108)",
+    "region": "Hoenn",
+    "reqs": ["Only level 100 pokemon in your team", "301 hours playtime"],
+    "cooldown": "12 days",
+    "teams": [
+      [
+        {
+          "name": "Garchomp",
+          "moves": ["Dragon Rush", "Dig", "Crunch", "Dragon Claw"]
+        },
+        {
+          "name": "Miltank",
+          "moves": ["Rollout", "Body Slam", "Ice Punch", "Defense Curl"]
+        },
+        {
+          "name": "Starmie",
+          "moves": ["Scald", "Recover", "Thunderbolt", "Psyshock"]
+        },
+        {
+          "name": "Diancie",
+          "moves": ["Calm Mind", "Moonblast", "Stealth Rock", "Ancient Power"]
+        },
+        {
+          "name": "Metagross",
+          "moves": ["Earthquake", "Psyshock", "Iron Defense", "Meteor Mash"]
+        },
+        {
+          "name": "Quagsire",
+          "moves": ["Scald", "Amnesia", "Earthquake", "Yawn"]
+        }
+      ]
+    ],
+    "rewards": [
+      "Miltank",
+      "Staryu",
+      "Sableye",
+      "Beldum",
+      "PP Max",
+      "TM115 - Shadow Claw",
+      "TM105 - Scald",
+      "TM80 - Shadow Ball"
+    ],
+    "thirdRewards": ["Staryu", "Miltank", "Beldum", "Gible"]
+  },
+  {
+    "name": "Arkos",
+    "location": "Eterna City",
+    "region": "Sinnoh",
+    "reqs": ["300 hours play time", "6 level 100 Pokemon"],
+    "cooldown": "12 days",
+    "teams": [
+      [
+        {
+          "name": "Diggersby",
+          "moves": ["Earthquake", "Ice Punch", "Fire Punch", "Return"]
+        },
+        {
+          "name": "Mega Beedrill",
+          "moves": ["Poison Jab", "X-Scissor", "Drill Run", "Knock Off"]
+        },
+        {
+          "name": "Heatran",
+          "moves": ["Earth Power", "Lava Plume", "Iron Head", "Ancient Power"]
+        },
+        {
+          "name": "Bisharp",
+          "moves": ["Sucker Punch", "Iron Head", "Low Kick", "Knock Off"]
+        },
+        {
+          "name": "Zygarde",
+          "moves": ["Earth Power", "Iron Tail", "Stone Edge", "Outrage"]
+        },
+        {
+          "name": "Scizor",
+          "moves": ["Bullet Punch", "X-Scissor", "Superpower", "Knock Off"]
+        }
+      ]
+    ],
+    "rewards": [
+      "$20000-50000",
+      "35-150 Summer Points",
+      "5x Focus Sash",
+      "Metal Coat",
+      "Protector",
+      "Choice Band",
+      "Life Orb",
+      "Bunnelby",
+      "Corphish",
+      "Scyther",
+      "Shiny Zubat"
+    ],
+    "thirdRewards": ["Bunnelby", "Scyther", "Corphish", "Shiny Weedle"]
+  },
+  {
+    "name": "Ash Westbrook",
+    "location": "Spear Pillar",
+    "region": "Sinnoh",
+    "reqs": ["Sinnoh champion", "500 hours play time"],
+    "cooldown": "12 days",
+    "teams": [
+      [
+        {
+          "name": "Mega Gengar",
+          "moves": ["Focus Blast", "Shadow Ball", "Sludge Bomb", "Thunderbolt"]
+        },
+        {
+          "name": "Mega Mewtwo Y",
+          "moves": ["Ice Beam", "Aura Sphere", "Flamethrower", "Psyshock"]
+        },
+        {
+          "name": "Zekrom",
+          "moves": ["Wild Charge", "Dragon Claw", "Crunch", "Giga Impact"]
+        },
+        {
+          "name": "Giratina",
+          "moves": ["Aura Sphere", "Calm Mind", "Iron Head", "Outrage"]
+        },
+        {
+          "name": "XD001",
+          "moves": ["Aeroblast", "Roost", "Calm Mind", "Psyshock"]
+        },
+        {
+          "name": "Yveltal",
+          "moves": ["Sucker Punch", "Dark Pulse", "Roost", "Acrobatics"]
+        }
+      ]
+    ],
+    "rewards": [
+      "$40000-60000",
+      "5x Rare Candy",
+      "Shed Shell",
+      "5x Revive",
+      "5x Hyper Potion",
+      "20x Ultra Ball",
+      "3x Air Balloon",
+      "3x Weakness Policy",
+      "Vullaby",
+      "Emolga",
+      "Tympole",
+      "Chespin",
+      "Shiny Gastly"
+    ],
+    "thirdRewards": ["Vullaby", "Emolga", "Tympole", "Chespin"]
+  },
+  {
+    "name": "Letrix",
+    "location": "Valley Windworks",
+    "region": "Sinnoh",
+    "reqs": ["Sinnoh champion"],
+    "cooldown": "12 days",
+    "teams": [
+      [
+        {
+          "name": "Togekiss",
+          "moves": [
+            "Air Slash",
+            "Flamethrower",
+            "Aura Sphere",
+            "Dazzling Gleam"
+          ]
+        },
+        {
+          "name": "Conkeldurr",
+          "moves": ["Drain Punch", "Knock Off", "Ice Punch", "Facade"]
+        },
+        {
+          "name": "Tyranitar",
+          "moves": ["Pursuit", "Stone Edge", "Fire Blast", "Ice Beam"]
+        },
+        {
+          "name": "Excadrill",
+          "moves": ["Earthquake", "Iron Head", "Rock Slide", "Rapid Spin"]
+        },
+        {
+          "name": "Nidoking",
+          "moves": ["Sludge Wave", "Ice Beam", "Earth Power", "Superpower"]
+        },
+        {
+          "name": "Kyogre",
+          "moves": ["Hydro Pump", "Ice Beam", "Thunder", "Calm Mind"]
+        }
+      ],
+      [
+        {
+          "name": "Togekiss",
+          "moves": [
+            "Air Slash",
+            "Flamethrower",
+            "Aura Sphere",
+            "Dazzling Gleam"
+          ]
+        },
+        {
+          "name": "Conkeldurr",
+          "moves": ["Drain Punch", "Knock Off", "Ice Punch", "Facade"]
+        },
+        {
+          "name": "Tyranitar",
+          "moves": ["Pursuit", "Stone Edge", "Fire Blast", "Ice Beam"]
+        },
+        {
+          "name": "Excadrill",
+          "moves": ["Earthquake", "Iron Head", "Rock Slide", "Rapid Spin"]
+        },
+        {
+          "name": "Hydreigon",
+          "moves": ["Dark Pulse", "Flash Cannon", "Draco Meteor", "Superpower"]
+        },
+        {
+          "name": "Kyogre",
+          "moves": ["Hydro Pump", "Ice Beam", "Thunder", "Calm Mind"]
+        }
+      ],
+      [
+        {
+          "name": "Togekiss",
+          "moves": [
+            "Air Slash",
+            "Flamethrower",
+            "Aura Sphere",
+            "Dazzling Gleam"
+          ]
+        },
+        {
+          "name": "Conkeldurr",
+          "moves": ["Drain Punch", "Knock Off", "Ice Punch", "Facade"]
+        },
+        {
+          "name": "Tyranitar",
+          "moves": ["Pursuit", "Stone Edge", "Fire Blast", "Ice Beam"]
+        },
+        {
+          "name": "Excadrill",
+          "moves": ["Earthquake", "Iron Head", "Rock Slide", "Rapid Spin"]
+        },
+        {
+          "name": "Nidoking",
+          "moves": ["Sludge Wave", "Ice Beam", "Earth Power", "Superpower"]
+        },
+        {
+          "name": "Kyogre",
+          "moves": ["Hydro Pump", "Ice Beam", "Thunder", "Calm Mind"]
+        }
+      ]
+    ],
+    "rewards": [
+      "$5000-40000",
+      "0-4x PVE Coins",
+      "Magikarp",
+      "Wailmer",
+      "Togepi",
+      "Solosis",
+      "Drilbur",
+      "7-20x Max Repel",
+      "2-8x Rare Candy",
+      "3-10x Focus Sash",
+      "4-13x Chople Berry",
+      "2-3x TM62 - Taunt"
+    ],
+    "thirdRewards": ["Drilbur", "Solosis", "Togepi"]
+  },
+  {
+    "name": "Link",
+    "location": "Twinleaf Town House 2",
+    "region": "Sinnoh",
+    "reqs": ["Sinnoh champion"],
+    "cooldown": "12 days",
+    "teams": [
+      [
+        {
+          "name": "Electrode",
+          "moves": ["Explosion", "Protect", "Signal Beam", "Taunt"]
+        },
+        {
+          "name": "Rapidash",
+          "moves": ["Megahorn", "Flamethrower", "Poison Jab", "Bounce"]
+        },
+        {
+          "name": "Aegislash",
+          "moves": ["Shadow Sneak", "Brick Break", "Iron Head", "Swords Dance"]
+        },
+        {
+          "name": "Bronzong",
+          "moves": ["Payback", "Earthquake", "Psychic", "Flash Cannon"]
+        },
+        {
+          "name": "Hitmontop",
+          "moves": ["Close Combat", "Rock Slide", "Aerial Ace", "Bulk Up"]
+        },
+        {
+          "name": "Mega Absol",
+          "moves": ["Shadow Ball", "Ice Beam", "Psycho Cut", "Night Slash"]
+        }
+      ]
+    ],
+    "rewards": [
+      "$12000-30000",
+      "5x Revival Herb",
+      "5x Focus Sash",
+      "10x Energy Roots",
+      "Shiny Voltorb",
+      "Shiny Ponyta",
+      "Hitmontop",
+      "Bronzor",
+      "Absol",
+      "Honedge"
+    ],
+    "thirdRewards": ["Bronzor", "Hitmontop", "Absol", "Honedge"]
+  },
+  {
+    "name": "Maribela",
+    "location": "Floaroma Meadow",
+    "region": "Sinnoh",
+    "reqs": ["6 level 100 pokemon"],
+    "cooldown": "12 days",
+    "teams": [
+      [
+        {
+          "name": "Sylveon",
+          "moves": ["Last Resort", "Psych Up", "Moonblast", "Light Screen"]
+        },
+        {
+          "name": "Xerneas",
+          "moves": ["Close Combat", "Outrage", "Giga Impact", "Nature Power"]
+        },
+        {
+          "name": "Delphox",
+          "moves": ["Fire Blast", "Future Sight", "Psychic", "Sunny Day"]
+        },
+        {
+          "name": "Keldeo",
+          "moves": ["Close Combat", "Hydro Pump", "Quick Guard", "Work Up"]
+        },
+        {
+          "name": "Volcarona",
+          "moves": ["Bug Buzz", "Hurricane", "Rage Power", "Heat Wave"]
+        },
+        {
+          "name": "Jellicent",
+          "moves": ["Water Spout", "Wring Out", "Hydro Pump", "Rain Dance"]
+        }
+      ]
+    ],
+    "rewards": [
+      "$12000-30000",
+      "5x Rare Candy",
+      "5x PP Up",
+      "5x Focus Sash",
+      "Fennekin",
+      "5x Pomeg Berry",
+      "5x Kelpsy Berry",
+      "5x Qualot Berry",
+      "5x Hondew Berry",
+      "5x Grepa Berry",
+      "5x Tomato Berry",
+      "Frillish",
+      "Eevee",
+      "Larvesta",
+      "Blue Punk Jacket if male",
+      "Silver Diva Dress if female"
+    ],
+    "thirdRewards": ["Fennekin", "Frillish", "Eevee", "Larvesta"]
+  },
+  {
+    "name": "MehCanMet",
+    "location": "Route 209",
+    "region": "Sinnoh",
+    "reqs": ["Sheer Force Pokemon in team"],
+    "cooldown": "Not rechallengable",
+    "teams": [
+      [
+        {
+          "name": "Feraligatr",
+          "moves": ["Waterfall", "Dragon Dance", "Crunch", "Ice Punch"]
+        },
+        {
+          "name": "Conkeldurr",
+          "moves": ["Poison Jab", "Rock Slide", "Drain Punch", "Bulldoze"]
+        },
+        {
+          "name": "Landorus",
+          "moves": ["Sludge Wave", "Rock Slide", "Iron Tail", "Earth Power"]
+        },
+        {
+          "name": "Steelix",
+          "moves": ["Rock Polish", "Iron Tail", "Rock Slide", "Crunch"]
+        },
+        {
+          "name": "Tauros",
+          "moves": ["Ice Beam", "Fire Blast", "Zen Headbutt", "Rock Climb"]
+        },
+        {
+          "name": "Druddigon",
+          "moves": ["Fire Punch", "Dragon Claw", "Rock Climb", "Sucker Punch"]
+        }
+      ]
+    ],
+    "rewards": ["Druddigon (Level 50)"],
+    "thirdRewards": []
+  },
+  {
+    "name": "Professor Rowan",
+    "location": "Jubilife Trainers School",
+    "region": "Sinnoh",
+    "reqs": ["Sinnoh champion", "50 Sinnoh owned pokemon"],
+    "cooldown": "12 days",
+    "teams": [
+      [
+        {
+          "name": "Torterra",
+          "moves": ["Wood Hammer", "Earthquake", "Stone Edge", "Seed Bomb"]
+        },
+        {
+          "name": "Empoleon",
+          "moves": ["Hydro Pump", "Ice Beam", "Grass Knot", "Toxic"]
+        },
+        {
+          "name": "Infernape",
+          "moves": ["Close Combat", "Flare Blitz", "Gunk Shot", "Grass Knot"]
+        },
+        {
+          "name": "Staraptor",
+          "moves": ["Brave Bird", "Double-Edge", "Close Combat", "Quick Attack"]
+        },
+        {
+          "name": "Gliscor",
+          "moves": ["Earthquake", "Ice Fang", "Facade", "Knock Off"]
+        },
+        {
+          "name": "Rotom",
+          "moves": ["Thunderbolt", "Shadow Ball", "Will-O-Wisp", "Defog"]
+        }
+      ],
+      [
+        {
+          "name": "Torterra",
+          "moves": ["Wood Hammer", "Earthquake", "Stone Edge", "Seed Bomb"]
+        },
+        {
+          "name": "Empoleon",
+          "moves": ["Hydro Pump", "Ice Beam", "Grass Knot", "Toxic"]
+        },
+        {
+          "name": "Infernape",
+          "moves": ["Close Combat", "Flare Blitz", "Gunk Shot", "Grass Knot"]
+        },
+        {
+          "name": "Staraptor",
+          "moves": ["Brave Bird", "Double-Edge", "Close Combat", "Quick Attack"]
+        },
+        {
+          "name": "Gliscor",
+          "moves": ["Earthquake", "Ice Fang", "Facade", "Knock Off"]
+        },
+        {
+          "name": "Rotom",
+          "moves": ["Thunderbolt", "Shadow Ball", "Will-O-Wisp", "Defog"]
+        }
+      ],
+      [
+        {
+          "name": "Torterra",
+          "moves": ["Wood Hammer", "Earthquake", "Stone Edge", "Seed Bomb"]
+        },
+        {
+          "name": "Empoleon",
+          "moves": ["Hydro Pump", "Ice Beam", "Grass Knot", "Toxic"]
+        },
+        {
+          "name": "Infernape",
+          "moves": ["Close Combat", "Flare Blitz", "Gunk Shot", "Grass Knot"]
+        },
+        {
+          "name": "Staraptor",
+          "moves": ["Brave Bird", "Double-Edge", "Close Combat", "Quick Attack"]
+        },
+        {
+          "name": "Gliscor",
+          "moves": ["Earthquake", "Ice Fang", "Facade", "Knock Off"]
+        },
+        {
+          "name": "Manaphy",
+          "moves": ["Surf", "Ice Beam", "Energy Ball", "Tail Glow"]
+        }
+      ]
+    ],
+    "rewards": [
+      "$5000-40000",
+      "0-4x PVE Coins",
+      "Starly",
+      "Shinx",
+      "Bronxor",
+      "Buneary",
+      "Gligar",
+      "Piplup",
+      "Chimchar",
+      "Turtwig",
+      "3-5x Revival Herb",
+      "2-10x Weakness Policy",
+      "3-10x Focus Sash",
+      "3-10x Rare Candy",
+      "5-10x Ultra Ball",
+      "Master Ball"
+    ],
+    "thirdRewards": ["Piplup", "Turtwig", "Chimchar"]
+  },
+  {
+    "name": "Saphirr",
+    "location": "Route 227",
+    "region": "Sinnoh",
+    "reqs": [
+      "At least one fire-type pokemon",
+      "Heatran quest completed",
+      "Rock Climb"
+    ],
+    "cooldown": "12 days",
+    "teams": [
+      [
+        {
+          "name": "Charizard",
+          "moves": ["Fire Blast", "Air Slash", "Focus Blast", "Roost"]
+        },
+        {
+          "name": "Torkoal",
+          "moves": ["Shell Smash", "Fire Blast", "Earth Power", "Yawn"]
+        },
+        {
+          "name": "Tangrowth",
+          "moves": ["Solar Beam", "Ancient Power", "Sludge Bomb", "Focus Blast"]
+        },
+        {
+          "name": "Chandelure",
+          "moves": ["Shadow Ball", "Energy Ball", "Calm Mind"]
+        },
+        {
+          "name": "Volcarona",
+          "moves": ["Fire Blast", "Giga Drain", "Bug Buzz", "Roost"]
+        },
+        {
+          "name": "Infernape",
+          "moves": ["Close Combat", "Grass Knot", "Fire Blast", "Earthquake"]
+        }
+      ],
+      [
+        {
+          "name": "Charizard",
+          "moves": ["Fire Blast", "Air Slash", "Focus Blast", "Roost"]
+        },
+        {
+          "name": "Torkoal",
+          "moves": ["Shell Smash", "Fire Blast", "Earth Power", "Yawn"]
+        },
+        {
+          "name": "Tangrowth",
+          "moves": ["Solar Beam", "Ancient Power", "Sludge Bomb", "Focus Blast"]
+        },
+        {
+          "name": "Chandelure",
+          "moves": ["Shadow Ball", "Energy Ball", "Calm Mind"]
+        },
+        {
+          "name": "Volcarona",
+          "moves": ["Fire Blast", "Giga Drain", "Bug Buzz", "Roost"]
+        },
+        {
+          "name": "Infernape",
+          "moves": ["Close Combat", "Grass Knot", "Fire Blast", "Earthquake"]
+        }
+      ],
+      [
+        {
+          "name": "Groudon",
+          "moves": ["Earthquake", "Stone Edge", "Fire Blast", "Dragon Tail"]
+        },
+        {
+          "name": "Garchomp",
+          "moves": ["Earthquake", "Outrage", "Fire Blast", "Stone Edge"]
+        },
+        {
+          "name": "Tangrowth",
+          "moves": ["Solar Beam", "Ancient Power", "Sludge Bomb", "Focus Blast"]
+        },
+        {
+          "name": "Torkoal",
+          "moves": ["Shell Smash", "Fire Blast", "Earth Power", "Yawn"]
+        },
+        {
+          "name": "Volcarona",
+          "moves": ["Fire Blast", "Giga Drain", "Bug Buzz", "Roost"]
+        },
+        {
+          "name": "Infernape",
+          "moves": ["Close Combat", "Grass Knot", "Fire Blast", "Earthquake"]
+        }
+      ]
+    ],
+    "rewards": [
+      "$5000-40000",
+      "0-4x PVE Coins",
+      "Vulpix",
+      "Darumaka",
+      "Growlithe",
+      "Larvesta",
+      "Fletchling",
+      "Charmander",
+      "Cyndaquil",
+      "Torchic",
+      "3-5x Revival Herb",
+      "2-10x Fire Gem",
+      "3-10x Focus Sash",
+      "3-10x Rare Candy",
+      "7-10x Yache Berry",
+      "1-2x Fire Stone"
+    ],
+    "thirdRewards": ["Larvesta", "Charmander", "Chimchar"]
+  },
+  {
+    "name": "Spectify",
+    "location": "Sandgem Town House",
+    "region": "Sinnoh",
+    "reqs": ["300 hours"],
+    "cooldown": "12 days",
+    "teams": [
+      [
+        {
+          "name": "Meganium",
+          "moves": ["Aromatherapy", "Synthesis", "Giga Drain", "Dragon Tail"]
+        },
+        {
+          "name": "Feraligatr",
+          "moves": ["Ice Punch", "Waterfall", "Swords Dance", "Aqua Jet"]
+        },
+        {
+          "name": "Espeon",
+          "moves": ["Confusion", "Future Sight", "Psychic", "Helping Hand"]
+        },
+        {
+          "name": "Umbreon",
+          "moves": ["Moonlight", "Toxic", "Psychic", "Dig"]
+        },
+        {
+          "name": "Ludicolo",
+          "moves": ["Leech Seed", "Giga Drain", "Ice Beam", "Hydro Pump"]
+        },
+        {
+          "name": "Mega Salamence",
+          "moves": ["Earthquake", "Fly", "Dragon Dance", "Dragon Claw"]
+        }
+      ]
+    ],
+    "rewards": [
+      "$15000-25000",
+      "5x Rare Candy",
+      "10x Revival Herb",
+      "3x Big Pearl",
+      "25x Ultra Ball",
+      "3x Nugget",
+      "Upgrade",
+      "Slakoth",
+      "Lapras",
+      "Plusle",
+      "Shiny Plusle"
+    ],
+    "thirdRewards": ["Torkoal", "Eevee", "Totodile", "Chikorita"]
+  },
+  {
+    "name": "Officer Jenny",
+    "location": "Pinkan Lighthouse 2F",
+    "region": "Other",
+    "reqs": ["400 hours playtime", "6 level 100 Pokemon"],
+    "cooldown": "12 days",
+    "teams": [
+      [
+        {
+          "name": "Arcanine",
+          "moves": ["Extreme speed", "Flare Blitz", "Crunch", "Wild Charge"]
+        },
+        {
+          "name": "Ariados",
+          "moves": ["Night Slash", "Fell Stinger", "Cross Poison", "Dig"]
+        },
+        {
+          "name": "Luxray",
+          "moves": ["Thunder", "Crunch", "Round", "Ice Fang"]
+        },
+        {
+          "name": "Manectric",
+          "moves": ["Wild Charge", "Crunch", "Ice Fang", "Extreme Speed"]
+        },
+        {
+          "name": "Swoobat",
+          "moves": ["Energy Ball", "Calm Mind", "Shadow Ball", "Air Slash"]
+        },
+        {
+          "name": "Clawitzer",
+          "moves": ["Dragon Pulse", "Aura Sphere", "Dark Pulse", "Water Pulse"]
+        }
+      ]
+    ],
+    "rewards": [
+      "$30000-35000",
+      "Sun Stone",
+      "Moon Stone",
+      "Dawn Stone",
+      "Shiny Stone",
+      "Electrizer",
+      "5x Air Balloons",
+      "Magmarizer",
+      "Rare Candies",
+      "(low chance) Shiny Spinarak",
+      "Woobat",
+      "(low chances) Security Cap and Security Uniform"
+    ],
+    "thirdRewards": ["Shellos", "Electrike", "Shinx", "Woobat", "Bergmite"]
+  },
+  {
+    "name": "Klohver",
+    "location": "Pinkan Island Meadow",
+    "region": "Other",
+    "reqs": ["Kanto champion"],
+    "cooldown": "12 days",
+    "teams": [
+      [
+        {
+          "name": "Xerneas",
+          "moves": ["Dazzling Gleam", "Megahorn", "Rock Slide", "Outrage"]
+        },
+        {
+          "name": "Shaymin-Sky",
+          "moves": ["Air Slash", "Air Slash", "Air Slash", "Air Slash"]
+        },
+        {
+          "name": "Meganium",
+          "moves": ["Petal Blizzard", "Dragon Tail", "Earthquake", "Synthesis"]
+        },
+        {
+          "name": "Lilligant",
+          "moves": ["Quiver Dance", "Petal Dance", "Sleep Powder", "Giga Drain"]
+        },
+        {
+          "name": "Gogoat",
+          "moves": ["Bulk Up", "Take Down", "Earthquake", "Seed Bomb"]
+        },
+        {
+          "name": "Vileplume",
+          "moves": ["Energy Ball", "Sludge Bomb", "Sunny Day", "Moonblast"]
+        }
+      ],
+      [
+        {
+          "name": "Xerneas",
+          "moves": ["Moonblast", "Thunder", "Rock Slide", "Close Combat"]
+        },
+        {
+          "name": "Shaymin-Sky",
+          "moves": ["Seed Flare", "Air Slash", "Earth Power", "Leech seed"]
+        },
+        {
+          "name": "Meganium",
+          "moves": ["Petal Blizzard", "Dragon Tail", "Earthquake", "Synthesis"]
+        },
+        {
+          "name": "Lilligant",
+          "moves": ["Quiver Dance", "Petal Dance", "Sleep Powder", "Giga Drain"]
+        },
+        {
+          "name": "Gogoat",
+          "moves": ["Horn Leech", "Rock Slide", "Return", "Earthquake"]
+        },
+        {
+          "name": "Vileplume",
+          "moves": ["Energy Ball", "Sludge Bomb", "Sunny Day", "Moonblast"]
+        }
+      ]
+    ],
+    "rewards": [
+      "$5000-40000",
+      "0-4x PVE Coins",
+      "5-10x Pomeg Berry",
+      "5-10x Kelpsy Berry",
+      "5-10x Qualot Berry",
+      "5-10x Grepa Berry",
+      "5-10 Tamato Berry",
+      "5-10x Rare Candy",
+      "Oddish",
+      "Petilil",
+      "Skiddo"
+    ],
+    "thirdRewards": ["Petilil", "Skiddo", "Chikorita", "Bulbasaur"]
+  },
+  {
+    "name": "PreHax",
+    "location": "Munchlax Resort House 1",
+    "region": "Other",
+    "reqs": ["Must have only 2 Pokemon in team", "all fighting moves banned"],
+    "cooldown": "12 days",
+    "teams": [
+      [
+        {
+          "name": "Munchlax",
+          "moves": ["Tackle", "Double-Edge", "Body Slam", "Rest"]
+        },
+        {
+          "name": "Munchlax",
+          "moves": ["Stockpile", "Counter", "Rock Slide", "Zen Headbutt"]
+        },
+        {
+          "name": "Munchlax",
+          "moves": ["Earthquake", "Body Slam", "Brick Break", "Whirlwind"]
+        },
+        {
+          "name": "Munchlax",
+          "moves": ["Flamethrower", "Ice Beam", "Thunderbolt", "Psychic"]
+        }
+      ]
+    ],
+    "rewards": [
+      "$10000-20000",
+      "2x Pomeg Berry",
+      "2x Kelpsy Berry",
+      "2x Qualot Berry",
+      "2x Hondew Berry",
+      "2x Grepa Berry",
+      "2x Tamato Berry",
+      "Silk Scarf",
+      "Choice Specs",
+      "Leftovers",
+      "Eviolite"
+    ],
+    "thirdRewards": ["Munchlax"]
+  },
+  {
+    "name": "Tigerous",
+    "location": "Eumi Island Theme Park 2",
+    "region": "Other",
+    "reqs": ["Hoenn champion"],
+    "cooldown": "12 days",
+    "teams": [
+      [
+        {
+          "name": "Salamance",
+          "moves": ["Dragon Dance", "Dragon Claw", "Fire Fang", "Earthquake"]
+        },
+        {
+          "name": "Keldeo",
+          "moves": ["Surf", "Focus Blast", "Icy Wind", "Calm Mind"]
+        },
+        {
+          "name": "Dragonite",
+          "moves": ["Fire Punch", "Dragon Claw", "Thunder Punch", "Waterfall"]
+        },
+        {
+          "name": "Jirachi",
+          "moves": ["Iron Head", "Thunder Punch", "Aerial Ace", "Fire Punch"]
+        },
+        {
+          "name": "Tyranitar",
+          "moves": ["Rock Slide", "Crunch", "Superpower", "Earthquake"]
+        },
+        {
+          "name": "Conkeldurr",
+          "moves": ["Hammer Arm", "Facade", "Knock Off", "Ice Punch"]
+        }
+      ],
+      [
+        {
+          "name": "Salamance",
+          "moves": ["Dragon Dance", "Outrage", "Fire Blast", "Iron Tail"]
+        },
+        {
+          "name": "Keldeo",
+          "moves": ["Hydro Pump", "Secret Sword", "Icy Wind", "Secret Sword"]
+        },
+        {
+          "name": "Dragonite",
+          "moves": ["Dragon Dance", "Dragon Claw", "Extreme Speed", "Waterfall"]
+        },
+        {
+          "name": "Jirachi",
+          "moves": ["Iron Head", "Zen Headbutt", "Ice Punch", "Fire Punch"]
+        },
+        {
+          "name": "Tyranitar",
+          "moves": ["Stone Edge", "Crunch", "Superpower", "Fire Punch"]
+        },
+        {
+          "name": "Conkeldurr",
+          "moves": ["Drain Punch", "Facade", "Knock Off", "Ice Punch"]
+        }
+      ]
+    ],
+    "rewards": [
+      "$5000-40000",
+      "0-4x PVE Coins",
+      "4-6x Rare Candy",
+      "15-20x Focus Sash",
+      "Starly",
+      "Klefki",
+      "Relicanth",
+      "Rotom"
+    ],
+    "thirdRewards": ["Klefki", "Relicanth", "Rotom"]
+  }
+]

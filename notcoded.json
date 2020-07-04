@@ -1,0 +1,346 @@
+[
+  {
+    "move": "Baton Pass + Prankster",
+    "desc": "doesn't gain priority",
+    "type": 1
+  },
+  { "move": "Baton Pass + Coil", "desc": "does not pass accuracy", "type": 1 },
+  {
+    "move": "Belch",
+    "desc": "Even without eating a berry, this move still can be used.",
+    "type": 1
+  },
+  {
+    "move": "Bug Bite",
+    "desc": "Fails to eat the other pokes berry.",
+    "type": 1
+  },
+  {
+    "move": "Bulldoze + Sheer Force ability",
+    "desc": "Fails to get the sheer force power boost.",
+    "type": 1
+  },
+  { "move": "Chatter", "desc": "Does not confuse the target.", "type": 1 },
+  {
+    "move": "Chip Away",
+    "desc": "Special effect does not work (It's supposed to ignore enemy stat change, raising def still lowers its attack).",
+    "type": 1
+  },
+  { "move": "Clear Smog", "desc": "works against Steel-types", "type": 1 },
+  {
+    "move": "Counter",
+    "desc": "Wrong dmg calculation if used from Pokémon with a lower level than the attacker",
+    "type": 1
+  },
+  {
+    "move": "Detect",
+    "desc": "Two turn moves can inflict secondary effects.",
+    "type": 1
+  },
+  { "move": "Dive", "desc": "Ignores Water Absorb", "type": 1 },
+  { "move": "Doom Desire", "desc": "Doesn't have charge up turns.", "type": 1 },
+  {
+    "move": "Draining Kiss",
+    "desc": "Doesn't restore Health Points.",
+    "type": 1
+  },
+  {
+    "move": "Endure",
+    "desc": "Works every time it is used. Supposed to have a chance of failure if used in succession.",
+    "type": 1
+  },
+  {
+    "move": "Explosion",
+    "desc": "is supposed to break Pokemon's Sturdy ability, but not break Focus Sash. Currently can KO enemy user if they have Sturdy or Focus Sash.",
+    "type": 1
+  },
+  {
+    "move": "Fake Out",
+    "desc": "Doesn't work when the Pokemon with fake out is switched in with a move like Volt Switch, roar, dragon tail, etc.",
+    "type": 1
+  },
+  { "move": "Flare Blitz", "desc": "Does not thaw a frozen user.", "type": 1 },
+  {
+    "move": "Fly + Gale Wings",
+    "desc": "Fly gets priority in its first phase and looses this priority in its second phase.",
+    "type": 1
+  },
+  {
+    "move": "Last Resort",
+    "desc": "Doesn't have a restriction of being used.",
+    "type": 1
+  },
+  {
+    "move": "Healing Wish",
+    "desc": "Faints the user, but doesn't heal the next incoming Pokémon.",
+    "type": 1
+  },
+  {
+    "move": "Minimize",
+    "desc": "Doesn't have the correct evasion+, it raises by 1 instead of 2.",
+    "type": 1
+  },
+  {
+    "move": "Natural Gift",
+    "desc": "Deals damage without consuming any berry at all.",
+    "type": 1
+  },
+  {
+    "move": "Outrage",
+    "desc": "Still can hit up to 4 times when it should only be 3.",
+    "type": 1
+  },
+  { "move": "Parabolic Charge", "desc": "Doesn't restore HP", "type": 1 },
+  {
+    "move": "Protect",
+    "desc": "Doesn't work against multi-turn attacks (Bounce, Fly..) and it failing doesn't reset the consecutive Protect usage-counter.",
+    "type": 1
+  },
+  {
+    "move": "Razor Wind",
+    "desc": "Doesn't have a charge up round.",
+    "type": 1
+  },
+  {
+    "move": "Return",
+    "desc": "Suppose to increase power with more happiness.",
+    "type": 1
+  },
+  {
+    "move": "Sleep Talk",
+    "desc": "Doesn't consume PP if you use it whilst awake. Also leaves no message in the battle.",
+    "type": 1
+  },
+  {
+    "move": "Sleep Talk + Sucker Punch",
+    "desc": "When using Sucker Punch on a sleeping poke, it fails all the time. Also when the user is waking up that turn and is picking a attacking move.",
+    "type": 1
+  },
+  {
+    "move": "Smack Down",
+    "desc": "Doesn’t bring enemy Pokemon down.",
+    "type": 1
+  },
+  { "move": "Stockpile", "desc": "Can be used more than 3 times.", "type": 1 },
+  {
+    "move": "Stored Power",
+    "desc": "always has 20 Base Power, does not matter how many boosts you have",
+    "type": 1
+  },
+  {
+    "move": "Storm Throw",
+    "desc": "doesn't have a guarenteed critical hit chance",
+    "type": 1
+  },
+  {
+    "move": "Synchronize",
+    "desc": "Sometimes fails to pass status to the enemy Pokemon.",
+    "type": 1
+  },
+  {
+    "move": "Taunt",
+    "desc": "Able to press status moves while taunted even though you should only be able to attack.",
+    "type": 1
+  },
+  {
+    "move": "U-turn",
+    "desc": "Cannot use the move if the user has no other Pokémon to swap to. Cannot choose the Pokémon swapping in after the move was casted, happens before.",
+    "type": 1
+  },
+  {
+    "move": "Volt Switch",
+    "desc": "Cannot use the move if the user has no other Pokémon to swap to. Cannot choose the Pokémon swapping in after the move was casted, happens before.",
+    "type": 1
+  },
+  {
+    "move": "Wonder Guard + Focus Sash",
+    "desc": "Spikes/Stealth Rocks don't break the Focus Sash",
+    "type": 1
+  },
+  {
+    "move": "Struggle Bug",
+    "desc": "Doesn't lower the special attack of the enemy Pokémon.",
+    "type": 1
+  },
+  { "move": "Attract", "gen": 6, "type": 0 },
+  { "move": "Bestow", "gen": 6, "type": 0 },
+  { "move": "Bide", "gen": 6, "type": 0 },
+  { "move": "Block", "gen": 6, "type": 0 },
+  { "move": "Camoulage", "gen": 6, "type": 0 },
+  { "move": "Captivate", "gen": 6, "type": 0 },
+  { "move": "Conversion", "gen": 6, "type": 0 },
+  { "move": "Conversion 2", "gen": 6, "type": 0 },
+  { "move": "Echoed Voice", "gen": 6, "type": 0 },
+  { "move": "Entrainment", "gen": 6, "type": 0 },
+  { "move": "Fiery Dance", "gen": 6, "type": 0 },
+  { "move": "Foresight", "gen": 6, "type": 0 },
+  { "move": "Gastro Acid", "gen": 6, "type": 0 },
+  { "move": "Gravity", "gen": 6, "type": 0 },
+  { "move": "Grudge", "gen": 6, "type": 0 },
+  { "move": "Heal Pulse", "gen": 6, "type": 0 },
+  { "move": "Heart Stamp", "gen": 6, "type": 0 },
+  { "move": "Hone Claws", "gen": 6, "type": 0 },
+  { "move": "Ingrain", "gen": 6, "type": 0 },
+  { "move": "Kings Shield", "gen": 6, "type": 0 },
+  { "move": "Lock-On", "gen": 6, "type": 0 },
+  { "move": "Magic Coat", "gen": 6, "type": 0 },
+  { "move": "Me First", "gen": 6, "type": 0 },
+  { "move": "Metronome", "gen": 6, "type": 0 },
+  { "move": "Mimic", "gen": 6, "type": 0 },
+  { "move": "Mirror Move", "gen": 6, "type": 0 },
+  { "move": "Mud Sport", "gen": 6, "type": 0 },
+  { "move": "Nature Power", "gen": 6, "type": 0 },
+  { "move": "Nightmare", "gen": 6, "type": 0 },
+  { "move": "Odor Sleuth", "gen": 6, "type": 0 },
+  { "move": "Parting Shot", "gen": 6, "type": 0 },
+  { "move": "Power Split", "gen": 6, "type": 0 },
+  { "move": "Power Swap", "gen": 6, "type": 0 },
+  { "move": "Power Trick", "gen": 6, "type": 0 },
+  { "move": "Rage Powder", "gen": 6, "type": 0 },
+  { "move": "Recycle", "gen": 6, "type": 0 },
+  { "move": "Reflect Type", "gen": 6, "type": 0 },
+  { "move": "Retaliate", "gen": 6, "type": 0 },
+  { "move": "Safeguard", "gen": 6, "type": 0 },
+  { "move": "Snatch", "gen": 6, "type": 0 },
+  { "move": "Substitute", "gen": 6, "type": 0 },
+  { "move": "Swallow", "gen": 6, "type": 0 },
+  { "move": "Thousand Arrows", "gen": 6, "type": 0 },
+  { "move": "Transform", "gen": 6, "type": 0 },
+  { "move": "Uproar", "gen": 6, "type": 0 },
+  { "move": "Water Sport", "gen": 6, "type": 0 },
+  { "move": "Anchor Shot", "gen": 7, "type": 0 },
+  { "move": "Aurora Veil", "gen": 7, "type": 0 },
+  { "move": "Baneful Bunker", "gen": 7, "type": 0 },
+  { "move": "Beak Blast", "gen": 7, "type": 0 },
+  { "move": "Core Enforcer", "gen": 7, "type": 0 },
+  { "move": "Darkest Lariat", "gen": 7, "type": 0 },
+  { "move": "Electric Terrain", "gen": 7, "type": 0 },
+  { "move": "First Impression", "gen": 7, "type": 0 },
+  { "move": "Floral Healing", "gen": 7, "type": 0 },
+  { "move": "Gear Up", "gen": 7, "type": 0 },
+  { "move": "Grassy Terrain", "gen": 7, "type": 0 },
+  { "move": "High Horsepower", "gen": 7, "type": 0 },
+  { "move": "Ice Hammer", "gen": 7, "type": 0 },
+  { "move": "Instruct", "gen": 7, "type": 0 },
+  { "move": "Laser Focus", "gen": 7, "type": 0 },
+  { "move": "Leafage", "gen": 7, "type": 0 },
+  { "move": "Mind Blown", "gen": 7, "type": 0 },
+  { "move": "Misty Terrain", "gen": 7, "type": 0 },
+  { "move": "Moongeist Beam", "gen": 7, "type": 0 },
+  { "move": "Multi-Attack", "gen": 7, "type": 0 },
+  { "move": "Photon Geyser", "gen": 7, "type": 0 },
+  { "move": "Plasma Fists", "gen": 7, "type": 0 },
+  { "move": "Pollen Puff", "gen": 7, "type": 0 },
+  { "move": "Power Trip", "gen": 7, "type": 0 },
+  { "move": "Psychic Terrain", "gen": 7, "type": 0 },
+  { "move": "Purify", "gen": 7, "type": 0 },
+  { "move": "Revelation Dance", "gen": 7, "type": 0 },
+  { "move": "Shell Trap", "gen": 7, "type": 0 },
+  { "move": "Shore Up", "gen": 7, "type": 0 },
+  { "move": "Sparkling Aria", "gen": 7, "type": 0 },
+  { "move": "Spectral Thief", "gen": 7, "type": 0 },
+  { "move": "Speed Swap", "gen": 7, "type": 0 },
+  { "move": "Spirit Shackle", "gen": 7, "type": 0 },
+  { "move": "Spotlight", "gen": 7, "type": 0 },
+  { "move": "Stomping Tantrum", "gen": 7, "type": 0 },
+  { "move": "Strength Sap", "gen": 7, "type": 0 },
+  { "move": "Sunsteel Strike", "gen": 7, "type": 0 },
+  { "move": "Tearful Look", "gen": 7, "type": 0 },
+  { "move": "Throat Chop", "gen": 7, "type": 0 },
+  {
+    "ability": "Competitive",
+    "desc": "(Only works with actual stat-dropping moves. Statuses don't count).",
+    "type": 1
+  },
+  {
+    "ability": "Flash Fire",
+    "desc": "Doesn't get a boost for Fire-type attacks when hit by a Fire-type move.",
+    "type": 1
+  },
+  {
+    "ability": "Water Absorb",
+    "desc": "Life Orb makes you take damage even if you heal your opponent with a water move on Water Absorb.",
+    "type": 1
+  },
+  {
+    "ability": "Weather Abilities",
+    "desc": "(The faster Pokemon's weather will take place, instead of the slower's, if placed on the field at same time).",
+    "type": 1
+  },
+  { "ability": "Air Lock", "gen": 6, "type": 0 },
+  { "ability": "Aura Break", "gen": 6, "type": 0 },
+  { "ability": "Color Change", "gen": 6, "type": 0 },
+  { "ability": "Cute Charm", "gen": 6, "type": 0 },
+  { "ability": "Dark Aura", "gen": 6, "type": 0 },
+  { "ability": "Defeatist", "gen": 6, "type": 0 },
+  { "ability": "Fairy Aura", "gen": 6, "type": 0 },
+  { "ability": "Flower Gift", "gen": 6, "type": 0 },
+  { "ability": "Flower Veil", "gen": 6, "type": 0 },
+  { "ability": "Forecast", "gen": 6, "type": 0 },
+  { "ability": "Friend Guard", "gen": 6, "type": 0 },
+  { "ability": "Fur Coat", "gen": 6, "type": 0 },
+  { "ability": "Gluttony", "gen": 6, "type": 0 },
+  { "ability": "Grass Pelt", "gen": 6, "type": 0 },
+  { "ability": "Harvest", "gen": 6, "type": 0 },
+  { "ability": "Honey Gather", "gen": 6, "type": 0 },
+  { "ability": "Hustle", "gen": 6, "type": 0 },
+  { "ability": "Ice Body", "gen": 6, "type": 0 },
+  { "ability": "Illuminate", "gen": 6, "type": 0 },
+  { "ability": "Illusion", "gen": 6, "type": 0 },
+  { "ability": "Imposter", "gen": 6, "type": 0 },
+  { "ability": "Klutz", "gen": 6, "type": 0 },
+  { "ability": "Minus", "gen": 6, "type": 0 },
+  { "ability": "Moody", "gen": 6, "type": 0 },
+  { "ability": "Multitype", "gen": 6, "type": 0 },
+  { "ability": "Plus", "gen": 6, "type": 0 },
+  { "ability": "Refrigerate", "gen": 6, "type": 0 },
+  { "ability": "Slow Start", "gen": 6, "type": 0 },
+  { "ability": "Solid Rock", "gen": 6, "type": 0 },
+  { "ability": "Stance Change", "gen": 6, "type": 0 },
+  { "ability": "Simple", "gen": 6, "type": 0 },
+  { "ability": "Symbiosis", "gen": 6, "type": 0 },
+  { "ability": "Telepathy", "gen": 6, "type": 0 },
+  { "ability": "Teravolt", "gen": 6, "type": 0 },
+  { "ability": "Turboblaze", "gen": 6, "type": 0 },
+  { "ability": "Victory Star", "gen": 6, "type": 0 },
+  { "ability": "Zen Mode", "gen": 6, "type": 0 },
+  { "ability": "Battery", "gen": 7, "type": 0 },
+  { "ability": "Battle Bond", "gen": 7, "type": 0 },
+  { "ability": "Beast Boost", "gen": 7, "type": 0 },
+  { "ability": "Berserk", "gen": 7, "type": 0 },
+  { "ability": "Comatose", "gen": 7, "type": 0 },
+  { "ability": "Dazzling", "gen": 7, "type": 0 },
+  { "ability": "Disguise", "gen": 7, "type": 0 },
+  { "ability": "Electric Surge", "gen": 7, "type": 0 },
+  { "ability": "Emergency Exit", "gen": 7, "type": 0 },
+  { "ability": "Fluffy", "gen": 7, "type": 0 },
+  { "ability": "Full Metal Body", "gen": 7, "type": 0 },
+  { "ability": "Galvanize", "gen": 7, "type": 0 },
+  { "ability": "Grassy Surge", "gen": 7, "type": 0 },
+  { "ability": "Innards Out", "gen": 7, "type": 0 },
+  { "ability": "Liquid Voice", "gen": 7, "type": 0 },
+  { "ability": "Long Reach", "gen": 7, "type": 0 },
+  { "ability": "Merciless", "gen": 7, "type": 0 },
+  { "ability": "Misty Surge", "gen": 7, "type": 0 },
+  { "ability": "Neuroforce", "gen": 7, "type": 0 },
+  { "ability": "Power Construct", "gen": 7, "type": 0 },
+  { "ability": "Power of Alchemy", "gen": 7, "type": 0 },
+  { "ability": "Prism Armor", "gen": 7, "type": 0 },
+  { "ability": "Psychic Surge", "gen": 7, "type": 0 },
+  { "ability": "Queenly Majesty", "gen": 7, "type": 0 },
+  { "ability": "Receiver", "gen": 7, "type": 0 },
+  { "ability": "RKS System", "gen": 7, "type": 0 },
+  { "ability": "Schooling", "gen": 7, "type": 0 },
+  { "ability": "Shadow Shield", "gen": 7, "type": 0 },
+  { "ability": "Shields Down", "gen": 7, "type": 0 },
+  { "ability": "Soul Heart", "gen": 7, "type": 0 },
+  { "ability": "Stakeout", "gen": 7, "type": 0 },
+  { "ability": "Stamina", "gen": 7, "type": 0 },
+  { "ability": "Steelworker", "gen": 7, "type": 0 },
+  { "ability": "Surge Surfer", "gen": 7, "type": 0 },
+  { "ability": "Tangling Hair", "gen": 7, "type": 0 },
+  { "ability": "Triage", "gen": 7, "type": 0 },
+  { "ability": "Water Bubble", "gen": 7, "type": 0 },
+  { "ability": "Water Compaction", "gen": 7, "type": 0 },
+  { "ability": "Wimp Out", "gen": 7, "type": 0 }
+]

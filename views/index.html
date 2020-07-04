@@ -1,0 +1,235 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <title>PRO Map - Spawn Explorer</title>
+    <meta name="title" content="PRO Map - Spawn Explorer" />
+    <meta name="theme-color" content="#00adb5" />
+    <meta name="og:site_name" content="PRO Map" />
+    <meta name="og:title" content="PRO Map - Spawn Explorer" />
+    <meta
+      name="og:image"
+      content="https://cdn.discordapp.com/emojis/696941497794428948.png?v=1"
+    />
+    <meta
+      name="og:description"
+      content="An easy to use, advanced interactive map, which helps you explore the world of PRO more efficiently with reliable and real time spawn data, and embedded locations on the map."
+    />
+    <meta
+      name="description"
+      content="An easy to use, advanced interactive map, which helps you explore the world of PRO more efficiently with reliable and real time spawn data, and embedded locations on the map."
+    />
+    <link
+      rel="icon"
+      href="https://cdn.discordapp.com/emojis/696941497794428948.png?v=1"
+    />
+    <script src="https://cdn.jsdelivr.net/npm/jquery@3.5.0/dist/jquery.min.js"></script>
+    <link rel="stylesheet" href="/style.css" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap"
+      rel="stylesheet"
+    />
+    <link href="/main.css" rel="stylesheet" />
+  </head>
+
+  <body>
+    <div id="app">
+      <div id="nav">
+        <button
+          id="btn-map"
+          class="active pt"
+          onclick="changeTab('map')"
+          style="border-radius: 0px 0px 0px 20px;"
+        >
+          Map
+        </button>
+        <button class="pt" id="btn-options" onclick="changeTab('options')">
+          Select
+        </button>
+        <button
+          id="btn-about"
+          class="pt"
+          onclick="changeTab('about')"
+          style="border-radius: 0px 0px 20px 0px;"
+        >
+          About
+        </button>
+      </div>
+      <div id="map" class="tab-pane" style="z-index: 2;">
+        <div id="map-cont">
+          <div
+            id="map-inner-cont"
+            style="border-radius:10px;position: absolute; left:1%; top: 5%; height: 90%; width: 48%; overflow: auto;"
+          >
+            <img
+              src="/map.png"
+              style="position:absolute;left:0px;top:0px;"
+              alt="PRO MAP LOADING FAILED"
+              id="map-img"
+                 draggable="false"
+            />
+            <div id="spots"></div>
+          </div>
+          <div
+            id="data"
+            style="border-radius:10px; height: 90%; border: solid 1px var(--col-cyan);width: 48%; position:absolute;left:51%;top:5%;"
+          >
+            <div
+              id="inner-data"
+              style="max-height: 90%; overflow-y: auto; word-wrap: break-word;background-color: var(--col-dgrey); color:white; padding: 10px; margin: 10px; border-radius: 10px;"
+            >
+              No Pokémon/Location Selected.
+            </div>
+            <span id="poke"></span>
+          </div>
+        </div>
+      </div>
+      <div id="options" class="tab-pane" style="z-index: -1;">
+        <div
+          id="opts"
+          style="margin: 10px; padding: 10px; background-color: var(--col-dgrey); border-radius: 10px; text-align: center;"
+        >
+          <h2>
+            Mode
+          </h2>
+          <button
+            onclick="setMode('poke')"
+            id="btn-poke"
+            style="margin: 5px; border-radius: 10px 0px 0px 10px; font-size: 19px; padding: 5px; width: 120px; background-color: var(--col-dark); color: white;  border: solid 1px var(--col-cyan);"
+          >
+            By Pokemon
+          </button>
+          <button
+            onclick="setMode('loc')"
+            id="btn-loc"
+            style="margin: 5px; border-radius: 0px 10px 10px 0px; font-size: 19px; padding: 5px; width: 120px; background-color: var(--col-dark); color: white; border: solid 1px var(--col-cyan);"
+          >
+            By Location
+          </button>
+          <h2>
+            Selection
+          </h2>
+          <select
+            id="selection"
+            style="margin: 5px; background-color: var(--col-dark); color:white; border-radius: 10px; border: solid 1px var(--col-cyan); font-size: 19px; text-align: center;"
+            onchange="setPokemon()"
+          >
+          </select>
+          <span
+            id="locsel"
+            style="display: none;margin: 5px; background-color: var(--col-dark); color:white; border-radius: 10px; border: solid 1px var(--col-cyan); font-size: 19px; text-align: center; padding: 5px;"
+            >Not selected.
+            <a
+              href="javascript:void(0);"
+              onclick="changeTab('map')"
+              style="color:var(--col-cyan);"
+              >Click here to navigate to map.</a
+            ></span
+          >
+          <div
+            id="search-div"
+            style="border:solid 1px var(--col-cyan);margin: 10px;padding: 10px;border-radius:10px;background-color:var(--col-dark);"
+          >
+            <div style="justify-content:center;">
+              <form id="form">
+                <input
+                  id="search"
+                  placeholder="Search..."
+                  style="padding: 5px;font-size: 115%; border-radius: 5px 0px 0px 5px; border: solid 1px var(--col-cyan); background-color:var(--col-dgrey); color: var(--col-cyan); width: calc(70% - 10px);"
+                />
+                <input
+                  type="submit"
+                  onclick="search()"
+                  onsubmit="search()"
+                  id="search-btn"
+                  style="width: calc(30% - 10px);font-size:115%; padding: 5px; border-radius: 0px 5px 5px 0px; border: solid 1px var(--col-cyan); background-color:var(--col-dgrey); color: var(--col-cyan);"
+                  value="Search"
+                />
+              </form>
+            </div>
+            <div
+              id="search-data"
+              style="background-color: var(--col-dgrey); margin: 10px; padding: 10px; border-radius: 10px; color:white;"
+            >
+              <i>When the silence begins...</i>
+            </div>
+          </div>
+          <br />
+        </div>
+      </div>
+      <div id="about" class="tab-pane" style="z-index: -1;">
+        <div
+          id="inner-about"
+          style="background-color: var(--col-dgrey); color:white; margin: 10px; border-radius: 10px; padding: 20px;"
+        >
+          <div
+            id="about-app"
+            style="font-size: 20px; background-color: var(--col-dark); color:var(--col-cyan);margin: 10px; padding: 10px; border-radius: 10px;"
+          >
+            PRO Map is an advanced, free to use client that provides an
+            interactive map with spawn exploring. Search by clicking any
+            location on map, or select a Pokémon.
+          </div>
+          <h2>
+            Developers
+          </h2>
+          <div
+            id="about-devs"
+            style="font-size: 20px; background-color: var(--col-dark); color:var(--col-cyan);margin: 10px; padding: 10px; border-radius: 10px;"
+          >
+            <ul>
+              <li>DjDeveloper</li>
+              <li>Scara</li>
+            </ul>
+          </div>
+          <h2>
+            Links
+          </h2>
+          <div
+            id="about-links"
+            style="font-size: 20px; background-color: var(--col-dark); color:var(--col-cyan);margin: 10px; padding: 10px; border-radius: 10px;"
+          >
+            <ul>
+              <li>
+                <a
+                  href="https://pokemonrevolution.net/forum/index.php?threads/tool-pro-map-spawn-explorer-by-me-djdeveloper-and-scara.147627/"
+                  >Forums</a
+                >
+              </li>
+              <li><a href="https://promap.djdev.tech">App</a></li>
+            </ul>
+          </div>
+          <div
+            id="about-changes"
+            style="font-size: 20px; background-color: var(--col-dark); color:var(--col-cyan);margin: 10px; padding: 10px; border-radius: 10px;"
+          >
+            <h3>
+              Changelog 2.3.0
+            </h3>
+            <ul>
+              <li>Added links to path <a href="https://promap.djdev.tech/p/">/p/</a>, and contains all useful links! For example, <a href="https://promap.djdev.tech/p/pvpguide">/p/pvpguide</a></li>
+              <li>Improved performance</li>
+            </ul>
+          </div>
+          <div
+            id="about-footer"
+            style="text-align: center; font-size: 16px; background-color: var(--col-dark); color:var(--col-cyan);margin: 10px; padding: 10px; border-radius: 10px;"
+          >
+            &copy; Copyright @ 2020 | All Rights Reserved | DjDeveloper & Scara
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      id="loading"
+      style="background-color:var(--col-dark);color:var(--col-cyan)"
+    >
+      <div id="circle"></div>
+    </div>
+    <script src="/load.js">
+      
+    </script>
+    <script src="/main.js"></script>
+  </body>
+</html>
