@@ -6,4 +6,4 @@ An easy to use, spawn data explorer made for Pokémon Revolution Online, MMORPG,
 * Scara
 
 ## !! Important !!
-If you want to use this project's code, feel free to. BUT you will have to credit us. You may use this code in any form, but without any commercial benefit. 
+If you wish to use this project's code, please credit us. You are free to use this code in any non-commercial manner, but please be aware that it is not currently being maintained and no updates are planned. If you would like to make updates, please fork the project and create your own version.
